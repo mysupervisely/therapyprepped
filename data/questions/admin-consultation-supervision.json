@@ -1,0 +1,114 @@
+[
+  {
+    "id": "acs-q1",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A client discloses in session that they intend to seriously harm a specific coworker and describes a detailed plan involving a weapon they own. What is the counselor's most appropriate first action under Tarasoff?",
+    "choices": [
+      { "id": "a", "text": "Maintain confidentiality since the threat was disclosed in a therapeutic context" },
+      { "id": "b", "text": "Conduct a thorough homicide risk assessment and consult with a supervisor immediately" },
+      { "id": "c", "text": "Wait until the next session to reassess before taking any action" },
+      { "id": "d", "text": "Contact the coworker directly without any further assessment" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The first step in a Tarasoff-triggering situation is a thorough risk assessment (specificity, plan, means, intent, history) combined with immediate supervisor consultation, before determining the proportionate protective action (warning, police notification, hospitalization)."
+  },
+  {
+    "id": "acs-q2",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A counselor receives a subpoena from an attorney requesting a client's complete treatment record for an unrelated custody dispute. What is the counselor's most appropriate first step?",
+    "choices": [
+      { "id": "a", "text": "Release the full record immediately since a subpoena is a legal document" },
+      { "id": "b", "text": "Notify the client, discuss their wishes, and consult an attorney before releasing anything" },
+      { "id": "c", "text": "Ignore the subpoena since it did not come from a judge" },
+      { "id": "d", "text": "Release only the diagnosis and withhold session notes without consulting the client" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A subpoena is a request, not a court order, and does not compel immediate compliance. The counselor should notify the client, discuss their wishes, and consult an attorney — the client's privilege may still be assertable."
+  },
+  {
+    "id": "acs-q3",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A counselor learns during a session that a client's 8-year-old child has unexplained, patterned bruising consistent with physical abuse. The client asks the counselor to keep this information private. What governs the counselor's response?",
+    "choices": [
+      { "id": "a", "text": "Confidentiality is absolute and must be maintained regardless of the disclosure" },
+      { "id": "b", "text": "Mandatory reporting laws require the counselor to report the reasonable suspicion of abuse" },
+      { "id": "c", "text": "The counselor should investigate further before deciding whether to report" },
+      { "id": "d", "text": "The counselor should only report if the client consents" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Mental health counselors are mandated reporters in all states, and the threshold is reasonable suspicion, not certainty or client consent. Counselors do not investigate — they report."
+  },
+  {
+    "id": "acs-q4",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A counselor practicing in a small rural town discovers a new client is the spouse of their own physician, and the nearest alternative provider is over an hour away. According to the ACA Code, what is the most appropriate course of action?",
+    "choices": [
+      { "id": "a", "text": "Automatically decline to see the client due to the dual relationship" },
+      { "id": "b", "text": "Proceed without any special consideration since both parties agreed" },
+      { "id": "c", "text": "Acknowledge the relationship openly, discuss it with the client, consult a supervisor, and document a plan to manage potential complications" },
+      { "id": "d", "text": "See the client but avoid documenting the relationship to prevent complications" }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "ACA Code A.6.e explicitly acknowledges unavoidable multiple relationships in small or rural communities. The ethical response is not automatic refusal but transparency, discussion, consultation, and careful documentation."
+  },
+  {
+    "id": "acs-q5",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A supervisor notices a supervisee has been documenting sessions in a disorganized way and has arrived to work smelling faintly of alcohol on several occasions. What is the supervisor's primary ethical obligation?",
+    "choices": [
+      { "id": "a", "text": "Wait to see if the pattern continues before taking any action" },
+      { "id": "b", "text": "Address the concern directly and confidentially with the supervisee, assess client safety, and implement a remediation plan while monitoring closely" },
+      { "id": "c", "text": "Report the supervisee to the licensing board immediately without speaking to them first" },
+      { "id": "d", "text": "Reassign all of the supervisee's clients without discussion" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Supervisors carry vicarious liability and gatekeeping responsibility. The appropriate first step is a direct, documented conversation, assessment of client risk, and a remediation plan with monitoring — not immediate reporting or silent reassignment."
+  },
+  {
+    "id": "acs-q6",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A telehealth counselor is licensed in State A. A client they have been seeing regularly relocates permanently to State B for a new job. What is the counselor's primary legal obligation regarding continued services?",
+    "choices": [
+      { "id": "a", "text": "Continue services as normal since the therapeutic relationship was already established" },
+      { "id": "b", "text": "Confirm licensure requirements in State B, since counselors must generally be licensed where the client is physically located" },
+      { "id": "c", "text": "Switch to a non-HIPAA-compliant platform to simplify the transition" },
+      { "id": "d", "text": "End services immediately with no referral or transition plan" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Telehealth licensure jurisdiction is based on the client's physical location, not the counselor's. The counselor must confirm licensure requirements in the client's new state before continuing services there."
+  },
+  {
+    "id": "acs-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "An agency's policy limits all clients to a maximum of 8 sessions, but a counselor's client has complex PTSD and active suicidal ideation requiring longer-term care. What should the counselor do?",
+    "choices": [
+      { "id": "a", "text": "Terminate the client at session 8 as required by agency policy" },
+      { "id": "b", "text": "Document the clinical need, request an exception through proper channels, consult, and ensure a safe transition plan if the agency does not grant an exception" },
+      { "id": "c", "text": "Continue seeing the client indefinitely without informing the agency" },
+      { "id": "d", "text": "Refer the client out immediately without discussion" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Agency policy does not excuse a counselor from ethical obligations. The counselor must document clinical need, seek an exception through legitimate channels, consult, and if the policy holds, ensure adequate notice and a bridging plan rather than abrupt termination of a high-risk client."
+  },
+  {
+    "id": "acs-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "seed-1",
+    "stem": "A counselor observes a colleague make a comment to a client that seems to violate a boundary but could plausibly be a misunderstanding rather than a clear ethical violation. According to the graduated response outlined in ACA Section I, what should the counselor do first?",
+    "choices": [
+      { "id": "a", "text": "Report the colleague to the licensing board immediately" },
+      { "id": "b", "text": "Assess whether this actually constitutes a violation and consider raising it directly and informally with the colleague first" },
+      { "id": "c", "text": "Say nothing to avoid conflict with a colleague" },
+      { "id": "d", "text": "Discuss the concern with the colleague's other clients" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ACA Section I outlines a graduated response: first assess whether a violation actually occurred, then attempt informal resolution directly with the colleague when appropriate, before escalating to formal reporting."
+  }
+]
