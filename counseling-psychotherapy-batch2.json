@@ -1,0 +1,422 @@
+[
+  {
+    "id": "cp-b2-q1",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client says, \"If I don't get a perfect score on this exam, I'll be a total failure and everyone will see how worthless I am.\" A counselor using REBT would identify this statement as reflecting which irrational belief category?",
+    "choices": [
+      { "id": "a", "text": "Awfulizing and musturbation" },
+      { "id": "b", "text": "Low frustration tolerance only" },
+      { "id": "c", "text": "Damning of others" },
+      { "id": "d", "text": "Unconditional self-acceptance" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The rigid demand implied by needing a perfect score (musturbation) combined with catastrophizing the consequences of failure (awfulizing, \"total failure,\" \"worthless\") reflects two of Ellis's core irrational belief categories central to REBT case conceptualization."
+  },
+  {
+    "id": "cp-b2-q2",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client with chronic pain says, \"I can't have a good life until this pain is completely gone.\" Which therapeutic approach specifically targets this kind of belief by promoting psychological flexibility rather than symptom elimination?",
+    "choices": [
+      { "id": "a", "text": "Acceptance and Commitment Therapy" },
+      { "id": "b", "text": "Systematic desensitization" },
+      { "id": "c", "text": "Psychoanalysis" },
+      { "id": "d", "text": "Solution-Focused Brief Therapy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "ACT directly targets beliefs that fuse well-being with the elimination of unwanted internal experiences (like pain), instead promoting acceptance, defusion, and values-based living despite the presence of pain, rather than aiming to eliminate the pain itself."
+  },
+  {
+    "id": "cp-b2-q3",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor consistently reflects a client's feelings, offers warmth regardless of what the client discloses, and is transparent about her own reactions without imposing an agenda. According to Rogers, which of these three conditions is being demonstrated by the counselor's transparency about her own reactions?",
+    "choices": [
+      { "id": "a", "text": "Unconditional Positive Regard" },
+      { "id": "b", "text": "Congruence/Genuineness" },
+      { "id": "c", "text": "Empathy" },
+      { "id": "d", "text": "Reciprocal inhibition" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Congruence, or genuineness, refers to the therapist being authentic and transparent rather than presenting a professional facade, which is distinct from unconditional positive regard (nonjudgmental acceptance) and empathy (understanding the client's frame of reference)."
+  },
+  {
+    "id": "cp-b2-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A family therapist notices that whenever tension rises between two parents, their teenage son begins acting out at school, which shifts the parents' focus to him and temporarily reduces their conflict. Which family systems concept does this best illustrate?",
+    "choices": [
+      { "id": "a", "text": "Triangulation" },
+      { "id": "b", "text": "Differentiation of self" },
+      { "id": "c", "text": "Enactment" },
+      { "id": "d", "text": "Positive connotation" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Triangulation, a Bowen family systems concept, describes involving a third party (here, the son, through his acting out) to reduce or diffuse tension between two other people (the parents)."
+  },
+  {
+    "id": "cp-b2-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor working with a client on social anxiety builds a list of feared situations ranked from least to most anxiety-provoking, then guides the client through gradual exposure starting with the least distressing item while practicing relaxation techniques. This describes which specific technique?",
+    "choices": [
+      { "id": "a", "text": "Flooding" },
+      { "id": "b", "text": "Systematic desensitization" },
+      { "id": "c", "text": "Response prevention" },
+      { "id": "d", "text": "Empty chair technique" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Systematic desensitization, developed by Wolpe, involves pairing relaxation with a graduated anxiety hierarchy, moving from least to most feared situations, based on the principle of reciprocal inhibition. Flooding instead involves immediate full exposure without a gradual hierarchy."
+  },
+  {
+    "id": "cp-b2-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor asks a client with a substance use concern, \"On a scale of 1 to 10, how ready do you feel to make a change right now, and what would need to happen to move that number up by one point?\" This technique is most associated with which therapeutic approach?",
+    "choices": [
+      { "id": "a", "text": "Motivational Interviewing" },
+      { "id": "b", "text": "Psychoanalysis" },
+      { "id": "c", "text": "Gestalt therapy" },
+      { "id": "d", "text": "Adlerian therapy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Scaling-style readiness questions that evoke the client's own reasons and next steps toward change are a hallmark evocation technique of Motivational Interviewing, designed to elicit change talk rather than impose the counselor's agenda."
+  },
+  {
+    "id": "cp-b2-q7",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A therapist asks a client to sit across from an empty chair and speak directly to an estranged parent as though they were present, expressing feelings that were never voiced. This technique is most associated with which therapeutic approach?",
+    "choices": [
+      { "id": "a", "text": "Gestalt therapy" },
+      { "id": "b", "text": "Cognitive Behavioral Therapy" },
+      { "id": "c", "text": "Solution-Focused Brief Therapy" },
+      { "id": "d", "text": "Behavioral activation" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The empty chair technique is a signature Gestalt therapy intervention used to bring unfinished business into present awareness and facilitate direct emotional expression toward a person who is not actually present."
+  },
+  {
+    "id": "cp-b2-q8",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client in DBT skills training is taught to check the facts of a situation before reacting emotionally, and to consider using opposite action when an emotion doesn't fit the facts. Which DBT skills module does this belong to?",
+    "choices": [
+      { "id": "a", "text": "Mindfulness" },
+      { "id": "b", "text": "Emotion Regulation" },
+      { "id": "c", "text": "Distress Tolerance" },
+      { "id": "d", "text": "Interpersonal Effectiveness" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Check the facts and opposite action are core Emotion Regulation module skills in DBT, aimed at reducing vulnerability to intense emotions and changing unwanted emotional responses that don't fit the actual facts of a situation."
+  },
+  {
+    "id": "cp-b2-q9",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client says to their counselor, \"You remind me so much of my critical mother, and I find myself getting defensive with you the way I did with her.\" This is a classic example of which psychodynamic concept?",
+    "choices": [
+      { "id": "a", "text": "Countertransference" },
+      { "id": "b", "text": "Transference" },
+      { "id": "c", "text": "Reaction formation" },
+      { "id": "d", "text": "Sublimation" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Transference occurs when the client projects feelings about a significant figure from their past (the critical mother) onto the therapist, which is distinct from countertransference, the therapist's own emotional reaction to the client."
+  },
+  {
+    "id": "cp-b2-q10",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client repeatedly arrives late to sessions, and the counselor notices growing irritation and a wish to end sessions early as a result. The counselor brings this reaction to supervision to explore whether it reflects something happening with other people in the client's life. This is an example of which concept?",
+    "choices": [
+      { "id": "a", "text": "Countertransference, potentially useful as clinical data" },
+      { "id": "b", "text": "Transference" },
+      { "id": "c", "text": "Resistance" },
+      { "id": "d", "text": "Reciprocal inhibition" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Countertransference refers to the therapist's own emotional reaction to the client. When explored thoughtfully in supervision, it can provide valuable clinical data about relational patterns the client may be recreating with others."
+  },
+  {
+    "id": "cp-b2-q11",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor working with a couple identifies a repeating cycle in which one partner criticizes and the other withdraws, then explores the underlying attachment fears driving each partner's behavior, aiming to create new emotional bonding experiences. This approach is most consistent with which couples therapy model?",
+    "choices": [
+      { "id": "a", "text": "Emotionally Focused Therapy" },
+      { "id": "b", "text": "Gottman Method only, with no attachment focus" },
+      { "id": "c", "text": "Structural Family Therapy" },
+      { "id": "d", "text": "Strategic Family Therapy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Emotionally Focused Therapy (EFT) for couples focuses explicitly on attachment bonds and identifying negative interactional cycles (like criticize-withdraw), working to access underlying attachment-related emotions and create new, more secure bonding experiences."
+  },
+  {
+    "id": "cp-b2-q12",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor working with a client who has generalized anxiety helps the client identify the specific automatic thought \"Something terrible will happen if I don't check the stove five times,\" then uses Socratic questioning to examine the evidence for and against this belief. This is a core technique of which approach?",
+    "choices": [
+      { "id": "a", "text": "Cognitive Behavioral Therapy" },
+      { "id": "b", "text": "Person-Centered Therapy" },
+      { "id": "c", "text": "Narrative therapy" },
+      { "id": "d", "text": "Existential therapy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Socratic questioning to examine evidence for and against an automatic thought, as part of cognitive restructuring, is a hallmark CBT technique aimed at identifying and challenging distorted thinking patterns."
+  },
+  {
+    "id": "cp-b2-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A therapist working with a client who was recently diagnosed with a terminal illness focuses sessions on helping the client find personal meaning in the time remaining, rather than eliminating the client's fear of death. This approach is most consistent with which theoretical orientation?",
+    "choices": [
+      { "id": "a", "text": "Existential therapy" },
+      { "id": "b", "text": "Behavioral therapy" },
+      { "id": "c", "text": "Solution-Focused Brief Therapy" },
+      { "id": "d", "text": "REBT" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Existential therapy directly addresses ultimate concerns such as death and meaninglessness, and is particularly well-suited to clients facing terminal illness, focusing on helping the client find meaning and live authentically rather than eliminating existential fear."
+  },
+  {
+    "id": "cp-b2-q14",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor works with a child client using play-based activities, encouragement, and exploration of the child's birth order and early recollections to understand the child's mistaken beliefs about belonging. This approach is most consistent with which theoretical orientation?",
+    "choices": [
+      { "id": "a", "text": "Adlerian therapy" },
+      { "id": "b", "text": "Psychoanalysis" },
+      { "id": "c", "text": "Narrative therapy" },
+      { "id": "d", "text": "ACT" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Birth order analysis, early recollections, and encouragement are signature Adlerian techniques used to understand a client's mistaken beliefs and increase social interest, and Adlerian therapy is frequently used with children and in school settings."
+  },
+  {
+    "id": "cp-b2-q15",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client with an eating disorder describes their identity as fully defined by the disorder, saying \"I am my eating disorder.\" A narrative therapist would most likely respond with which technique?",
+    "choices": [
+      { "id": "a", "text": "Externalization, separating the problem from the client's identity" },
+      { "id": "b", "text": "Flooding" },
+      { "id": "c", "text": "Systematic desensitization" },
+      { "id": "d", "text": "Token economy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Externalization is the core narrative therapy technique of separating the problem from the person's identity (\"the problem is the problem, not the person\"), which would be particularly relevant when a client has fused their identity with an eating disorder."
+  },
+  {
+    "id": "cp-b2-q16",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client with PTSD begins treatment that includes retelling the traumatic memory aloud in detail repeatedly across sessions, combined with real-world exposure to avoided trauma reminders. This describes which evidence-based treatment?",
+    "choices": [
+      { "id": "a", "text": "Prolonged Exposure Therapy" },
+      { "id": "b", "text": "Cognitive Processing Therapy" },
+      { "id": "c", "text": "Solution-Focused Brief Therapy" },
+      { "id": "d", "text": "Person-Centered Therapy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Prolonged Exposure includes imaginal exposure (repeated verbal retelling of the trauma memory) and in vivo exposure (real-world exposure to trauma reminders), distinguishing it from CPT, which is more focused on cognitive restructuring around trauma-related \"stuck points.\""
+  },
+  {
+    "id": "cp-b2-q17",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client in treatment for trauma-related \"stuck points\" completes worksheets identifying and challenging distorted beliefs about safety, trust, power, esteem, and intimacy related to the trauma, over a structured 12-session protocol. This describes which treatment?",
+    "choices": [
+      { "id": "a", "text": "Cognitive Processing Therapy" },
+      { "id": "b", "text": "EMDR" },
+      { "id": "c", "text": "Systematic desensitization" },
+      { "id": "d", "text": "Motivational Interviewing" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "CPT specifically addresses trauma-related \"stuck points\" across the five themes of safety, trust, power/control, esteem, and intimacy using structured worksheets, typically over 12 sessions, distinguishing it from EMDR's bilateral stimulation approach."
+  },
+  {
+    "id": "cp-b2-q18",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor works with a family in which the mother and adolescent daughter have an enmeshed relationship, while the father is disengaged from both. The counselor works actively in-session to have family members interact directly with each other to observe and reshape these patterns. This describes which family therapy approach's technique?",
+    "choices": [
+      { "id": "a", "text": "Structural Family Therapy, using enactment" },
+      { "id": "b", "text": "Strategic Family Therapy, using paradoxical intervention" },
+      { "id": "c", "text": "Narrative therapy, using externalization" },
+      { "id": "d", "text": "Milan Systemic therapy, using circular questioning" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Enactment, having family members interact directly in session so the therapist can observe and restructure boundaries and subsystems, is a signature Structural Family Therapy technique developed by Minuchin, directly addressing enmeshment and disengagement."
+  },
+  {
+    "id": "cp-b2-q19",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client says, \"I know logically my partner isn't cheating, but I still feel certain they are, so it must be true.\" Which cognitive distortion does this best illustrate?",
+    "choices": [
+      { "id": "a", "text": "Emotional reasoning" },
+      { "id": "b", "text": "Catastrophizing" },
+      { "id": "c", "text": "Mental filter" },
+      { "id": "d", "text": "Labeling" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Emotional reasoning is the distortion of believing something is true because it feels true, despite contradicting evidence, exactly as described when the client concludes infidelity must be real because it feels certain, regardless of logic."
+  },
+  {
+    "id": "cp-b2-q20",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client in early sobriety says, \"I already messed up my diet today, so I might as well keep eating badly for the rest of the week.\" Which cognitive distortion is most clearly reflected here?",
+    "choices": [
+      { "id": "a", "text": "All-or-nothing thinking" },
+      { "id": "b", "text": "Mind reading" },
+      { "id": "c", "text": "Personalization" },
+      { "id": "d", "text": "Fortune telling" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The belief that one deviation means total failure, with no middle ground (\"might as well keep eating badly\"), reflects all-or-nothing (black-and-white) thinking, a core cognitive distortion targeted in CBT."
+  },
+  {
+    "id": "cp-b2-q21",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor working with a client who has social anxiety notices the client habitually apologizes excessively, avoids stating needs directly, and defers to others even when it causes personal harm. Which DBT skills module would most directly address building the client's ability to assert needs while maintaining relationships?",
+    "choices": [
+      { "id": "a", "text": "Interpersonal Effectiveness" },
+      { "id": "b", "text": "Mindfulness" },
+      { "id": "c", "text": "Distress Tolerance" },
+      { "id": "d", "text": "Emotion Regulation" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Interpersonal Effectiveness, including skills like DEAR MAN for getting needs met and GIVE for maintaining relationships, is the DBT module specifically designed to build assertive communication and self-respect in interpersonal situations."
+  },
+  {
+    "id": "cp-b2-q22",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client asks their SFBT counselor to help them understand why they developed social anxiety in childhood. How would a strict SFBT practitioner most likely respond?",
+    "choices": [
+      { "id": "a", "text": "Redirect toward the client's preferred future and exceptions to the problem, rather than exploring childhood origins" },
+      { "id": "b", "text": "Conduct a detailed developmental history to identify the root cause" },
+      { "id": "c", "text": "Use free association to access unconscious material about childhood" },
+      { "id": "d", "text": "Interpret the anxiety as a defense mechanism" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "SFBT is explicitly future-focused and does not explore the history or root causes of problems. A strict SFBT practitioner would redirect toward exceptions, strengths, and the client's preferred future rather than a developmental or historical exploration."
+  },
+  {
+    "id": "cp-b2-q23",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A supervisee reports that a client's passivity in session leaves the supervisee feeling unusually directive and controlling, a dynamic the supervisee doesn't typically experience with other clients. The supervisor suggests this may mirror a dynamic in the client's other relationships. This is best understood as an example of which supervision concept?",
+    "choices": [
+      { "id": "a", "text": "The parallel process" },
+      { "id": "b", "text": "Vicarious liability" },
+      { "id": "c", "text": "Gatekeeping" },
+      { "id": "d", "text": "The Discrimination Model" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The parallel process describes how relational dynamics from the therapeutic relationship are often unconsciously mirrored in the supervisory relationship, offering diagnostic information about what may be occurring between the client and others in their life."
+  },
+  {
+    "id": "cp-b2-q24",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor is selecting a treatment approach for a client newly diagnosed with Bulimia Nervosa. Which approach has the most research support specifically for this presentation?",
+    "choices": [
+      { "id": "a", "text": "CBT-E (enhanced CBT)" },
+      { "id": "b", "text": "Family-Based Treatment (Maudsley)" },
+      { "id": "c", "text": "Psychoanalysis" },
+      { "id": "d", "text": "ACT exclusively, with no other supporting approaches" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "CBT-E is the most researched, first-line evidence-based treatment for Bulimia Nervosa and Binge Eating Disorder, while Family-Based Treatment (Maudsley) is specifically the first-line approach for adolescent Anorexia Nervosa."
+  },
+  {
+    "id": "cp-b2-q25",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client says, \"My therapist must think I'm a terrible person for missing last week's session,\" without any evidence the therapist feels this way. Which cognitive distortion is this?",
+    "choices": [
+      { "id": "a", "text": "Mind reading" },
+      { "id": "b", "text": "Should statements" },
+      { "id": "c", "text": "Magnification" },
+      { "id": "d", "text": "Overgeneralization" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Mind reading is the distortion of assuming you know what someone else is thinking without evidence, exactly as illustrated by assuming the therapist's judgment without any stated or observed basis for that belief."
+  },
+  {
+    "id": "cp-b2-q26",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor working with a client using a variable ratio reinforcement schedule notices the client's target behavior is extremely resistant to extinction even after reinforcement stops. Which everyday example best illustrates why variable ratio schedules produce this effect?",
+    "choices": [
+      { "id": "a", "text": "Gambling behavior, since the unpredictable reward schedule produces the highest and most persistent response rate" },
+      { "id": "b", "text": "A paycheck received every two weeks regardless of performance" },
+      { "id": "c", "text": "Praise given every single time a child cleans their room" },
+      { "id": "d", "text": "A reward given only after exactly ten repetitions of a behavior" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Variable ratio reinforcement, where reinforcement occurs after an unpredictable number of responses, produces the highest and most persistent response rate and the greatest resistance to extinction, which is why gambling is a classic and highly addictive example of this schedule."
+  },
+  {
+    "id": "cp-b2-q27",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A therapist working with a client who has generalized anxiety incorporates weekly mindfulness meditation practice alongside standard cognitive techniques, specifically to help the client relate differently to anxious thoughts rather than eliminate them, with a goal of preventing relapse after the client's depression has remitted. This combination most closely reflects which approach?",
+    "choices": [
+      { "id": "a", "text": "Mindfulness-Based Cognitive Therapy (MBCT)" },
+      { "id": "b", "text": "Standard CBT only" },
+      { "id": "c", "text": "REBT" },
+      { "id": "d", "text": "Psychoanalysis" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "MBCT combines mindfulness practice with cognitive therapy techniques, focusing on decentering from thoughts rather than changing their content, and is specifically evidence-based for relapse prevention in recurrent depression."
+  },
+  {
+    "id": "cp-b2-q28",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor working with a child who witnessed domestic violence uses a structured protocol that includes gradual creation of a trauma narrative, relaxation skills, and dedicated sessions involving the non-offending caregiver. This describes which evidence-based treatment?",
+    "choices": [
+      { "id": "a", "text": "Trauma-Focused CBT (TF-CBT)" },
+      { "id": "b", "text": "Prolonged Exposure" },
+      { "id": "c", "text": "Solution-Focused Brief Therapy" },
+      { "id": "d", "text": "Psychoanalysis" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "TF-CBT is specifically designed for childhood trauma (ages 3\u201318), incorporating a gradual trauma narrative, relaxation and coping skills, and a caregiver involvement component, distinguishing it from adult-focused trauma treatments like Prolonged Exposure."
+  },
+  {
+    "id": "cp-b2-q29",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A client repeatedly minimizes their own accomplishments while dismissing the counselor's positive feedback as \"just being nice.\" Which cognitive distortion does this best represent?",
+    "choices": [
+      { "id": "a", "text": "Magnification and minimization" },
+      { "id": "b", "text": "Should statements" },
+      { "id": "c", "text": "Personalization" },
+      { "id": "d", "text": "Catastrophizing" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Minimizing one's own positive accomplishments while dismissing genuine positive feedback reflects the minimization side of the magnification/minimization distortion, in which positives are shrunk and negatives are often simultaneously exaggerated."
+  },
+  {
+    "id": "cp-b2-q30",
+    "module_id": "counseling-psychotherapy",
+    "batch": "batch-2",
+    "stem": "A counselor is helping a client who has been unemployed for six months and is ambivalent about pursuing job training, expressing both a desire to change and comfort with their current routine. The counselor uses reflective listening to draw out the client's own reasons for wanting a job rather than lecturing them about the benefits of employment. Which core MI principle is the counselor demonstrating?",
+    "choices": [
+      { "id": "a", "text": "Evocation, drawing out the client's own motivations rather than installing them" },
+      { "id": "b", "text": "Confrontation of denial" },
+      { "id": "c", "text": "Interpretation of unconscious resistance" },
+      { "id": "d", "text": "Empty chair technique" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Evocation, one of the four components of MI Spirit (PACE), involves drawing out the client's own motivations and reasons for change through reflective listening, rather than the counselor supplying reasons or lecturing, which would undermine the collaborative MI approach."
+  }
+]

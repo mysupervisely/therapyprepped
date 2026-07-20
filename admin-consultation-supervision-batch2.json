@@ -1,0 +1,422 @@
+[
+  {
+    "id": "acs-b2-q1",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A client's insurance company requests a copy of the full clinical record, including detailed session content, to process a claim. What is the most ethically appropriate response?",
+    "choices": [
+      { "id": "a", "text": "Send the complete record without review, since insurance requests are always valid" },
+      { "id": "b", "text": "Apply the minimum necessary standard, sending only what is needed for the specific billing purpose after obtaining appropriate authorization" },
+      { "id": "c", "text": "Refuse to send any information under any circumstances" },
+      { "id": "d", "text": "Send only the client's diagnosis with no other context" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "HIPAA's minimum necessary standard requires sharing only the information needed for the specific purpose, such as billing, after appropriate client authorization \u2014 not the complete record, and not an automatic blanket refusal."
+  },
+  {
+    "id": "acs-b2-q2",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to use a popular consumer video chat application for telehealth sessions because it is free and familiar to clients. What is the primary ethical/legal concern with this plan?",
+    "choices": [
+      { "id": "a", "text": "There is no concern as long as the client consents verbally" },
+      { "id": "b", "text": "Standard consumer video platforms are typically not HIPAA-compliant without a Business Associate Agreement in place" },
+      { "id": "c", "text": "Telehealth is never permitted regardless of platform" },
+      { "id": "d", "text": "The concern only applies if the client is a minor" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Standard consumer video platforms generally lack the security safeguards and a Business Associate Agreement required for HIPAA compliance. Counselors must use platforms specifically configured to be HIPAA-compliant for telehealth, regardless of client consent."
+  },
+  {
+    "id": "acs-b2-q3",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is treating a client via telehealth who has permanently relocated to a different state than where the counselor is licensed. What is the counselor's primary obligation?",
+    "choices": [
+      { "id": "a", "text": "Continue services since the therapeutic relationship predates the move" },
+      { "id": "b", "text": "Determine whether licensure in the client's new state is required, since jurisdiction is based on the client's physical location" },
+      { "id": "c", "text": "Only the counselor's home state license matters" },
+      { "id": "d", "text": "No licensure considerations apply to telehealth" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Telehealth licensure jurisdiction is based on where the client is physically located, not the counselor's location. Providing services in a state where the counselor is not licensed may constitute practicing without a license."
+  },
+  {
+    "id": "acs-b2-q4",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to terminate services with a client who has missed the last three appointments without notice, but the client has a history of active suicidal ideation. What is the most ethically appropriate approach?",
+    "choices": [
+      { "id": "a", "text": "Terminate immediately with a letter, since missed appointments justify termination" },
+      { "id": "b", "text": "Attempt outreach, assess current risk, and if termination is appropriate, ensure adequate notice, referrals, and a safety plan before ending services" },
+      { "id": "c", "text": "Simply stop scheduling future appointments without further contact" },
+      { "id": "d", "text": "Report the client to law enforcement for noncompliance" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Terminating a high-risk client without ensuring safety and a proper transition would constitute abandonment. The counselor must attempt outreach, reassess risk, and if termination proceeds, provide adequate notice, referrals, and a safety plan."
+  },
+  {
+    "id": "acs-b2-q5",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to accept a small, culturally significant gift from a client who recently immigrated and explains that declining gifts is considered deeply disrespectful in their culture. What is the most appropriate ethical consideration?",
+    "choices": [
+      { "id": "a", "text": "Automatically refuse all gifts under all circumstances" },
+      { "id": "b", "text": "Consider the cultural context, value of the gift, and the counselor's motivation before deciding, since small culturally normative gifts may be appropriate to accept" },
+      { "id": "c", "text": "Accept any gift regardless of value or context" },
+      { "id": "d", "text": "Report the client for attempting to bribe the counselor" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The ACA Code does not automatically prohibit gifts; it requires ethical analysis considering cultural context, gift value, and motivation. Refusing a small, culturally normative gift could damage the therapeutic alliance in some cultural contexts."
+  },
+  {
+    "id": "acs-b2-q6",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor receives a court order, signed by a judge, compelling release of a client's treatment records for an ongoing custody case. What is the most appropriate response?",
+    "choices": [
+      { "id": "a", "text": "Ignore the order since client confidentiality is absolute" },
+      { "id": "b", "text": "Comply with the order, releasing only what is specifically required by its scope, after consulting an attorney if needed" },
+      { "id": "c", "text": "Treat it the same as a subpoena and simply notify the client with no further action" },
+      { "id": "d", "text": "Release the entire clinical file regardless of what the order specifies" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Unlike a subpoena, a valid court order compels compliance. The counselor should comply, but only release what is specifically ordered rather than the entire file, and may consult an attorney regarding the scope."
+  },
+  {
+    "id": "acs-b2-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A supervisor is evaluating a supervisee who has consistently missed deadlines for documentation and shown gaps in risk assessment skills. What is the supervisor's ethical obligation regarding this pattern?",
+    "choices": [
+      { "id": "a", "text": "Ignore the pattern as long as no client has been harmed yet" },
+      { "id": "b", "text": "Conduct a fair, documented evaluation, provide a remediation plan with clear expectations, and monitor progress, consistent with gatekeeping responsibilities" },
+      { "id": "c", "text": "Immediately terminate the supervisee's training without any remediation opportunity" },
+      { "id": "d", "text": "Address it only informally in casual conversation with no documentation" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Gatekeeping requires supervisors to conduct fair, documented evaluations, provide supervisees with a remediation plan and clear expectations, and monitor progress \u2014 not to ignore concerning patterns or terminate without due process."
+  },
+  {
+    "id": "acs-b2-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is asked by a client's employer to provide an opinion about whether the client is fit to return to work, but the counselor has no forensic training and this falls outside their typical scope of practice. What is the most appropriate action?",
+    "choices": [
+      { "id": "a", "text": "Provide the opinion anyway since the counselor has been treating the client" },
+      { "id": "b", "text": "Decline to provide the fitness-for-duty opinion and refer to a professional with appropriate forensic/occupational training" },
+      { "id": "c", "text": "Provide the opinion but include a disclaimer" },
+      { "id": "d", "text": "Ask the client to write their own fitness-for-duty letter" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Forensic evaluations, including fitness-for-duty determinations, require specific specialized training and fall outside standard clinical scope of practice. The ethical response is to decline and refer to a qualified professional rather than practicing outside competence."
+  },
+  {
+    "id": "acs-b2-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor overhears a colleague make what seems like an inappropriate comment to a client but isn't fully sure whether it constitutes an ethical violation or a misunderstanding. According to the graduated response outlined in the ACA Code, what should the counselor do first?",
+    "choices": [
+      { "id": "a", "text": "Immediately file a formal complaint with the licensing board" },
+      { "id": "b", "text": "First assess whether this actually constitutes a violation before considering next steps, potentially including informal resolution directly with the colleague" },
+      { "id": "c", "text": "Confront the colleague publicly in front of the client" },
+      { "id": "d", "text": "Say nothing and do nothing further" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ACA Section I outlines a graduated response beginning with assessing whether a genuine violation occurred, since it could reflect a misunderstanding or different approach, before considering informal resolution or, if necessary, escalation to formal reporting."
+  },
+  {
+    "id": "acs-b2-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor learns that a colleague at their agency had a brief sexual relationship with a current client. What is the appropriate response according to the graduated ethical violation response process?",
+    "choices": [
+      { "id": "a", "text": "Attempt informal resolution first, as with most ethical concerns" },
+      { "id": "b", "text": "Report immediately, since sexual contact with a current client requires immediate formal reporting rather than informal resolution" },
+      { "id": "c", "text": "Wait to see if it happens again before taking any action" },
+      { "id": "d", "text": "Discuss the situation with the client's family" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Sexual contact with a current client is one of the specific violations requiring immediate formal reporting rather than attempting informal resolution first, given the severity of harm and absolute nature of this ethical prohibition."
+  },
+  {
+    "id": "acs-b2-q11",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to barter counseling services in exchange for home repair work from a client who has expressed financial hardship and explicitly requested this arrangement. What must be true for this to be ethically permissible?",
+    "choices": [
+      { "id": "a", "text": "Bartering is never permitted under any circumstances" },
+      { "id": "b", "text": "The arrangement must not be clinically contraindicated, must not be exploitative, must be client-requested, and an equivalent exchange must be established" },
+      { "id": "c", "text": "Bartering is permitted as long as the counselor initiates it" },
+      { "id": "d", "text": "Bartering only requires client consent, with no other conditions" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ACA Section A.10.e permits bartering only when it is not clinically contraindicated, the relationship is not exploitative, the client requests it (not the counselor), and an equivalent value exchange can be established, with the arrangement documented."
+  },
+  {
+    "id": "acs-b2-q12",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is asked by a supervisee whether the supervisee's clients need to be told that the supervisee is under supervision. What is the correct answer according to ACA ethical standards?",
+    "choices": [
+      { "id": "a", "text": "No, this information is not required to be disclosed to clients" },
+      { "id": "b", "text": "Yes, clients must be informed that their counselor is supervised and given the supervisor's name and contact information as part of informed consent" },
+      { "id": "c", "text": "Only if the client specifically asks" },
+      { "id": "d", "text": "Only for clients under 18" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ACA Section F.1.c requires that clients be informed their counselor is under supervision, including the supervisor's name and contact information, as part of the informed consent process at the outset of treatment."
+  },
+  {
+    "id": "acs-b2-q13",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor made an error in a progress note and wants to correct it after realizing the mistake a week later. What is the correct procedure?",
+    "choices": [
+      { "id": "a", "text": "Delete the incorrect entry entirely and rewrite it" },
+      { "id": "b", "text": "Draw a single line through the error, write 'error,' initial and date it, then write the correct information" },
+      { "id": "c", "text": "White it out and write over it" },
+      { "id": "d", "text": "Leave the error uncorrected to avoid appearing inconsistent" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The correct procedure for correcting a documentation error is to draw a single line through it (keeping the original legible), write 'error,' initial and date the correction, and then add the correct information \u2014 never deleting or obscuring the original entry."
+  },
+  {
+    "id": "acs-b2-q14",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A client in an outpatient group therapy session discloses sensitive information, and another group member later shares that information with someone outside the group. What is the counselor's legal standing regarding this breach?",
+    "choices": [
+      { "id": "a", "text": "The counselor is legally liable for the group member's breach" },
+      { "id": "b", "text": "The counselor cannot legally enforce confidentiality among group members, since only the professional is legally bound, though this should be addressed therapeutically" },
+      { "id": "c", "text": "Group therapy has no confidentiality expectations at all" },
+      { "id": "d", "text": "The group member who disclosed the information faces no consequences of any kind" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "In group therapy, only the mental health professional is legally bound to confidentiality; the counselor cannot legally enforce confidentiality among group members, though this limitation should be discussed during informed consent and the breach addressed therapeutically."
+  },
+  {
+    "id": "acs-b2-q15",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A 16-year-old client discloses to their counselor that they are sexually active and using contraception, and asks the counselor not to tell their parents. The client lives in a state where minors can consent to their own reproductive healthcare treatment. What is the most appropriate approach?",
+    "choices": [
+      { "id": "a", "text": "Automatically disclose this information to the parents regardless of state law" },
+      { "id": "b", "text": "Consider state law regarding minor consent for this specific issue and the previously negotiated confidentiality agreement with the family before deciding" },
+      { "id": "c", "text": "Refuse to discuss the topic with the minor at all" },
+      { "id": "d", "text": "Immediately terminate services with the minor" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Many states allow minors to consent to their own treatment for specific issues like reproductive health, and the previously negotiated confidentiality agreement with the family (established during intake) should guide the decision, rather than automatic disclosure or refusal to engage."
+  },
+  {
+    "id": "acs-b2-q16",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is treating a client who has a documented seizure disorder and reports a new symptom of episodes involving memory gaps and confusion. Which action reflects appropriate interdisciplinary collaboration?",
+    "choices": [
+      { "id": "a", "text": "Diagnose a dissociative disorder without any medical consultation" },
+      { "id": "b", "text": "Coordinate with the client's neurologist, since seizure disorders can produce dissociative-like symptoms that require medical evaluation" },
+      { "id": "c", "text": "Ignore the medical history since it is outside the counselor's role" },
+      { "id": "d", "text": "Advise the client to stop their seizure medication" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Seizure disorders can produce symptoms resembling dissociation, and coordinating with the client's neurologist reflects appropriate interdisciplinary collaboration and rules out medical causes before attributing symptoms to a primary psychiatric condition."
+  },
+  {
+    "id": "acs-b2-q17",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to post detailed, anonymized case examples on a personal blog to help market their private practice. What ethical consideration is most critical here?",
+    "choices": [
+      { "id": "a", "text": "As long as identifying details are removed, there is no ethical concern" },
+      { "id": "b", "text": "Even de-identified case material can risk client identification depending on specificity and requires careful ethical review and, ideally, informed consent" },
+      { "id": "c", "text": "This practice is always acceptable for marketing purposes" },
+      { "id": "d", "text": "Only the client's initials need to be changed" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Even when identifying details are altered, sufficiently specific case material can still risk client identification, particularly in smaller communities. Counselors should carefully review such material and generally obtain informed consent before using client-derived content publicly."
+  },
+  {
+    "id": "acs-b2-q18",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor's clinical supervisor is unavailable during an emergency involving a high-risk client. What is the most appropriate immediate action?",
+    "choices": [
+      { "id": "a", "text": "Wait until the supervisor is available before taking any action" },
+      { "id": "b", "text": "Take clinically appropriate emergency action based on training and, if needed, consult another available colleague or crisis resource, documenting everything, then follow up with the supervisor as soon as possible" },
+      { "id": "c", "text": "Refuse to act since supervision was not obtained first" },
+      { "id": "d", "text": "Contact the client's family members with all details regardless of consent" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "In an emergency, client safety takes priority. The counselor should take clinically appropriate action, consult another available resource if the primary supervisor is unreachable, thoroughly document the situation and actions taken, and follow up with the supervisor promptly."
+  },
+  {
+    "id": "acs-b2-q19",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to end services with a client who has been in treatment for two years and has made significant progress toward all treatment goals. What distinguishes this from abandonment?",
+    "choices": [
+      { "id": "a", "text": "Any termination initiated by the counselor is abandonment" },
+      { "id": "b", "text": "This is appropriate termination, since goals have been met, provided adequate notice and referral information are given if further support is needed" },
+      { "id": "c", "text": "Termination can never occur even after successful treatment" },
+      { "id": "d", "text": "No notice is required when goals have been achieved" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Appropriate termination occurs when treatment goals have been met or the relationship is no longer beneficial, done with adequate notice and referral information if needed \u2014 distinct from abandonment, which involves ending services without justification, notice, or referral while the client still needs care."
+  },
+  {
+    "id": "acs-b2-q20",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A client's employer, who is also paying for the client's counseling through an Employee Assistance Program, requests updates on the client's attendance and progress. What is the appropriate response?",
+    "choices": [
+      { "id": "a", "text": "Provide full session content since the employer is paying for services" },
+      { "id": "b", "text": "Clarify at the outset of treatment what information, if any, will be shared with the EAP/employer, and share only what was consented to, applying the minimum necessary standard" },
+      { "id": "c", "text": "Refuse to communicate with the EAP under any circumstances" },
+      { "id": "d", "text": "Share the client's diagnosis without consent since the employer is a third-party payer" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Third-party payer relationships, including EAPs, must be clarified during informed consent regarding what information will be shared. Even when an employer is paying, the minimum necessary standard and client consent still govern what can be disclosed."
+  },
+  {
+    "id": "acs-b2-q21",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is treating a client who discloses they are the victim of ongoing financial exploitation by an adult child, and the client is 70 years old with mild cognitive impairment. What is the counselor's most likely legal obligation?",
+    "choices": [
+      { "id": "a", "text": "No reporting obligation exists for financial exploitation of older adults" },
+      { "id": "b", "text": "In most states, this constitutes reportable elder abuse to Adult Protective Services, based on reasonable suspicion" },
+      { "id": "c", "text": "The counselor should only report if the client explicitly requests it" },
+      { "id": "d", "text": "Reporting is only required if physical injury has occurred" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Most states require reporting suspected abuse, neglect, or financial exploitation of elderly or dependent adults to Adult Protective Services, using the same reasonable-suspicion threshold as child abuse reporting, regardless of whether the client requests it."
+  },
+  {
+    "id": "acs-b2-q22",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to begin a friendship with a former client 4 years after terminating services, with no romantic or sexual intent. What is the most accurate statement about this situation under the ACA Code?",
+    "choices": [
+      { "id": "a", "text": "This is absolutely prohibited under all circumstances since it has not yet been 5 years" },
+      { "id": "b", "text": "Non-sexual relationships with former clients are not subject to the same absolute 5-year prohibition as sexual/romantic relationships, though they still require careful ethical analysis of potential harm" },
+      { "id": "c", "text": "There are no ethical considerations once a client has formally terminated" },
+      { "id": "d", "text": "Friendship with a former client is always encouraged as good practice" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The absolute 5-year prohibition specifically applies to sexual/romantic relationships with former clients. Non-sexual relationships fall into the 'potentially harmful \u2014 requires analysis' category, requiring the counselor to consider potential harm, objectivity, and exploitation risk rather than being automatically prohibited or automatically fine."
+  },
+  {
+    "id": "acs-b2-q23",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor believes they may be experiencing burnout and increasing difficulty concentrating during sessions due to personal life stressors, though no client has been harmed yet. What is the counselor's ethical obligation under ACA Section C.2.g regarding impairment?",
+    "choices": [
+      { "id": "a", "text": "Continue practicing as normal since no harm has occurred yet" },
+      { "id": "b", "text": "Seek personal assistance and consult with supervisors or colleagues, and limit, suspend, or arrange coverage of clinical practice if impairment could affect client care" },
+      { "id": "c", "text": "Wait until a client complains before taking any action" },
+      { "id": "d", "text": "Only address this if a licensing board inquiry occurs" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ACA Section C.2.g requires counselors experiencing impairment (including from burnout) to proactively seek personal assistance, consult, and limit or arrange coverage of their practice as needed \u2014 not to wait for harm to occur or for external prompting."
+  },
+  {
+    "id": "acs-b2-q24",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor at a community mental health agency disagrees with a policy requiring immediate discharge of any client who misses two consecutive appointments, believing it conflicts with client welfare for high-risk clients. What is the appropriate first step?",
+    "choices": [
+      { "id": "a", "text": "Simply ignore the policy without discussion" },
+      { "id": "b", "text": "Clarify whether this is a genuine ethical conflict, then attempt to resolve it through legitimate channels such as discussing with a supervisor or requesting an exception" },
+      { "id": "c", "text": "Immediately resign without addressing the concern" },
+      { "id": "d", "text": "Report the agency to the licensing board without first attempting internal resolution" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "When facing a conflict between agency policy and ethical obligations, the first step is clarifying whether it is a genuine ethical conflict and attempting resolution through legitimate internal channels, such as discussing with a supervisor or requesting an exception, before escalating further."
+  },
+  {
+    "id": "acs-b2-q25",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor wants to search for a current client's social media profiles out of curiosity after the client mentioned a recent life event. What is the most ethically appropriate approach?",
+    "choices": [
+      { "id": "a", "text": "Search freely since public social media information is fair game" },
+      { "id": "b", "text": "Generally avoid searching for clients on social media without their knowledge and a clear clinical rationale" },
+      { "id": "c", "text": "Only search if the counselor plans to friend or follow the client afterward" },
+      { "id": "d", "text": "This is required practice to verify client honesty" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Best practice under ACA Section H guidance is to avoid searching for clients on social media without their knowledge and a clear clinical rationale, since doing so out of curiosity can compromise the therapeutic relationship and raises boundary and consent concerns."
+  },
+  {
+    "id": "acs-b2-q26",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is asked by a client to provide a letter supporting the client's application for disability benefits related to their mental health condition. Which type of advocacy does this represent?",
+    "choices": [
+      { "id": "a", "text": "Client/individual level advocacy" },
+      { "id": "b", "text": "Public policy level advocacy" },
+      { "id": "c", "text": "Community/group level advocacy" },
+      { "id": "d", "text": "This is not a form of advocacy" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Writing a letter of support for an individual client's disability claim is an example of client/individual level advocacy, distinct from broader community/group or public policy level advocacy that affects multiple people or systemic change."
+  },
+  {
+    "id": "acs-b2-q27",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor supervising a graduate student notices the student consistently struggles with case conceptualization but demonstrates strong rapport-building skills and high motivation, often relying heavily on the supervisor for direction. According to the Integrated Developmental Model, which level does this supervisee most likely represent?",
+    "choices": [
+      { "id": "a", "text": "Level 1 \u2014 high anxiety, rule-focused, dependent on the supervisor" },
+      { "id": "b", "text": "Level 3 \u2014 stable, integrated, able to self-supervise" },
+      { "id": "c", "text": "Level 2 exclusively, with no dependency features" },
+      { "id": "d", "text": "The IDM does not apply to case conceptualization skills" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Level 1 supervisees in Stoltenberg and Delworth's IDM typically show high motivation and anxiety, are rule-focused, and are highly dependent on the supervisor for direction, consistent with a supervisee still building foundational conceptualization skills."
+  },
+  {
+    "id": "acs-b2-q28",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is treating a client and later realizes, partway through the intake, that the client is a distant acquaintance of the counselor's spouse whom the counselor has met briefly at social gatherings. What is the most appropriate next step?",
+    "choices": [
+      { "id": "a", "text": "Ignore the connection since it is minor and continue as normal with no discussion" },
+      { "id": "b", "text": "Apply the harm analysis \u2014 consider whether this could impair objectivity or create exploitation risk, consult, and discuss the connection openly with the client" },
+      { "id": "c", "text": "Automatically terminate services regardless of how minor the connection is" },
+      { "id": "d", "text": "Ask the spouse for more information about the client" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Non-sexual multiple relationships that could plausibly impair objectivity fall into the 'potentially harmful \u2014 requires analysis' category. The counselor should apply the harm analysis, consult, and discuss the connection with the client rather than ignoring it or automatically terminating."
+  },
+  {
+    "id": "acs-b2-q29",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is uncertain whether a client's statement about wanting to \"disappear\" reflects passive suicidal ideation or a figure of speech expressing exhaustion. What is the most appropriate action?",
+    "choices": [
+      { "id": "a", "text": "Assume it is not concerning since the client did not use the word 'suicide'" },
+      { "id": "b", "text": "Directly and specifically follow up to clarify the meaning and assess for suicidal ideation rather than assuming either interpretation" },
+      { "id": "c", "text": "Document the statement without any follow-up" },
+      { "id": "d", "text": "Wait until the next session to address it" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Ambiguous statements suggesting possible hopelessness or a wish to escape should always be directly and specifically clarified through follow-up questions to assess for suicidal ideation, rather than assumed to be benign or deferred to a later session."
+  },
+  {
+    "id": "acs-b2-q30",
+    "module_id": "admin-consultation-supervision",
+    "batch": "batch-2",
+    "stem": "A counselor is documenting a session using the DAP format after a client disclosed increased alcohol use and expressed passive suicidal ideation. Where should the risk assessment findings be documented?",
+    "choices": [
+      { "id": "a", "text": "Risk assessment findings should be integrated into the Data and Assessment sections, with the Plan section reflecting any resulting safety actions" },
+      { "id": "b", "text": "Risk information should never be included in standard progress notes" },
+      { "id": "c", "text": "Only in a separate document that is never part of the official record" },
+      { "id": "d", "text": "Risk assessment does not need to be documented if the client denies intent" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "In a DAP note, risk-related disclosures and clinician observations belong in Data, the clinical analysis of risk belongs in Assessment, and any resulting safety planning or referral actions belong in Plan \u2014 risk information must always be documented, even when the client denies current intent."
+  }
+]

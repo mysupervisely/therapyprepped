@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ad-b2-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that for the past 3 weeks they have needed only 3 hours of sleep per night, feel unusually confident about a new business venture that involves significant financial risk, and speak so quickly that the counselor struggles to follow. There is no history of psychotic features. Which diagnosis is most consistent with this presentation?",
+    "choices": [
+      { "id": "a", "text": "Bipolar I Disorder, current manic episode" },
+      { "id": "b", "text": "Generalized Anxiety Disorder" },
+      { "id": "c", "text": "Stimulant intoxication" },
+      { "id": "d", "text": "Cyclothymic Disorder" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Decreased need for sleep, grandiosity, pressured speech, and risky behavior lasting more than 7 days without psychotic features and causing functional risk meet criteria for a manic episode, which defines Bipolar I Disorder. Cyclothymic Disorder requires symptoms that do not meet full episode criteria."
+  },
+  {
+    "id": "ad-b2-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "During an intake, a client's speech drifts from topic to topic, with each new topic loosely connected to the previous one but never returning to the original point, and the client eventually loses track of what they were originally asked. This is best described as which thought process abnormality?",
+    "choices": [
+      { "id": "a", "text": "Circumstantiality" },
+      { "id": "b", "text": "Tangentiality" },
+      { "id": "c", "text": "Thought blocking" },
+      { "id": "d", "text": "Perseveration" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Tangentiality describes speech that drifts off-topic and never returns to the original point, distinguishing it from circumstantiality, in which the speaker eventually returns to answer the original question after excessive detail."
+  },
+  {
+    "id": "ad-b2-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A 68-year-old client presents with two months of low mood, poor concentration, and word-finding difficulty following the death of a spouse. Family reports the client seems confused at times and has stopped managing finances independently. What is the most appropriate next assessment step?",
+    "choices": [
+      { "id": "a", "text": "Assume this is normal grief and provide supportive counseling only" },
+      { "id": "b", "text": "Assess for pseudodementia by evaluating whether the cognitive symptoms improve as mood symptoms are treated, alongside a medical workup" },
+      { "id": "c", "text": "Diagnose major neurocognitive disorder immediately based on the reported confusion" },
+      { "id": "d", "text": "Refer for grief counseling only and defer any cognitive assessment" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "In older adults, depression can produce cognitive symptoms that mimic dementia (pseudodementia). A thorough assessment distinguishing depression-related cognitive changes from a true neurocognitive disorder, including ruling out medical causes, is warranted before assuming an irreversible diagnosis."
+  },
+  {
+    "id": "ad-b2-q4",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client describes recurring, unwanted images of harming their child, finds these images horrifying and inconsistent with their values, and engages in mental checking rituals to neutralize the thoughts. The client recognizes the thoughts as products of their own mind. Which diagnosis is most consistent with this presentation?",
+    "choices": [
+      { "id": "a", "text": "Obsessive-Compulsive Disorder" },
+      { "id": "b", "text": "Schizophrenia with thought insertion" },
+      { "id": "c", "text": "Postpartum psychosis" },
+      { "id": "d", "text": "Generalized Anxiety Disorder" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Ego-dystonic, intrusive, unwanted thoughts recognized as one's own, paired with mental or behavioral compulsions performed to neutralize distress, are the hallmark presentation of OCD. This differs from psychosis, where the person does not recognize intrusive content as self-generated."
+  },
+  {
+    "id": "ad-b2-q5",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports drinking six drinks nightly for the past year, having tried unsuccessfully to cut down twice, missing work due to hangovers, and needing more alcohol than before to feel the same effect. How many criteria for a substance use disorder does this description most clearly meet, and what severity does this represent?",
+    "choices": [
+      { "id": "a", "text": "2 criteria; mild" },
+      { "id": "b", "text": "4 criteria; moderate" },
+      { "id": "c", "text": "6 or more criteria; severe" },
+      { "id": "d", "text": "1 criterion; subclinical" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The description reflects unsuccessful efforts to cut down, failure to fulfill role obligations (missing work), and tolerance \u2014 at least 3 to 4 identifiable criteria, consistent with a moderate severity substance use disorder (4-5 criteria)."
+  },
+  {
+    "id": "ad-b2-q6",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that for the past several months they have felt persistently on edge, have difficulty falling asleep due to racing thoughts about their children's safety, their job performance, and their finances, and describe themselves as unable to stop worrying even when things are going well. There is no history of panic attacks. Which condition best fits this presentation?",
+    "choices": [
+      { "id": "a", "text": "Panic Disorder" },
+      { "id": "b", "text": "Generalized Anxiety Disorder" },
+      { "id": "c", "text": "Illness Anxiety Disorder" },
+      { "id": "d", "text": "Obsessive-Compulsive Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Excessive, difficult-to-control worry spanning multiple life domains (children, work, finances) without discrete panic attacks is characteristic of Generalized Anxiety Disorder rather than Panic Disorder or a more narrowly focused anxiety presentation."
+  },
+  {
+    "id": "ad-b2-q7",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client who survived a workplace shooting six weeks ago reports intrusive nightmares, avoidance of the building, exaggerated startle response, and a persistent belief that the world is entirely unsafe. Based on the six-week timeframe, which diagnosis is most appropriate?",
+    "choices": [
+      { "id": "a", "text": "Acute Stress Disorder" },
+      { "id": "b", "text": "Posttraumatic Stress Disorder" },
+      { "id": "c", "text": "Adjustment Disorder with Anxious Mood" },
+      { "id": "d", "text": "Specific Phobia" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Because symptoms have persisted beyond the one-month mark following the trauma, the diagnosis shifts from Acute Stress Disorder to Posttraumatic Stress Disorder, provided the full symptom criteria across intrusion, avoidance, negative cognitions, and arousal are met."
+  },
+  {
+    "id": "ad-b2-q8",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports chronic feelings of emptiness, a pattern of intense but short-lived relationships that alternate between idealizing and devaluing partners, and impulsive spending and reckless driving. What is the minimum number of BPD criteria required for diagnosis, and does this client's description suggest that threshold may be met?",
+    "choices": [
+      { "id": "a", "text": "3 criteria required; not yet met based on this description" },
+      { "id": "b", "text": "5 criteria required; this description already suggests several are present" },
+      { "id": "c", "text": "9 criteria required; far from met" },
+      { "id": "d", "text": "No minimum; any one feature is sufficient" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Borderline Personality Disorder requires 5 or more of 9 criteria. This description already suggests chronic emptiness, unstable relationships with splitting, and impulsivity in multiple areas \u2014 several criteria toward the 5-criterion threshold."
+  },
+  {
+    "id": "ad-b2-q9",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client's chart from a previous provider notes \"affect: blunted; mood: 'nothing, I don't feel anything.'\" During the current session, the counselor observes minimal facial expression and a monotone voice throughout, even when discussing a recent loss. Which combination of MSE terms most accurately reflects this presentation going forward?",
+    "choices": [
+      { "id": "a", "text": "Mood: blunted; Affect: 'nothing, I don't feel anything'" },
+      { "id": "b", "text": "Mood: 'nothing, I don't feel anything'; Affect: blunted, congruent with reported mood" },
+      { "id": "c", "text": "Mood and Affect should not be distinguished in documentation" },
+      { "id": "d", "text": "Affect: subjective; Mood: objective" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Mood is the client's subjective report, documented in their own words, while affect is the clinician's objective observation described with clinical terms like blunted. Here the flat presentation is congruent with the client's own report of feeling nothing."
+  },
+  {
+    "id": "ad-b2-q10",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that for the past 5 days they have felt unusually energetic, talkative, and confident, sleeping only 5 hours a night, but they have continued working normally and family has not noticed significant impairment. There is no history of a prior manic episode. Which diagnosis is most consistent with this presentation?",
+    "choices": [
+      { "id": "a", "text": "Bipolar I Disorder" },
+      { "id": "b", "text": "Bipolar II Disorder, assuming a prior major depressive episode is also present" },
+      { "id": "c", "text": "Cyclothymic Disorder" },
+      { "id": "d", "text": "Major Depressive Disorder with mixed features" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A hypomanic episode (4+ days, noticeable change without marked impairment or hospitalization) in the context of a prior major depressive episode meets criteria for Bipolar II Disorder. Without evidence of a full manic episode, Bipolar I would not apply."
+  },
+  {
+    "id": "ad-b2-q11",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports hearing a voice commenting on their actions throughout the day, holding a fixed belief that a neighbor is monitoring them through the walls, and displaying disorganized speech during the session. Symptoms have been present continuously for 8 months, with clear functional decline. Which diagnosis best fits, assuming medical and substance causes have been ruled out?",
+    "choices": [
+      { "id": "a", "text": "Schizophreniform Disorder" },
+      { "id": "b", "text": "Schizophrenia" },
+      { "id": "c", "text": "Brief Psychotic Disorder" },
+      { "id": "d", "text": "Delusional Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Continuous disturbance for 6 months or more, including hallucinations, delusions, and disorganized speech with functional decline, meets full criteria for Schizophrenia. Schizophreniform Disorder is reserved for symptoms lasting 1 to 6 months."
+  },
+  {
+    "id": "ad-b2-q12",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that two months after being laid off, they have felt persistently anxious and their sleep has been disrupted, but they do not meet full criteria for any other DSM-5-TR disorder and their symptoms are clearly tied to the job loss. Which diagnosis is most appropriate?",
+    "choices": [
+      { "id": "a", "text": "Generalized Anxiety Disorder" },
+      { "id": "b", "text": "Adjustment Disorder with Anxious Mood" },
+      { "id": "c", "text": "Major Depressive Disorder" },
+      { "id": "d", "text": "Acute Stress Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Adjustment Disorder is a residual diagnosis used when symptoms are tied to an identifiable stressor within the past 3 months but do not meet full criteria for another disorder such as GAD. Since GAD requires 6+ months of symptoms and does not apply here, Adjustment Disorder is most appropriate."
+  },
+  {
+    "id": "ad-b2-q13",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client describes sudden episodes, occurring without warning, of chest tightness, dizziness, a racing heart, and a fear of dying, peaking within a few minutes and subsiding shortly after. The client now avoids driving for fear of having another episode while behind the wheel. Which combination of diagnoses is most likely, based on DSM-5 changes to how these conditions are classified?",
+    "choices": [
+      { "id": "a", "text": "Panic Disorder only, since Agoraphobia cannot be diagnosed separately" },
+      { "id": "b", "text": "Panic Disorder with possible co-occurring Agoraphobia, now diagnosed as separate conditions" },
+      { "id": "c", "text": "Specific Phobia, driving type, only" },
+      { "id": "d", "text": "Illness Anxiety Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Since DSM-5, Panic Disorder and Agoraphobia are diagnosed as separate, though often co-occurring, conditions. The unexpected panic attacks support Panic Disorder, while the avoidance behavior related to fear of being unable to escape or get help supports possible comorbid Agoraphobia."
+  },
+  {
+    "id": "ad-b2-q14",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client's family reports that the client, a 9-year-old child, has had severe temper outbursts several times a week for over a year, grossly out of proportion to the situation, and is described as irritable and angry most days even between outbursts. Which diagnosis was specifically created to capture this presentation and reduce overdiagnosis of another condition?",
+    "choices": [
+      { "id": "a", "text": "Oppositional Defiant Disorder" },
+      { "id": "b", "text": "Disruptive Mood Dysregulation Disorder, created to reduce overdiagnosis of pediatric Bipolar Disorder" },
+      { "id": "c", "text": "Conduct Disorder" },
+      { "id": "d", "text": "Bipolar I Disorder, rapid cycling" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "DMDD requires severe, recurrent temper outbursts 3+ times per week with persistently irritable mood between outbursts, onset before age 10. It was specifically introduced in DSM-5 to reduce overdiagnosis of pediatric Bipolar Disorder in children with chronic irritability rather than episodic mood changes."
+  },
+  {
+    "id": "ad-b2-q15",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports a lifelong pattern, since adolescence, of disregarding others' rights, repeated lying for personal gain, and a documented history of conduct problems before age 15 including animal cruelty and truancy. The client is now 24. Which diagnosis is most appropriate?",
+    "choices": [
+      { "id": "a", "text": "Antisocial Personality Disorder" },
+      { "id": "b", "text": "Conduct Disorder" },
+      { "id": "c", "text": "Narcissistic Personality Disorder" },
+      { "id": "d", "text": "Intermittent Explosive Disorder" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Antisocial Personality Disorder requires evidence of conduct disorder before age 15 and a pervasive pattern of disregard for others' rights since age 15, with the diagnosis only given once the individual is at least 18. This client's history and current age meet these criteria."
+  },
+  {
+    "id": "ad-b2-q16",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that a close friend died by suicide two months ago. The client describes intense yearning for the friend, preoccupation with how the death occurred, difficulty accepting the loss, and feeling that life has become meaningless, with clear functional impairment persisting daily. Which consideration is most important before assigning a diagnosis?",
+    "choices": [
+      { "id": "a", "text": "Prolonged Grief Disorder cannot be diagnosed this soon after a loss, since it requires grief lasting more than 12 months in adults" },
+      { "id": "b", "text": "This is definitely Major Depressive Disorder regardless of timeline" },
+      { "id": "c", "text": "No diagnosis should ever be given during bereavement" },
+      { "id": "d", "text": "This client should be diagnosed with Prolonged Grief Disorder immediately" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Prolonged Grief Disorder requires grief symptoms persisting more than 12 months in adults (6 months in children). At two months, while the symptoms are intense, this timeline does not yet meet the duration threshold, though continued monitoring and support are appropriate, and MDD should still be considered separately if its own criteria are met."
+  },
+  {
+    "id": "ad-b2-q17",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client's intake reveals they take a beta-blocker for hypertension and report new-onset depressive symptoms that began shortly after starting the medication. What is the most appropriate initial clinical action?",
+    "choices": [
+      { "id": "a", "text": "Diagnose Major Depressive Disorder immediately since the criteria are met" },
+      { "id": "b", "text": "Consider whether the depressive symptoms may be medication-induced and coordinate with the prescribing physician" },
+      { "id": "c", "text": "Ignore the medication history since it is not the counselor's role" },
+      { "id": "d", "text": "Advise the client to stop the medication immediately" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Beta-blockers are a known cause of medication-induced depressive symptoms. Before diagnosing an independent mood disorder, the counselor should consider this possibility and coordinate with the prescribing physician rather than independently advising medication changes, which is outside scope of practice."
+  },
+  {
+    "id": "ad-b2-q18",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports recurrent panic-like symptoms that occur specifically and only when giving presentations at work, accompanied by an overwhelming fear of embarrassing themselves in front of colleagues. Outside of performance situations, the client does not experience significant anxiety. Which diagnosis and specifier best fits?",
+    "choices": [
+      { "id": "a", "text": "Panic Disorder" },
+      { "id": "b", "text": "Social Anxiety Disorder, Performance Only specifier" },
+      { "id": "c", "text": "Generalized Anxiety Disorder" },
+      { "id": "d", "text": "Agoraphobia" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Fear limited specifically to performance situations, such as public speaking, without broader social anxiety, meets the criteria for Social Anxiety Disorder with the Performance Only specifier, rather than Panic Disorder, which requires unexpected attacks not tied to a specific trigger."
+  },
+  {
+    "id": "ad-b2-q19",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client with a several-year history of alcohol use disorder abruptly stops drinking and, within 48 hours, develops tremors, visual hallucinations, and disorientation. What is the most appropriate immediate clinical priority?",
+    "choices": [
+      { "id": "a", "text": "Continue with standard outpatient intake procedures" },
+      { "id": "b", "text": "Recognize this as a potentially life-threatening withdrawal presentation requiring urgent medical evaluation" },
+      { "id": "c", "text": "Diagnose a primary psychotic disorder based on the hallucinations" },
+      { "id": "d", "text": "Schedule a follow-up appointment in one week" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Alcohol withdrawal can include tremors, hallucinations, seizures, and delirium, and is potentially life-threatening, unlike most other substance withdrawal syndromes. This presentation requires urgent medical evaluation rather than routine outpatient assessment."
+  },
+  {
+    "id": "ad-b2-q20",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A counselor is evaluating a client's judgment as part of the MSE. Which of the following approaches best reflects how judgment should be assessed?",
+    "choices": [
+      { "id": "a", "text": "Asking the client hypothetical scenario questions and evaluating the reasonableness of their proposed response" },
+      { "id": "b", "text": "Relying solely on the client's self-report of good judgment" },
+      { "id": "c", "text": "Judgment is synonymous with insight and does not need separate assessment" },
+      { "id": "d", "text": "Judgment can only be assessed through formal neuropsychological testing" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Judgment is typically assessed by presenting hypothetical scenarios (e.g., what would you do if you found a stamped, addressed envelope on the ground) and evaluating whether the client's reasoning and proposed response are sound, rather than relying on self-report or conflating it with insight."
+  },
+  {
+    "id": "ad-b2-q21",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that they have felt persistently sad and low-energy for the past 3 years, describing it as \"just how I am,\" with periods of feeling somewhat better that never last more than a few weeks. They do not currently meet full criteria for a major depressive episode. Which diagnosis is most likely?",
+    "choices": [
+      { "id": "a", "text": "Major Depressive Disorder, single episode" },
+      { "id": "b", "text": "Persistent Depressive Disorder (Dysthymia)" },
+      { "id": "c", "text": "Cyclothymic Disorder" },
+      { "id": "d", "text": "Bipolar II Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Depressed mood present more days than not for at least 2 years, without being symptom-free for more than 2 consecutive months, and not meeting full MDD criteria, describes Persistent Depressive Disorder (Dysthymia)."
+  },
+  {
+    "id": "ad-b2-q22",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports a specific, intense fear of vomiting that has led them to severely restrict their diet and avoid situations where they might be near someone who is sick, causing significant weight loss and social isolation. Which diagnosis should be considered as part of the differential, in addition to a specific phobia?",
+    "choices": [
+      { "id": "a", "text": "An eating disorder should also be considered given the significant dietary restriction and weight loss" },
+      { "id": "b", "text": "Bipolar Disorder" },
+      { "id": "c", "text": "Antisocial Personality Disorder" },
+      { "id": "d", "text": "No other diagnosis needs to be considered" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "When phobic avoidance results in significant dietary restriction and weight loss, an eating disorder (such as Avoidant/Restrictive Food Intake Disorder) should be considered as part of a broader differential, since the functional consequences overlap even though the underlying driver is fear-based rather than body-image based."
+  },
+  {
+    "id": "ad-b2-q23",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client's family reports the client, an adult, has always struggled to maintain eye contact, prefers rigid daily routines and becomes highly distressed by minor changes, has intense, narrow interests in train schedules, and has difficulty understanding sarcasm or implied meaning in conversation. These patterns have been present since early childhood. Which diagnosis is most consistent with this presentation?",
+    "choices": [
+      { "id": "a", "text": "Social Anxiety Disorder" },
+      { "id": "b", "text": "Autism Spectrum Disorder" },
+      { "id": "c", "text": "Obsessive-Compulsive Disorder" },
+      { "id": "d", "text": "Schizoid Personality Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Lifelong deficits in social communication (eye contact, understanding implied meaning) combined with restricted, repetitive patterns (rigid routines, intense narrow interests) present since early childhood are characteristic of Autism Spectrum Disorder, not an anxiety-based or later-onset condition."
+  },
+  {
+    "id": "ad-b2-q24",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports occasional use of cannabis on weekends with no impairment in functioning, no failed attempts to cut down, and no cravings between uses. Based on this description alone, is a Substance Use Disorder diagnosis appropriate?",
+    "choices": [
+      { "id": "a", "text": "Yes, any regular use meets criteria" },
+      { "id": "b", "text": "No, this description does not clearly meet the minimum of 2 criteria required for even a mild diagnosis" },
+      { "id": "c", "text": "Yes, but only if a urine screen confirms use" },
+      { "id": "d", "text": "This should automatically be diagnosed as severe due to legal risk" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A Substance Use Disorder diagnosis requires meeting at least 2 of the 11 criteria across the four domains (impaired control, social impairment, risky use, pharmacological). Occasional use without impaired control, social impairment, risky use, or pharmacological criteria does not meet even the mild threshold."
+  },
+  {
+    "id": "ad-b2-q25",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "During an assessment, a client's speech is fluent but includes frequent neologisms and shifts in topic with no discernible logical connection between ideas, making the content difficult to follow. This is best described as which type of thought process disturbance?",
+    "choices": [
+      { "id": "a", "text": "Flight of ideas" },
+      { "id": "b", "text": "Loose associations (derailment)" },
+      { "id": "c", "text": "Circumstantiality" },
+      { "id": "d", "text": "Perseveration" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Loose associations, or derailment, describe speech in which ideas shift with no logical connection between them, most associated with schizophrenia. This differs from flight of ideas, in which rapid topic shifts still have a detectable, if loose, connecting thread, more associated with mania."
+  },
+  {
+    "id": "ad-b2-q26",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports a single traumatic car accident 5 years ago and currently experiences nightmares, hypervigilance while driving, and avoidance of highways, along with persistent negative beliefs such as \"the world is completely dangerous.\" Which PTSD specifier is most relevant given the delayed and persistent nature of the presentation?",
+    "choices": [
+      { "id": "a", "text": "With Dissociative Symptoms" },
+      { "id": "b", "text": "With Delayed Expression, if full criteria were not met until 6 or more months after the trauma" },
+      { "id": "c", "text": "No specifier applies to PTSD" },
+      { "id": "d", "text": "Acute subtype" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The With Delayed Expression specifier applies when full PTSD diagnostic criteria are not met until at least 6 months after the traumatic event, which is relevant to consider given how much time has elapsed, though this depends on when symptoms actually began meeting full criteria."
+  },
+  {
+    "id": "ad-b2-q27",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports intense fear specifically of enclosed spaces such as elevators, and separately reports fear of open spaces and being outside the home alone, both leading to significant avoidance for over 6 months. Based on the number of situations involved, which diagnosis is most appropriate?",
+    "choices": [
+      { "id": "a", "text": "Specific Phobia only" },
+      { "id": "b", "text": "Agoraphobia, since fear involves 2 or more of the 5 designated situations" },
+      { "id": "c", "text": "Panic Disorder" },
+      { "id": "d", "text": "Generalized Anxiety Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Agoraphobia requires marked fear/anxiety about 2 or more of 5 situations (public transportation, open spaces, enclosed places, crowds/lines, being outside home alone). Fear of both enclosed spaces and open spaces/being alone meets this threshold, distinguishing it from a single-situation Specific Phobia."
+  },
+  {
+    "id": "ad-b2-q28",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports feeling detached from their own body during moments of high stress, as though watching themselves from outside, along with a sense that their surroundings are not real. These episodes are distressing but the client maintains full awareness that this is not literally true. Which MSE domain would these symptoms most likely be documented under?",
+    "choices": [
+      { "id": "a", "text": "Thought content, as a delusion" },
+      { "id": "b", "text": "Perceptions, as depersonalization/derealization" },
+      { "id": "c", "text": "Cognition, as a memory impairment" },
+      { "id": "d", "text": "Insight, as poor insight" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Depersonalization (feeling detached from oneself) and derealization (feeling surroundings are unreal) are dissociative perceptual experiences, documented under the Perceptions domain of the MSE, distinct from delusions, which are fixed false beliefs under thought content."
+  },
+  {
+    "id": "ad-b2-q29",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports a 3-week history of depressed mood, anhedonia, poor sleep, and difficulty concentrating following a cancer diagnosis, alongside intense, disproportionate distress compared to how they've coped with other stressors in their life. Full MDD criteria are met. Which diagnosis takes priority?",
+    "choices": [
+      { "id": "a", "text": "Adjustment Disorder with Depressed Mood, because there is an identifiable stressor" },
+      { "id": "b", "text": "Major Depressive Disorder, because full criteria are met and take priority over Adjustment Disorder" },
+      { "id": "c", "text": "No diagnosis, since this is an expected reaction to a medical diagnosis" },
+      { "id": "d", "text": "Illness Anxiety Disorder" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Adjustment Disorder is a residual diagnosis used only when full criteria for another disorder are not met. Since this client meets full MDD criteria, MDD takes diagnostic precedence over Adjustment Disorder, even though there is a clear precipitating stressor."
+  },
+  {
+    "id": "ad-b2-q30",
+    "module_id": "assessment-diagnosis",
+    "batch": "batch-2",
+    "stem": "A client reports that their symptoms of anxiety and rapid heartbeat began only after starting a new asthma medication and have not been present at any other point in their life. What should the counselor prioritize before assigning an independent anxiety disorder diagnosis?",
+    "choices": [
+      { "id": "a", "text": "Consider whether the symptoms are better explained as a medication side effect and coordinate with the prescribing provider" },
+      { "id": "b", "text": "Immediately diagnose Panic Disorder" },
+      { "id": "c", "text": "Assume the client is exaggerating symptoms" },
+      { "id": "d", "text": "Refer for psychological testing before considering any medical explanation" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Certain asthma medications (such as stimulant-containing bronchodilators) can produce anxiety-like symptoms. Before diagnosing an independent anxiety disorder, the counselor should consider medical/medication causes and coordinate with the prescribing provider, consistent with ruling out medical explanations first in the differential process."
+  }
+]
