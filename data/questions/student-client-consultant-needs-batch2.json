@@ -1,0 +1,422 @@
+[
+  {
+    "id": "sc-b2-q1",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who recently lost their job describes intense shame and states, \"A real man should be able to provide for his family.\" Which consideration is most important in understanding this client's distress?",
+    "choices": [
+      { "id": "a", "text": "Gender role socialization and cultural expectations around masculinity and providership are shaping the client's distress and should be explored" },
+      { "id": "b", "text": "This statement is irrelevant to treatment planning" },
+      { "id": "c", "text": "The counselor should challenge this belief immediately as irrational" },
+      { "id": "d", "text": "This reflects a personality disorder" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Gendered cultural scripts around masculinity and providership powerfully shape how men experience and express distress related to job loss. Exploring, rather than dismissing or immediately challenging, this belief honors its cultural and psychological significance."
+  },
+  {
+    "id": "sc-b2-q2",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is working with a client who identifies as Deaf and communicates primarily through American Sign Language. What is the most appropriate first consideration in delivering culturally responsive care?",
+    "choices": [
+      { "id": "a", "text": "Assume the client wants to communicate through writing to avoid additional costs" },
+      { "id": "b", "text": "Recognize Deaf culture as a distinct cultural and linguistic community, and arrange for a qualified interpreter or Deaf-competent provider as needed" },
+      { "id": "c", "text": "Treat deafness purely as a medical impairment requiring only accommodation, with no cultural dimension" },
+      { "id": "d", "text": "Proceed with standard verbal therapy techniques without modification" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Deaf culture is recognized as a distinct cultural and linguistic community, not merely a medical condition. Culturally responsive care requires recognizing this identity and arranging for qualified interpretation or Deaf-competent providers rather than defaulting to written communication or unmodified verbal therapy."
+  },
+  {
+    "id": "sc-b2-q3",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client from a collectivist cultural background repeatedly emphasizes obligations to extended family over individual goals, which the counselor initially interprets as enmeshment. What is the most appropriate way to reconsider this interpretation?",
+    "choices": [
+      { "id": "a", "text": "Maintain the interpretation, since prioritizing family over individual goals is inherently unhealthy" },
+      { "id": "b", "text": "Recognize that strong family interdependence may reflect a culturally normative value system rather than pathology, and explore its meaning with the client" },
+      { "id": "c", "text": "Encourage the client to individuate from family immediately" },
+      { "id": "d", "text": "Ignore the cultural context entirely" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "In collectivist cultures, strong family interdependence is often a culturally normative and healthy value, not enmeshment. Applying individualist cultural norms (like Western definitions of healthy boundaries) without exploring the client's own meaning-making risks pathologizing normative cultural values."
+  },
+  {
+    "id": "sc-b2-q4",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client repeatedly references feeling caught between two cultures, saying they feel \"too American\" for their family of origin and \"not American enough\" for their peers. Which concept best describes this experience?",
+    "choices": [
+      { "id": "a", "text": "Acculturation stress related to bicultural identity negotiation" },
+      { "id": "b", "text": "A formal thought disorder" },
+      { "id": "c", "text": "Malingering" },
+      { "id": "d", "text": "Antisocial traits" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Feeling caught between two cultural worlds is a well-documented experience of acculturation stress and bicultural identity negotiation, common among children of immigrants, and is not indicative of a thought disorder or personality pathology."
+  },
+  {
+    "id": "sc-b2-q5",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is working with a client who has a significant physical disability and repeatedly describes a fulfilling, high-quality life despite functional limitations. The counselor notices themselves feeling puzzled by this, having assumed the disability would be a primary source of distress. What does this reaction illustrate?",
+    "choices": [
+      { "id": "a", "text": "The disability paradox, and a need for the counselor to examine their own ableist assumptions" },
+      { "id": "b", "text": "Evidence the client is in denial about their disability" },
+      { "id": "c", "text": "A sign the client needs more aggressive treatment" },
+      { "id": "d", "text": "Confirmation that disability and quality of life are unrelated" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The disability paradox describes the well-documented finding that many people with significant disabilities report high quality of life, contrary to outside assumptions. The counselor's surprise reflects an ableist assumption worth examining rather than evidence of client denial."
+  },
+  {
+    "id": "sc-b2-q6",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who is a refugee describes surviving violence in their home country, a dangerous journey to safety, and ongoing stress about their asylum case status. Which framework best organizes understanding of this client's full range of trauma exposure?",
+    "choices": [
+      { "id": "a", "text": "Pre-migration, migration, and post-migration stressors" },
+      { "id": "b", "text": "The stages of grief" },
+      { "id": "c", "text": "Erikson's psychosocial stages" },
+      { "id": "d", "text": "The transtheoretical model of change" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The pre-migration (violence, persecution), migration (the journey itself), and post-migration (acculturation stress, legal precarity, discrimination) framework specifically organizes the distinct phases and types of stressors refugee and immigrant clients may experience."
+  },
+  {
+    "id": "sc-b2-q7",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor working with a Native American client learns the client participates in traditional healing ceremonies alongside individual counseling. What is the most appropriate clinical stance?",
+    "choices": [
+      { "id": "a", "text": "Advise the client to discontinue traditional practices to avoid interference with counseling" },
+      { "id": "b", "text": "Respect and, where appropriate, integrate awareness of traditional healing practices as a valid complementary resource alongside counseling" },
+      { "id": "c", "text": "Ignore the client's disclosure entirely" },
+      { "id": "d", "text": "Insist the client choose between traditional healing and counseling" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Traditional healing practices are valid cultural and spiritual resources that can coexist with and complement Western counseling approaches. Respecting and integrating awareness of these practices, rather than dismissing or forcing a choice, reflects culturally responsive care."
+  },
+  {
+    "id": "sc-b2-q8",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client with a chronic illness describes feeling dismissed by previous providers who attributed all physical symptoms to anxiety without adequate medical workup. What is the most appropriate response from the current counselor?",
+    "choices": [
+      { "id": "a", "text": "Validate the client's frustration and avoid repeating the pattern of dismissing physical symptoms without appropriate medical coordination" },
+      { "id": "b", "text": "Assume the client is exaggerating symptoms for attention" },
+      { "id": "c", "text": "Immediately diagnose Illness Anxiety Disorder" },
+      { "id": "d", "text": "Refuse to discuss physical symptoms at all" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Clients with chronic illness frequently experience medical gaslighting, where legitimate physical symptoms are dismissed as purely psychological. Validating this experience and ensuring appropriate medical coordination, rather than repeating the pattern, reflects trauma-informed and respectful care."
+  },
+  {
+    "id": "sc-b2-q9",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is working with a client who recently came out as bisexual to their counselor but has not disclosed this to family due to fear of rejection. The family requests to join a session to \"understand what's going on\" with the client. What is the most appropriate response?",
+    "choices": [
+      { "id": "a", "text": "Automatically include family in the next session to improve communication" },
+      { "id": "b", "text": "Discuss the request with the client individually first, respecting their autonomy over whether and how to disclose their identity" },
+      { "id": "c", "text": "Disclose the client's sexual orientation to the family without consent to improve family understanding" },
+      { "id": "d", "text": "Deny the family's request without any discussion with the client" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The client's autonomy over their own coming-out process must be respected. The counselor should discuss the family's request with the client individually first, since involving family without the client's explicit consent could result in involuntary disclosure of their sexual orientation."
+  },
+  {
+    "id": "sc-b2-q10",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client experiencing chronic homelessness presents with symptoms consistent with PTSD and depression. Which sequencing of treatment priorities is most appropriate?",
+    "choices": [
+      { "id": "a", "text": "Begin trauma-focused exposure therapy immediately regardless of housing status" },
+      { "id": "b", "text": "Prioritize connecting the client with housing and basic needs resources alongside stabilization-focused support before intensive trauma processing" },
+      { "id": "c", "text": "Refuse services until the client secures housing independently" },
+      { "id": "d", "text": "Focus exclusively on medication referral with no psychosocial support" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Basic needs and safety must be addressed before intensive trauma processing can be effectively engaged. Connecting the client with housing resources and providing stabilization support reflects appropriate sequencing, consistent with prioritizing safety and basic needs before deeper therapeutic work."
+  },
+  {
+    "id": "sc-b2-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor working with an adolescent client from a religious household learns the client is questioning their sexual orientation but fears rejection from their faith community. What is the most appropriate stance?",
+    "choices": [
+      { "id": "a", "text": "Tell the client their religion is wrong about sexuality" },
+      { "id": "b", "text": "Support the client in exploring their identity while respecting the complexity of their relationship with faith, without imposing the counselor's own views on either" },
+      { "id": "c", "text": "Encourage the client to leave their faith community immediately" },
+      { "id": "d", "text": "Refuse to discuss sexual orientation due to the religious context" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Clients navigating identity and faith conflicts need support exploring both dimensions of their experience without the counselor imposing personal views on either sexuality or religion, respecting the client's autonomy to define their own path forward."
+  },
+  {
+    "id": "sc-b2-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who is a single parent working two jobs reports being unable to attend weekly evening therapy sessions due to childcare and scheduling conflicts. What is the most appropriate clinical response?",
+    "choices": [
+      { "id": "a", "text": "Discharge the client for non-adherence to the treatment schedule" },
+      { "id": "b", "text": "Explore flexible scheduling options, telehealth, or other accommodations that address the client's real logistical barriers to care" },
+      { "id": "c", "text": "Insist on the standard schedule with no modifications" },
+      { "id": "d", "text": "Assume the client is not motivated for treatment" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Logistical and socioeconomic barriers to care, such as childcare and work schedules, are legitimate access issues, not indicators of poor motivation. Exploring flexible accommodations reflects a client-centered, contextually aware approach rather than penalizing the client for structural barriers."
+  },
+  {
+    "id": "sc-b2-q13",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is assessing a client from a culture where direct eye contact with an authority figure, including a counselor, is considered disrespectful. The counselor initially documents this as possible social anxiety. What is the more appropriate consideration?",
+    "choices": [
+      { "id": "a", "text": "The counselor should consider whether reduced eye contact reflects a culturally normative sign of respect rather than a symptom of social anxiety" },
+      { "id": "b", "text": "The original documentation of social anxiety should stand without reconsideration" },
+      { "id": "c", "text": "Eye contact norms are universal and this cannot be a cultural factor" },
+      { "id": "d", "text": "This behavior should be immediately corrected by the counselor" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Eye contact norms vary significantly across cultures, and reduced eye contact with authority figures can be a sign of respect rather than a symptom of social anxiety. Clinicians must consider cultural context before pathologizing behavior that may be culturally normative."
+  },
+  {
+    "id": "sc-b2-q14",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who is a college student reports overwhelming academic pressure from immigrant parents who sacrificed greatly to support their education, alongside significant anxiety and thoughts of being a \"failure and a disappointment.\" What is the most comprehensive way to understand this presentation?",
+    "choices": [
+      { "id": "a", "text": "Treat this purely as an individual anxiety disorder unrelated to family or cultural context" },
+      { "id": "b", "text": "Understand the anxiety within the context of intergenerational sacrifice narratives and filial obligation, alongside standard anxiety assessment" },
+      { "id": "c", "text": "Assume the parents are abusive based on this description alone" },
+      { "id": "d", "text": "Dismiss the family context as irrelevant to treatment" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Understanding this client's anxiety requires considering the cultural and familial context of intergenerational sacrifice and filial obligation common in many immigrant families, integrated with standard clinical anxiety assessment, rather than treating the presentation in isolation from context."
+  },
+  {
+    "id": "sc-b2-q15",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor notices a client consistently minimizes experiences of racial discrimination at work, saying \"it's probably nothing, I shouldn't make a big deal of it.\" What does this pattern most likely reflect?",
+    "choices": [
+      { "id": "a", "text": "Internalized messages minimizing the validity of the client's own experiences of racism, which the counselor should gently explore" },
+      { "id": "b", "text": "Evidence that the discrimination did not actually occur" },
+      { "id": "c", "text": "A sign of healthy coping that should not be explored further" },
+      { "id": "d", "text": "An unrelated symptom of a personality disorder" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Minimizing one's own experiences of discrimination can reflect internalized messages that discourage naming or validating racism, a pattern worth gently exploring rather than accepting at face value or dismissing as evidence the experience wasn't real."
+  },
+  {
+    "id": "sc-b2-q16",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor working with a client who has an intellectual disability adjusts session length, uses concrete language, and incorporates visual aids to support understanding. This reflects which principle?",
+    "choices": [
+      { "id": "a", "text": "Adapting evidence-based practice to the client's specific needs while maintaining the integrity of the therapeutic relationship" },
+      { "id": "b", "text": "Lowering the standard of care because of the client's disability" },
+      { "id": "c", "text": "This adaptation is unnecessary and reflects unequal treatment" },
+      { "id": "d", "text": "Intellectual disability precludes meaningful participation in counseling" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Adapting communication style, session structure, and materials to meet a client's cognitive needs reflects appropriate, competent practice \u2014 not lowering standards, but ensuring the client can meaningfully access and benefit from treatment."
+  },
+  {
+    "id": "sc-b2-q17",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client describes their experience of chronic pain as connected to a spiritual belief that suffering has redemptive purpose, which helps them cope. How should the counselor approach this belief?",
+    "choices": [
+      { "id": "a", "text": "Challenge the belief immediately as a cognitive distortion" },
+      { "id": "b", "text": "Explore and respect the belief as a potential coping resource, assessing whether it is helping the client function rather than assuming it is pathological" },
+      { "id": "c", "text": "Ignore the spiritual dimension entirely and focus only on pain management techniques" },
+      { "id": "d", "text": "Tell the client this belief is incorrect" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Spiritual beliefs that provide meaning and coping should be explored and respected as potential resources rather than automatically challenged as distortions, particularly when they appear to support the client's functioning rather than harm it."
+  },
+  {
+    "id": "sc-b2-q18",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is working with a non-binary client who uses they/them pronouns. During a session, the counselor accidentally uses incorrect pronouns. What is the most appropriate immediate response?",
+    "choices": [
+      { "id": "a", "text": "Briefly acknowledge the mistake, correct it, and continue without dwelling excessively, avoiding over-apologizing in a way that centers the counselor's discomfort" },
+      { "id": "b", "text": "Ignore the mistake entirely" },
+      { "id": "c", "text": "Extensively apologize for several minutes, shifting focus away from the client" },
+      { "id": "d", "text": "Ask the client to remind the counselor of their pronouns repeatedly throughout treatment" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "A brief, genuine correction followed by moving forward respects the client without making the counselor's discomfort or extensive apology the focus of the moment, which can itself become burdensome for the client and shift attention away from their needs."
+  },
+  {
+    "id": "sc-b2-q19",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who is a first-generation college student describes feeling like an impostor among peers from wealthier backgrounds and struggles to seek help from professors despite need. Which concept most directly names this experience?",
+    "choices": [
+      { "id": "a", "text": "Impostor phenomenon, often compounded by class-based social and cultural capital differences" },
+      { "id": "b", "text": "A formal thought disorder" },
+      { "id": "c", "text": "Antisocial personality traits" },
+      { "id": "d", "text": "Malingering for academic accommodations" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Impostor phenomenon, often intensified for first-generation students navigating unfamiliar institutional and class-based norms, describes persistent feelings of not belonging or being a fraud despite evidence of competence, and is a well-documented, non-pathological experience worth addressing directly."
+  },
+  {
+    "id": "sc-b2-q20",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor working with a client who recently became a caregiver for an aging parent notices the client minimizing their own exhaustion, saying \"this is just what family does.\" What is the most appropriate clinical consideration?",
+    "choices": [
+      { "id": "a", "text": "Explore caregiver burden and burnout while respecting the client's cultural or familial values around caregiving obligation" },
+      { "id": "b", "text": "Tell the client they should place their parent in a facility immediately" },
+      { "id": "c", "text": "Dismiss the exhaustion as unimportant since the client described it as normal" },
+      { "id": "d", "text": "Assume the client is exaggerating their caregiving burden" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Caregiver burden is a well-documented risk for burnout and health decline, and it is important to assess and address it even when the client frames the obligation within a valued cultural or familial context, without dismissing either the burden or the client's values."
+  },
+  {
+    "id": "sc-b2-q21",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client describes their experience of poverty as feeling like a personal failure, despite significant structural barriers (job loss during a regional economic downturn, lack of access to affordable childcare). Which clinical approach best addresses both dimensions of this client's experience?",
+    "choices": [
+      { "id": "a", "text": "Address both the internalized self-blame through cognitive work and the real structural barriers through advocacy and resource connection" },
+      { "id": "b", "text": "Focus exclusively on cognitive restructuring since poverty is primarily a mindset issue" },
+      { "id": "c", "text": "Focus exclusively on structural factors and ignore the client's internalized shame" },
+      { "id": "d", "text": "Tell the client their situation is entirely their own responsibility" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Effective care addresses both the internalized shame and self-blame (which may respond to cognitive work) and the real structural barriers driving the client's circumstances (which may require advocacy and resource connection) \u2014 neither dimension alone captures the full picture."
+  },
+  {
+    "id": "sc-b2-q22",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is providing services to a client who recently arrived in the country and has limited English proficiency. The client's teenage child is present and offers to interpret. What is the most appropriate approach?",
+    "choices": [
+      { "id": "a", "text": "Use the teenage child as the interpreter to save time and cost" },
+      { "id": "b", "text": "Arrange for a qualified professional interpreter rather than relying on a family member, particularly a minor, especially for sensitive clinical content" },
+      { "id": "c", "text": "Proceed with the session in English regardless of the client's comprehension" },
+      { "id": "d", "text": "Cancel the session with no interpretation plan" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Using family members, especially minors, as interpreters for sensitive clinical content raises significant ethical concerns including role reversal, burden on the child, and compromised accuracy or confidentiality. A qualified professional interpreter should be arranged instead."
+  },
+  {
+    "id": "sc-b2-q23",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who identifies as a person in long-term recovery from substance use describes their recovery community and 12-step involvement as central to their identity and ongoing coping. How should the counselor incorporate this into treatment planning?",
+    "choices": [
+      { "id": "a", "text": "Recognize the recovery community as a significant strength and protective factor to build treatment around" },
+      { "id": "b", "text": "Discourage continued involvement in favor of individual therapy alone" },
+      { "id": "c", "text": "Treat 12-step involvement as irrelevant to clinical treatment planning" },
+      { "id": "d", "text": "Assume the client is overly dependent on the recovery community" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Recovery community involvement, including 12-step participation, is a well-documented protective factor and source of identity and support in substance use recovery, and should be recognized and built upon as a strength in treatment planning, consistent with strengths-based practice."
+  },
+  {
+    "id": "sc-b2-q24",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is working with a client from a rural community with limited access to specialized mental health providers and no reliable internet for telehealth. Which consideration best reflects addressing this client's contextual needs?",
+    "choices": [
+      { "id": "a", "text": "Assume the client is not truly motivated for treatment if they cannot easily attend sessions" },
+      { "id": "b", "text": "Consider the structural realities of rural access to care, including transportation, provider shortages, and connectivity, when planning treatment" },
+      { "id": "c", "text": "Refuse to treat clients with limited access to technology" },
+      { "id": "d", "text": "Ignore access barriers since they fall outside the counselor's role" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Rural access barriers, including provider shortages, transportation limitations, and inconsistent internet access, are real structural factors that must be considered in treatment planning rather than being misread as low motivation or ignored as outside the counselor's concern."
+  },
+  {
+    "id": "sc-b2-q25",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who is a trans man describes significant distress related to being misgendered at his workplace, alongside symptoms of depression. Which treatment planning approach is most appropriate?",
+    "choices": [
+      { "id": "a", "text": "Treat the depression using standard protocols only, without addressing the workplace misgendering" },
+      { "id": "b", "text": "Address the depression using appropriate evidence-based treatment while also considering whether advocacy or workplace accommodation support is warranted given the ongoing minority stress" },
+      { "id": "c", "text": "Advise the client to change jobs immediately as the only solution" },
+      { "id": "d", "text": "Attribute the depression solely to the client's gender identity itself rather than the discrimination" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Depression in this context should be treated with appropriate evidence-based approaches while also recognizing that ongoing minority stress, such as workplace misgendering, may warrant advocacy or accommodation support as part of a comprehensive treatment plan, rather than treating the identity itself as the problem."
+  },
+  {
+    "id": "sc-b2-q26",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is assessing a client who recently immigrated and describes symptoms including fatigue, body aches, and a sense of \"heat in the chest,\" which the client attributes to nervios. How should the counselor proceed?",
+    "choices": [
+      { "id": "a", "text": "Explore the nervios framework as a valid, culturally recognized expression of distress while also screening for underlying depression or anxiety symptoms" },
+      { "id": "b", "text": "Dismiss the somatic complaints as unrelated to mental health" },
+      { "id": "c", "text": "Insist the client reframe their experience using only DSM terminology" },
+      { "id": "d", "text": "Refer exclusively to a medical provider with no further mental health assessment" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Nervios is a culturally recognized idiom of distress in many Latin American communities that can encompass symptoms overlapping with depression and anxiety. Exploring this framework respectfully while still conducting standard clinical screening reflects culturally responsive assessment."
+  },
+  {
+    "id": "sc-b2-q27",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client who is autistic describes finding small talk exhausting and prefers direct, structured communication in session. What is the most appropriate clinical adaptation?",
+    "choices": [
+      { "id": "a", "text": "Insist on standard rapport-building small talk to match neurotypical norms" },
+      { "id": "b", "text": "Adapt communication style to be more direct and structured, respecting the client's stated preference rather than imposing a neurotypical standard" },
+      { "id": "c", "text": "Interpret the client's preference as a sign of resistance to treatment" },
+      { "id": "d", "text": "Refuse to modify communication style under any circumstances" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Adapting communication style to match an autistic client's stated preferences reflects neurodiversity-affirming practice, recognizing different but equally valid communication styles rather than imposing neurotypical norms or misinterpreting preference as resistance."
+  },
+  {
+    "id": "sc-b2-q28",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A counselor is working with a client who is a veteran and describes profound guilt over actions taken during deployment that conflict with the client's personal values, despite the actions being within the rules of engagement. Which concept most specifically captures this experience?",
+    "choices": [
+      { "id": "a", "text": "Moral injury, distinct from but potentially co-occurring with PTSD" },
+      { "id": "b", "text": "Malingering" },
+      { "id": "c", "text": "A personality disorder" },
+      { "id": "d", "text": "Standard survivor's guilt with no distinct clinical significance" }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Moral injury refers specifically to the psychological distress resulting from actions, or failures to act, that violate one's own deeply held moral beliefs, distinct from PTSD's fear-based conditioning, though the two commonly co-occur and both require attention in treatment."
+  },
+  {
+    "id": "sc-b2-q29",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A client's family requests that the counselor avoid discussing the client's terminal diagnosis directly with the client, stating that in their culture, direct disclosure is considered harmful. What is the most appropriate way to navigate this situation?",
+    "choices": [
+      { "id": "a", "text": "Automatically disclose the diagnosis directly regardless of family or client wishes" },
+      { "id": "b", "text": "Explore the client's own preferences for how much information they want, while remaining sensitive to the cultural context the family has raised, rather than assuming either party's preference automatically overrides the other" },
+      { "id": "c", "text": "Automatically defer entirely to the family's wishes without exploring the client's own preference" },
+      { "id": "d", "text": "Refuse to engage with the family's cultural concern at all" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Cultural norms around disclosure of serious diagnoses vary significantly, and some cultures view indirect communication as protective rather than harmful. The most appropriate approach explores the client's own preferences directly and sensitively, rather than assuming either the family's cultural framework or a default disclosure standard automatically takes precedence."
+  },
+  {
+    "id": "sc-b2-q30",
+    "module_id": "student-client-consultant-needs",
+    "batch": "batch-2",
+    "stem": "A school counselor notices that a disproportionate number of disciplinary referrals in their building involve Black male students for subjective infractions like \"defiance,\" compared to white students for similar behaviors. What is the most appropriate advocacy-informed response?",
+    "choices": [
+      { "id": "a", "text": "Assume the disparity reflects real behavioral differences with no further action needed" },
+      { "id": "b", "text": "Raise the pattern with school administration as a potential systemic equity issue, consistent with the counselor's advocacy responsibilities" },
+      { "id": "c", "text": "Address this only through individual counseling with the affected students, with no systemic action" },
+      { "id": "d", "text": "Avoid raising the issue to prevent conflict with colleagues" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Recognizing and raising patterns of racial disparity in disciplinary practices as a systemic equity concern reflects the community/group level of advocacy that is part of a counselor's ethical responsibility, rather than only addressing the issue individually or avoiding it altogether."
+  }
+]

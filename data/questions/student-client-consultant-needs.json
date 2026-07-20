@@ -1,0 +1,114 @@
+[
+  {
+    "id": "sc-q1",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A 45-year-old Mexican immigrant client presents with depressive symptoms, financial precarity, and limited social support. Which framing best reflects the SC domain's core clinical approach?",
+    "choices": [
+      { "id": "a", "text": "Treat the client as a standard case of Major Depressive Disorder and apply a generic CBT protocol" },
+      { "id": "b", "text": "Understand the client as a whole person whose distress is shaped by acculturation stress, financial context, and limited support, not just a diagnosis" },
+      { "id": "c", "text": "Focus exclusively on the DSM criteria to avoid overcomplicating the case" },
+      { "id": "d", "text": "Refer the client to a Spanish-speaking provider without further assessment" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The SC domain specifically tests whether a counselor sees the whole person, embedded in cultural and contextual factors, rather than reducing the client to a diagnosis and applying a generic protocol."
+  },
+  {
+    "id": "sc-q2",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A client explains their distress by saying, \"My nerves are broken, and I feel a weight on my chest.\" Which clinical response best reflects cultural humility?",
+    "choices": [
+      { "id": "a", "text": "Reframe the client's language immediately into DSM terminology" },
+      { "id": "b", "text": "Explore the somatic explanatory model as a culturally valid expression of distress alongside emotional content" },
+      { "id": "c", "text": "Dismiss the physical complaints as unrelated to the mental health concern" },
+      { "id": "d", "text": "Refer the client to a physician and discontinue mental health treatment" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Somatic expressions like nervios are culturally valid presentations of psychological distress in many communities. Cultural humility requires exploring and integrating this explanatory model rather than overriding it with a purely biomedical frame."
+  },
+  {
+    "id": "sc-q3",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A 16-year-old transgender client reports that their school refuses to use their correct name and pronouns and that bullying has gone unaddressed, contributing to depression and suicidal ideation. What is the most comprehensive clinical response?",
+    "choices": [
+      { "id": "a", "text": "Address only the depressive symptoms through individual therapy" },
+      { "id": "b", "text": "Provide individual affirming therapy and, with consent, engage in advocacy with the school regarding the systemic harm" },
+      { "id": "c", "text": "Recommend the client change schools without further clinical involvement" },
+      { "id": "d", "text": "Avoid discussing the school environment since it falls outside the counselor's role" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "When systemic factors are actively causing harm, advocacy is an ethical clinical responsibility (ACA A.7) alongside individual treatment. Addressing only the symptoms while ignoring an ongoing harmful environment is clinically insufficient."
+  },
+  {
+    "id": "sc-q4",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A counselor is working with a Black client who describes persistent hypervigilance in public spaces due to repeated experiences of racial profiling. How should the counselor interpret this presentation?",
+    "choices": [
+      { "id": "a", "text": "As a symptom of paranoid ideation requiring further psychotic screening" },
+      { "id": "b", "text": "As an adaptive response to real, ongoing racial danger, reflecting race-based traumatic stress" },
+      { "id": "c", "text": "As an exaggeration that should be gently challenged" },
+      { "id": "d", "text": "As unrelated to the presenting problem and not clinically relevant" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Hypervigilance in response to real, repeated racial discrimination should not be misread as paranoia. It reflects race-based traumatic stress, a clinically valid and evidence-supported phenomenon that must be assessed and validated."
+  },
+  {
+    "id": "sc-q5",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A client states that spirituality is central to how they understand their depression, believing it reflects a period of testing from God. What is the most appropriate clinical approach?",
+    "choices": [
+      { "id": "a", "text": "Pathologize the belief as an irrational cognitive distortion to be corrected" },
+      { "id": "b", "text": "Explore the spiritual framework using an assessment approach such as FICA, and integrate it into treatment planning as a potential resource" },
+      { "id": "c", "text": "Avoid the topic of religion entirely to maintain neutrality" },
+      { "id": "d", "text": "Encourage the client to abandon this belief since it may increase guilt" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Religious and spiritual beliefs should not be pathologized or avoided; they should be explored using a structured tool like FICA and considered as a potential clinical resource unless there is clear evidence of harm."
+  },
+  {
+    "id": "sc-q6",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A client who recently immigrated describes maintaining strong ties to their heritage culture while also actively building relationships and skills within the new dominant culture. According to Berry's acculturation framework, which outcome is this client demonstrating, and what is its associated mental health impact?",
+    "choices": [
+      { "id": "a", "text": "Marginalization, associated with the worst mental health outcomes" },
+      { "id": "b", "text": "Assimilation, associated with the best mental health outcomes" },
+      { "id": "c", "text": "Integration/biculturalism, associated with the best mental health outcomes" },
+      { "id": "d", "text": "Separation, associated with uniformly poor outcomes" }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "Maintaining heritage culture while also adapting to the dominant culture reflects integration (biculturalism), which Berry's framework associates with the best overall mental health outcomes among acculturation strategies."
+  },
+  {
+    "id": "sc-q7",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "An older adult client presents with memory complaints, low mood, and social withdrawal following the death of their spouse. The counselor is considering whether this reflects normal grief, depression, or early dementia. What is the most appropriate next step?",
+    "choices": [
+      { "id": "a", "text": "Assume the memory complaints indicate dementia and refer immediately for a dementia workup only" },
+      { "id": "b", "text": "Assume depression is a normal part of aging and defer treatment" },
+      { "id": "c", "text": "Conduct a comprehensive assessment recognizing that depression can mimic dementia (pseudodementia) and treat depression as a first step if identified" },
+      { "id": "d", "text": "Attribute all symptoms to grief and avoid further clinical assessment" }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "Depression is not a normal part of aging, and it can present with cognitive symptoms that mimic dementia (pseudodementia). A comprehensive assessment distinguishing these overlapping presentations is required before assuming an irreversible cognitive disorder."
+  },
+  {
+    "id": "sc-q8",
+    "module_id": "student-client-consultant-needs",
+    "batch": "seed-1",
+    "stem": "A client identifies strongly with their cultural community's traditions and describes drawing on extended family support and cultural pride to cope with a recent job loss. How should this information be used in treatment planning?",
+    "choices": [
+      { "id": "a", "text": "It should be noted but not incorporated, since treatment should focus only on symptom reduction" },
+      { "id": "b", "text": "It should be identified and actively built into the treatment plan as a cultural and relational strength" },
+      { "id": "c", "text": "It should be discouraged in favor of individual coping strategies" },
+      { "id": "d", "text": "It is irrelevant unless the client explicitly requests it be discussed" }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Strengths-based practice requires identifying cultural and relational strengths and actively building treatment plans around them, rather than treating them as incidental or replacing them with individually-focused strategies by default."
+  }
+]
