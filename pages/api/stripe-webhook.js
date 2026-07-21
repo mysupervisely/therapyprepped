@@ -34,11 +34,20 @@ export default async function handler(req, res) {
     return res.status(400).send(`Webhook Error: ${err.message}`);
   }
 
+  const supabase = supabaseAdmin();
+
+  // ---- One-time day-pass purchases ----
   if (event.type === 'checkout.session.completed') {
     const session = event.data.object;
+
+    // Subscription checkouts are handled entirely via invoice.payment_succeeded
+    // below (which fires for both the first charge and every renewal), so
+    // skip subscription-mode sessions here to avoid a duplicate/incomplete row.
+    if (session.mode === 'subscription') {
+      return res.status(200).json({ received: true, note: 'subscription handled via invoice.payment_succeeded' });
+    }
+
     const { plan, track_id } = session.metadata || {};
-    // Stripe collects the email directly on its hosted checkout page (since we
-    // don't pre-fill customer_email), so we read it back from the completed session.
     const email = session.customer_details?.email || session.customer_email;
     const planDetails = PLANS[plan];
 
@@ -50,7 +59,6 @@ export default async function handler(req, res) {
     const startsAt = new Date();
     const expiresAt = new Date(startsAt.getTime() + planDetails.days * 24 * 60 * 60 * 1000);
 
-    const supabase = supabaseAdmin();
     const { error } = await supabase.from('access_passes').insert({
       email,
       plan,
@@ -72,6 +80,83 @@ export default async function handler(req, res) {
         console.error('Failed to record access pass:', error);
         return res.status(500).json({ received: true, error: error.message });
       }
+    }
+  }
+
+  // ---- Monthly subscription: initial charge AND every renewal ----
+  if (event.type === 'invoice.payment_succeeded') {
+    const invoice = event.data.object;
+    const subscriptionId = invoice.subscription;
+
+    if (subscriptionId) {
+      const email = invoice.customer_email;
+      const lineItem = invoice.lines?.data?.[0];
+      const periodEndSeconds = lineItem?.period?.end;
+      const expiresAt = periodEndSeconds
+        ? new Date(periodEndSeconds * 1000)
+        : new Date(Date.now() + 30 * 24 * 60 * 60 * 1000); // fallback: 30 days out
+      const startsAt = new Date();
+
+      if (!email) {
+        console.error('Missing customer_email on invoice', invoice.id);
+        return res.status(200).json({ received: true, warning: 'missing email on invoice' });
+      }
+
+      // Upsert by subscription id: update the row if this subscription has
+      // been seen before (a renewal), otherwise insert a new one (first charge).
+      const { data: existing, error: lookupError } = await supabase
+        .from('access_passes')
+        .select('id')
+        .eq('stripe_subscription_id', subscriptionId)
+        .maybeSingle();
+
+      if (lookupError) {
+        console.error('Failed to look up existing subscription row:', lookupError);
+        return res.status(500).json({ received: true, error: lookupError.message });
+      }
+
+      if (existing) {
+        const { error: updateError } = await supabase
+          .from('access_passes')
+          .update({ expires_at: expiresAt.toISOString() })
+          .eq('id', existing.id);
+        if (updateError) {
+          console.error('Failed to extend subscription access:', updateError);
+          return res.status(500).json({ received: true, error: updateError.message });
+        }
+      } else {
+        const { error: insertError } = await supabase.from('access_passes').insert({
+          email,
+          plan: 'monthly',
+          track_id: 'ncmhce',
+          stripe_subscription_id: subscriptionId,
+          stripe_customer_id: invoice.customer || null,
+          amount_cents: invoice.amount_paid,
+          starts_at: startsAt.toISOString(),
+          expires_at: expiresAt.toISOString(),
+          consent_accepted: true,
+          consent_accepted_at: startsAt.toISOString(),
+        });
+        if (insertError) {
+          console.error('Failed to record new subscription access:', insertError);
+          return res.status(500).json({ received: true, error: insertError.message });
+        }
+      }
+    }
+  }
+
+  // ---- Monthly subscription: cancellation ----
+  // Cuts off access immediately when a subscription is canceled, rather than
+  // waiting for the previously-granted period to naturally run out.
+  if (event.type === 'customer.subscription.deleted') {
+    const subscription = event.data.object;
+    const { error } = await supabase
+      .from('access_passes')
+      .update({ expires_at: new Date().toISOString() })
+      .eq('stripe_subscription_id', subscription.id);
+    if (error) {
+      console.error('Failed to revoke access on subscription cancellation:', error);
+      return res.status(500).json({ received: true, error: error.message });
     }
   }
 
