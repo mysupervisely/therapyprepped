@@ -11,7 +11,6 @@ const PLAN_OPTIONS = [
 ];
 
 export default function Pricing() {
-  const [email, setEmail] = useState('');
   const [consent, setConsent] = useState(false);
   const [loadingPlan, setLoadingPlan] = useState(null);
   const [error, setError] = useState('');
@@ -26,16 +25,12 @@ export default function Pricing() {
       setError('Please check the consent box first.');
       return;
     }
-    if (!email || !email.includes('@')) {
-      setError('Please enter a valid email address.');
-      return;
-    }
     setLoadingPlan(planId);
     try {
       const res = await fetch('/api/create-checkout-session', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ plan: planId, email, consent: true }),
+        body: JSON.stringify({ plan: planId, consent: true }),
       });
       const data = await res.json();
       if (data.url) {
@@ -89,13 +84,10 @@ export default function Pricing() {
           </div>
         ))}
 
-        <label style={{ fontSize: 13, fontWeight: 600 }}>Email for access confirmation</label>
-        <input
-          type="email"
-          placeholder="you@example.com"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-        />
+        <p style={{ fontSize: 12, color: 'rgba(23,48,45,0.55)', marginTop: -6 }}>
+          You'll enter your email on the next screen at checkout — that's the email your access
+          pass will be tied to.
+        </p>
 
         <div className="consent">
           <input
@@ -128,42 +120,3 @@ export default function Pricing() {
             <button
               className="btn-secondary"
               style={{ padding: '10px 18px', borderRadius: 100, border: '1px solid var(--teal)', background: waitlistTrack === 'lmft' ? 'var(--teal-tint)' : 'transparent', cursor: 'pointer' }}
-              onClick={() => { setWaitlistTrack('lmft'); setWaitlistStatus(''); }}
-            >
-              LMFT
-            </button>
-            <button
-              className="btn-secondary"
-              style={{ padding: '10px 18px', borderRadius: 100, border: '1px solid var(--teal)', background: waitlistTrack === 'lmsw' ? 'var(--teal-tint)' : 'transparent', cursor: 'pointer' }}
-              onClick={() => { setWaitlistTrack('lmsw'); setWaitlistStatus(''); }}
-            >
-              LMSW
-            </button>
-          </div>
-          {waitlistTrack && waitlistStatus !== 'done' && (
-            <form onSubmit={handleWaitlistJoin} style={{ maxWidth: 320 }}>
-              <input
-                type="email"
-                placeholder="you@example.com"
-                value={waitlistEmail}
-                onChange={(e) => setWaitlistEmail(e.target.value)}
-              />
-              <button className="btn" type="submit" disabled={waitlistStatus === 'loading'}>
-                {waitlistStatus === 'loading' ? 'Joining…' : `Join ${waitlistTrack.toUpperCase()} waitlist`}
-              </button>
-            </form>
-          )}
-          {waitlistStatus === 'done' && (
-            <p style={{ color: 'var(--correct)', fontWeight: 600, fontSize: 14 }}>
-              You're on the list — we'll email you when it's ready.
-            </p>
-          )}
-          {waitlistStatus === 'error' && (
-            <p style={{ color: 'var(--miss)', fontSize: 14 }}>Something went wrong — please try again.</p>
-          )}
-        </div>
-      </div>
-      <Footer />
-    </div>
-  );
-}
