@@ -36,7 +36,10 @@ export default async function handler(req, res) {
 
   if (event.type === 'checkout.session.completed') {
     const session = event.data.object;
-    const { plan, email, track_id } = session.metadata || {};
+    const { plan, track_id } = session.metadata || {};
+    // Stripe collects the email directly on its hosted checkout page (since we
+    // don't pre-fill customer_email), so we read it back from the completed session.
+    const email = session.customer_details?.email || session.customer_email;
     const planDetails = PLANS[plan];
 
     if (!planDetails || !email) {
@@ -62,8 +65,13 @@ export default async function handler(req, res) {
     });
 
     if (error) {
-      // Duplicate session_id (webhook retry) is fine to ignore; log anything else.
-      if (error.code !== '23505') console.error('Failed to record access pass:', error);
+      // Duplicate session_id (webhook retry) is fine to ignore; anything else
+      // is a real failure and should be surfaced (500) so it's visible in
+      // Stripe's webhook delivery log instead of silently disappearing.
+      if (error.code !== '23505') {
+        console.error('Failed to record access pass:', error);
+        return res.status(500).json({ received: true, error: error.message });
+      }
     }
   }
 
