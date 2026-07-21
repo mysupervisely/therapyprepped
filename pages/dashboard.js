@@ -115,6 +115,12 @@ export default function Dashboard() {
             <div className="banner">
               Access active until {new Date(access.expires_at).toLocaleDateString()} ({access.plan})
             </div>
+            <Link href="/practice-exam" className="module-card" style={{ marginBottom: 20, display: 'block', background: 'var(--teal-tint)', borderColor: 'var(--teal)' }}>
+              <div className="tag">Full-length</div>
+              <h3>Practice Exams</h3>
+              <p>3 full exams, 110 questions each, scored only at the end — like test day.</p>
+            </Link>
+
             <div className="module-grid">
               {modulesData.map((mod) => {
                 const completed = lessonsCompletedForModule(mod.id);
