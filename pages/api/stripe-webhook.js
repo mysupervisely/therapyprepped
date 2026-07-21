@@ -36,7 +36,10 @@ export default async function handler(req, res) {
 
   if (event.type === 'checkout.session.completed') {
     const session = event.data.object;
-    const { plan, email, track_id } = session.metadata || {};
+    const { plan, track_id } = session.metadata || {};
+    // Stripe collects the email directly on its hosted checkout page (since we
+    // don't pre-fill customer_email), so we read it back from the completed session.
+    const email = session.customer_details?.email || session.customer_email;
     const planDetails = PLANS[plan];
 
     if (!planDetails || !email) {
