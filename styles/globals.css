@@ -310,3 +310,16 @@ footer.site-footer {
 .track-splash-soon-badge-dim {
   opacity: 0.6;
 }
+
+.sample-choice {
+  padding: 10px 12px;
+  border: 1px solid rgba(23,48,45,0.15);
+  background: var(--paper);
+  border-radius: 8px;
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+.sample-choice.correct {
+  border-color: var(--correct);
+  background: rgba(63,125,83,0.1);
+}
