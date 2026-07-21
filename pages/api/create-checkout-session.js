@@ -3,9 +3,10 @@ import { getStripe, PLANS } from '../../lib/stripe';
 export default async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
 
-  const { plan, consent } = req.body || {};
+  const { plan, email, consent } = req.body || {};
 
   if (!plan || !PLANS[plan]) return res.status(400).json({ error: 'Invalid plan selected' });
+  if (!email || !email.includes('@')) return res.status(400).json({ error: 'A valid email is required' });
   if (!consent) return res.status(400).json({ error: 'Consent to Terms and Disclaimer is required' });
 
   const planDetails = PLANS[plan];
@@ -16,8 +17,7 @@ export default async function handler(req, res) {
     const session = await stripe.checkout.sessions.create({
       mode: 'payment',
       payment_method_types: ['card'],
-      // No customer_email set — Stripe Checkout will show its own email field
-      // and collect it directly on the hosted page.
+      customer_email: email,
       line_items: [
         {
           price_data: {
@@ -33,6 +33,7 @@ export default async function handler(req, res) {
       ],
       metadata: {
         plan,
+        email,
         track_id: 'ncmhce',
         consent_accepted: 'true',
       },
