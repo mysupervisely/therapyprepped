@@ -121,8 +121,8 @@ export default function Pricing() {
         {error && <div style={{ fontSize: 13, color: 'var(--miss)' }}>{error}</div>}
 
         <div className="banner">
-          Supervising interns? <a className="link" href="https://mysupervisely.com" target="_blank" rel="noreferrer">MySupervisely.com</a> connects
-          interns with supervisors across LMHC and other licensure tracks.
+          Finishing up and job hunting? <a className="link" href="https://mysupervisely.com" target="_blank" rel="noreferrer">MySupervisely.com</a> connects
+          interns with supervisors and job opportunities across LMHC and other licensure tracks.
         </div>
 
         <div style={{ marginTop: 40 }}>
