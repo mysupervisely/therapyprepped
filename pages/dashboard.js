@@ -75,6 +75,24 @@ export default function Dashboard() {
     return progress.completedLessonIds.filter((id) => lessonIds.includes(id)).length;
   }
 
+  async function openBillingPortal() {
+    try {
+      const res = await fetch('/api/create-portal-session', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      const data = await res.json();
+      if (data.url) {
+        window.location.href = data.url;
+      } else {
+        setError(data.error || 'Could not open billing management right now.');
+      }
+    } catch (e) {
+      setError('Could not open billing management right now.');
+    }
+  }
+
   return (
     <div>
       <Head><title>Case Dashboard — TherapyPrepped</title></Head>
@@ -114,6 +132,14 @@ export default function Dashboard() {
           <>
             <div className="banner">
               Access active until {new Date(access.expires_at).toLocaleDateString()} ({access.plan})
+              {access.plan === 'monthly' && (
+                <>
+                  {' — '}
+                  <a className="link" onClick={openBillingPortal} style={{ cursor: 'pointer' }}>
+                    Manage or cancel subscription
+                  </a>
+                </>
+              )}
             </div>
             <Link href="/practice-exam" className="module-card" style={{ marginBottom: 20, display: 'block', background: 'var(--teal-tint)', borderColor: 'var(--teal)' }}>
               <div className="tag">Full-length</div>
