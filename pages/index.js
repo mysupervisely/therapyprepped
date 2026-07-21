@@ -2,10 +2,12 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
+import TrackSplash from '../components/TrackSplash';
 
 export default function Home() {
   return (
     <div>
+      <TrackSplash />
       <Head>
         <title>TherapyPrepped — NCMHCE Exam Prep</title>
         <meta
