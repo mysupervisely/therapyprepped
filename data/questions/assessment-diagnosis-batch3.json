@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "cs-chloe-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Chloe, 16, has lost 25 pounds in 4 months (BMI 16.2), restricts to under 700 calories/day, cuts food into microscopic pieces, and insists she is 'just eating clean,' while her parents are alarmed. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Rely solely on Chloe's self-report since she is the identified client"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment integrating parent report, Chloe's perspective, eating patterns, menstrual history, and immediate medical safety given her significant weight loss"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment until Chloe agrees she has a problem"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her cross-training schedule without exploring her eating patterns"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the severity of weight loss and her limited insight, a comprehensive assessment integrating parent report, direct observation, and immediate medical safety screening is essential, rather than relying solely on her self-report or delaying assessment."
+  },
+  {
+    "id": "cs-chloe-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Chloe severely restricts caloric intake, exhibits ritualistic food behaviors, expresses intense fear of weight gain, feels 'fat' despite visible emaciation, and has missed her last three menstrual periods. Which differential diagnostic conclusion is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code to avoid an eating disorder diagnosis in an adolescent"
+      },
+      {
+        "id": "b",
+        "text": "Apply DSM-5-TR Anorexia Nervosa criteria, given significant low weight, intense fear of weight gain, body image disturbance, and amenorrhea-consistent findings"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based solely on her stated goal of 'eating clean and cross-training'"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing before considering an eating disorder diagnosis"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Significantly low body weight, intense fear of weight gain, distorted body image (feeling 'fat' despite emaciation), and disrupted menstruation together strongly support an Anorexia Nervosa diagnosis under DSM-5-TR criteria."
+  },
+  {
+    "id": "cs-chloe-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given Chloe's BMI of 16.2 and 25-pound weight loss over 4 months, what is the most appropriate immediate crisis and risk mitigation action?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A standard behavioral contract with follow-up in two weeks"
+      },
+      {
+        "id": "b",
+        "text": "An immediate medical evaluation to assess for cardiac, electrolyte, or other physiological complications, alongside psychological risk assessment"
+      },
+      {
+        "id": "c",
+        "text": "Immediately hospitalizing her without any further evaluation"
+      },
+      {
+        "id": "d",
+        "text": "Focusing only on the psychological aspects and deferring medical evaluation"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A BMI this low with rapid, significant weight loss carries serious medical risk (cardiac, electrolyte complications); immediate medical evaluation alongside psychological risk assessment is the appropriate priority, not a routine follow-up or psychological-only focus."
+  },
+  {
+    "id": "cs-samuel-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Samuel, 74, is brought by his daughter due to 3 months of social withdrawal, forgetfulness, word-finding difficulty, and appears slow to respond with a flat affect, though he can recall details correctly when given extra time and gentle prompting. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Rely exclusively on a brief cognitive screening tool administered quickly"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment including mood, cognitive functioning with appropriate time allowances, recent losses, and collateral information from his daughter"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment until his cognitive symptoms worsen further"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on his memory complaints without assessing mood"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive assessment that includes both mood and carefully paced cognitive evaluation, along with collateral history and attention to recent losses, is necessary given the overlapping presentation of possible depression and cognitive decline."
+  },
+  {
+    "id": "cs-samuel-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Samuel's symptoms began abruptly shortly after the anniversary of his wife's passing, and he can recall details accurately when given extra time, despite initially appearing unable to. Which differential diagnostic consideration is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a diagnosis of Major Neurocognitive Disorder immediately based on his memory complaints"
+      },
+      {
+        "id": "b",
+        "text": "Consider pseudodementia (depression presenting with cognitive symptoms) given the abrupt onset tied to grief and his actual intact recall with support, while continuing to monitor for a true neurocognitive disorder"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based solely on his daughter's report without further exploration"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing before considering either depression or a cognitive disorder"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The abrupt onset tied to a grief anniversary, combined with his ability to recall information accurately when given time and support, is classic for pseudodementia (depression-related cognitive symptoms) rather than a true, gradually progressive neurocognitive disorder, though ongoing monitoring remains important."
+  },
+  {
+    "id": "cs-samuel-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given Samuel's age, recent bereavement, and social withdrawal, what is a critical risk consideration for this population?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No elevated risk exists simply due to his age"
+      },
+      {
+        "id": "b",
+        "text": "Suicide risk, which is highest among older white males, requires careful, direct assessment given his bereavement and withdrawal"
+      },
+      {
+        "id": "c",
+        "text": "Risk assessment is unnecessary since he denies memory problems himself"
+      },
+      {
+        "id": "d",
+        "text": "Risk assessment should be deferred until his cognitive status is fully clarified"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Older white males have the highest completed suicide rate of any demographic group, and Samuel's recent bereavement and social withdrawal are additional risk factors requiring direct, careful assessment rather than assumption of safety based on age or deferral pending further workup."
+  },
+  {
+    "id": "cs-liam-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Liam, 14, shows academic decline, blurts answers, interrupts, fails to submit completed homework, fidgets constantly, and loses items daily, describing his brain as having '50 TV channels changing all at once.' He denies trauma, depressed mood, or pervasive anxiety. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Rely solely on the school's disciplinary reports without direct assessment"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment gathering information from Liam, his parents, and school reports across multiple settings, alongside screening for other conditions"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment until his grades improve on their own"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on his classroom behavior without exploring his home functioning"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive assessment gathering information across multiple settings (home and school) from multiple informants, alongside screening for co-occurring conditions, is necessary for an accurate picture of Liam's functioning, rather than relying on a single source or setting."
+  },
+  {
+    "id": "cs-liam-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Liam shows inattentive symptoms (losing items, disorganization) and hyperactive-impulsive symptoms (blurting answers, interrupting, fidgeting) across both home and school settings, denying trauma or mood symptoms. Which differential diagnostic conclusion is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code to avoid labeling him with ADHD"
+      },
+      {
+        "id": "b",
+        "text": "Apply DSM-5-TR ADHD criteria, Combined Presentation, given symptoms present across multiple settings involving both inattentive and hyperactive-impulsive domains"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based solely on the school's disciplinary reports"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing before considering an ADHD diagnosis"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Symptoms spanning both inattentive and hyperactive-impulsive domains, present across multiple settings (home and school), are most consistent with ADHD, Combined Presentation, under DSM-5-TR criteria."
+  },
+  {
+    "id": "cs-liam-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given Liam's academic decline and increasing disciplinary issues at school, what is an important risk-related consideration for the counselor to explore?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No risk consideration is needed since he denies depressed mood"
+      },
+      {
+        "id": "b",
+        "text": "Screening for secondary impacts such as declining self-esteem, peer relationship difficulties, and family conflict that can accumulate alongside untreated ADHD"
+      },
+      {
+        "id": "c",
+        "text": "Assuming his disciplinary issues indicate a conduct disorder requiring immediate intervention"
+      },
+      {
+        "id": "d",
+        "text": "Deferring any further exploration since he denies trauma or anxiety"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Even without denied mood symptoms, untreated ADHD in adolescents is associated with secondary risks like declining self-esteem, peer difficulties, and family conflict, which should be actively screened for rather than assumed absent based on his denial of primary mood symptoms."
+  },
+  {
+    "id": "cs-maria-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Maria, a 45-year-old Latina immigrant, presents reporting 'nervios' with physical shaking, palpitations, dizziness, and dread over 2 months, alongside food insecurity, daily crying, and profound fatigue. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Administer only standardized English-language screening tools before building rapport"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive, multi-method assessment that explores her cultural framework, food insecurity, and mood symptoms together"
+      },
+      {
+        "id": "c",
+        "text": "Defer formal assessment until she stops referencing 'nervios' and uses DSM terminology"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her physical symptoms since her medical workup was unremarkable"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Maria's presentation spans somatic, cultural, and socioeconomic domains simultaneously; a comprehensive assessment integrating her cultural idiom of distress alongside her mood and safety symptoms is required rather than a narrow or delayed approach."
+  },
+  {
+    "id": "cs-maria-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Maria's medical evaluation was unremarkable, yet she reports daily crying, profound fatigue, sleep disruption, and hopelessness. Which differential diagnostic step is most appropriate at this stage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a provisional V-code and avoid further diagnostic exploration"
+      },
+      {
+        "id": "b",
+        "text": "Systematically apply DSM-5-TR criteria for MDD and GAD while considering her 'nervios' as a culturally patterned idiom of distress, not a separate disorder"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based solely on the term 'nervios' as she used it"
+      },
+      {
+        "id": "d",
+        "text": "Order additional projective testing before considering any mood disorder"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "With medical causes ruled out, the counselor should systematically apply DSM-5-TR criteria to her symptom cluster, understanding that 'nervios' is a culturally recognized way of describing distress that can co-occur with, not replace, formal diagnostic criteria."
+  },
+  {
+    "id": "cs-maria-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Maria states with flat certainty that 'nothing is ever going to change' and that she sees 'no path forward.' What is the most appropriate immediate clinical action?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Note the statement as cultural pessimism and continue the standard intake"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a structured risk assessment exploring hopelessness, ideation, plan, intent, means, and protective factors"
+      },
+      {
+        "id": "c",
+        "text": "Immediately arrange involuntary hospitalization based on this statement alone"
+      },
+      {
+        "id": "d",
+        "text": "Redirect the conversation to avoid reinforcing negative thinking"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Flat, certain hopelessness is one of the strongest cognitive predictors of suicide risk and must be followed by a structured risk assessment before any further conclusions or actions are taken, rather than being dismissed or met with an immediately restrictive response."
+  },
+  {
+    "id": "cs-david1-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David, 28, spends 3-4 hours daily on handwashing and bleaching rituals related to contamination fears, recognizing the behavior as excessive. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prioritize a structured symptom checklist over building rapport with him"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment exploring the function, triggers, and severity of his rituals alongside his insight and daily functioning"
+      },
+      {
+        "id": "c",
+        "text": "Defer full assessment until he agrees to stop the rituals"
+      },
+      {
+        "id": "d",
+        "text": "Focus only on the contamination fear without exploring his developmental or family history"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive assessment exploring the function and severity of David's rituals, his insight, and functional impact is necessary to accurately understand and later treat his presentation, rather than narrowly focusing on a single symptom or withholding assessment."
+  },
+  {
+    "id": "cs-david1-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David recognizes his washing rituals are excessive and irrational, yet cannot stop without his anxiety spiking alongside vivid intrusive images of his family dying of infectious disease. Which differential diagnostic conclusion is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code to avoid a formal diagnosis"
+      },
+      {
+        "id": "b",
+        "text": "Apply DSM-5-TR criteria for OCD, distinguishing his ego-dystonic intrusive thoughts and compulsions from a delusional or psychotic process"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based only on his own description of 'excessive and irrational' behavior"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing to identify unconscious structural conflicts before diagnosing"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "David's intact insight (recognizing the behavior as excessive/irrational) alongside intrusive, unwanted thoughts and compulsions performed to reduce distress are the defining features of OCD, distinguishing this from a psychotic process where insight would be absent."
+  },
+  {
+    "id": "cs-david1-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David has tried breathing exercises and progressive muscle relaxation independently with no relief from his contamination-related anxiety. What should the counselor prioritize in ongoing risk and safety monitoring?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assume no risk monitoring is needed since he denies suicidal ideation currently"
+      },
+      {
+        "id": "b",
+        "text": "Structured, ongoing assessment of mood, functional impairment, and any emergence of hopelessness given the chronic, distressing nature of unremitting OCD symptoms"
+      },
+      {
+        "id": "c",
+        "text": "Immediate hospitalization due to his failed self-management attempts"
+      },
+      {
+        "id": "d",
+        "text": "Deflect any discussion of distress to avoid reinforcing his anxiety"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Chronic, unremitting OCD symptoms carry meaningful risk for secondary depression and hopelessness, so ongoing structured monitoring is warranted even without current suicidal ideation, rather than assuming no risk exists or jumping to hospitalization."
+  },
+  {
+    "id": "cs-marcus1-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Marcus, an honorably discharged combat veteran, presents 18 months post-discharge with hypervigilance, ambush nightmares, and avoidance of crowds and overpasses, alongside alcohol use to dull intrusive thoughts. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prioritize standardized testing before establishing any rapport"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment covering trauma exposure, current symptoms, alcohol use, and moral injury alongside his ongoing divorce/custody stress"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment until his divorce proceedings conclude"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on his nightmares without assessing alcohol use or the legal situation"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Marcus's presentation includes trauma symptoms, substance use, moral injury, and an active legal stressor; a comprehensive assessment covering all of these interacting domains is necessary rather than a narrow focus on any single element."
+  },
+  {
+    "id": "cs-marcus1-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Marcus reports nightmares of a specific combat ambush, hypervigilance, and avoidance beginning after his deployment, alongside deep moral injury regarding his combat actions. Which differential diagnostic process is most appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code to avoid an official diagnosis"
+      },
+      {
+        "id": "b",
+        "text": "Systematically apply DSM-5-TR PTSD criteria while distinguishing trauma-based symptoms from his separate, though related, experience of moral injury and alcohol use"
+      },
+      {
+        "id": "c",
+        "text": "Base the diagnosis solely on his self-identification as having 'PTSD'"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing to confirm unconscious conflicts before considering PTSD"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A systematic application of PTSD criteria, while recognizing moral injury and alcohol use as related but conceptually distinct concerns requiring their own attention, provides the most accurate differential diagnostic picture for Marcus."
+  },
+  {
+    "id": "cs-marcus1-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Marcus uses alcohol nightly to 'dull his intrusive thoughts.' What is the most appropriate risk and safety consideration given this pattern combined with his trauma history and active legal stress?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A standard behavioral contract with follow-up in two weeks"
+      },
+      {
+        "id": "b",
+        "text": "A structured risk assessment covering suicidal ideation, alcohol-related risk, and the compounding effect of his custody stress, alongside safety planning as needed"
+      },
+      {
+        "id": "c",
+        "text": "Immediate involuntary hospitalization based on his alcohol use alone"
+      },
+      {
+        "id": "d",
+        "text": "Deflecting from the topic to avoid appearing to judge his coping strategy"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The combination of trauma, nightly alcohol use as an avoidance strategy, and an acute stressor (custody battle) elevates risk and requires a structured, comprehensive risk assessment rather than a routine follow-up, immediate hospitalization, or avoidance of the topic."
+  },
+  {
+    "id": "cs-sarah1-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah, 6 months postpartum, reports near-daily uncontrollable worry about her infant's safety, finances, and returning to work, with muscle tension and irritability, denying panic attacks or flashbacks. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prioritize standardized testing over building rapport with a new mother"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment covering her worry domains, postpartum context, sleep/energy, and screening for postpartum mood and anxiety symptoms specifically"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment until she returns to work"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her infant's safety concerns without a broader history"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive assessment specifically screening for postpartum anxiety and mood symptoms, alongside her broader worry pattern and functional context, is necessary given the perinatal timing of her presentation."
+  },
+  {
+    "id": "cs-sarah1-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah's worry spans her infant's safety, finances, and work, present nearly daily for months, without discrete panic attacks, obsessions, or flashbacks. Which differential diagnostic conclusion is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code and avoid a formal diagnosis"
+      },
+      {
+        "id": "b",
+        "text": "Apply DSM-5-TR GAD criteria, given the multi-domain, persistent worry pattern, while screening for postpartum-specific presentations"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose Panic Disorder based on her anxiety alone"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing before considering an anxiety diagnosis"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Persistent, multi-domain worry without discrete panic attacks, obsessions, or flashbacks is most consistent with GAD criteria, while the postpartum timing warrants specific screening for perinatal anxiety presentations."
+  },
+  {
+    "id": "cs-sarah1-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given Sarah's worry specifically about her infant's safety, what is the most important risk-related distinction to clarify during assessment?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Whether her worry crosses into intrusive thoughts of harming the infant herself, which would need different clinical attention than protective worry"
+      },
+      {
+        "id": "b",
+        "text": "Whether she prefers bottle or breastfeeding"
+      },
+      {
+        "id": "c",
+        "text": "Whether her partner shares equal childcare duties"
+      },
+      {
+        "id": "d",
+        "text": "Whether she has hired childcare help"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Clarifying whether Sarah's worry is protective anxious worry versus intrusive, ego-dystonic thoughts of harming her infant is a critical distinction, as the latter would require different, more urgent clinical attention (potentially postpartum OCD) than standard GAD worry."
+  },
+  {
+    "id": "cs-elena-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Elena, 23, presents after an ED visit for non-suicidal self-injury, with a long-standing pattern of unstable relationships, abandonment fears, idealization/devaluation, and chronic emptiness. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prioritize standardized personality testing before any risk assessment"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment integrating her self-injury history, relational patterns, emotional regulation, and current safety, with careful rapport-building"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment until she demonstrates full engagement with treatment"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on the recent self-injury episode without exploring her relational history"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Elena's presentation requires an integrated assessment of self-injury, longstanding relational patterns, and emotion regulation alongside careful attention to safety and rapport, given the sensitivity of a BPD-consistent presentation."
+  },
+  {
+    "id": "cs-elena-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Elena describes chronic emptiness, frantic efforts to avoid abandonment, alternating idealization/devaluation of partners, and difficulty controlling intense anger. Which differential diagnostic conclusion is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code to avoid a personality disorder label"
+      },
+      {
+        "id": "b",
+        "text": "Systematically apply DSM-5-TR criteria for Borderline Personality Disorder while also assessing for co-occurring mood or trauma-related conditions"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based solely on her recent self-injury episode"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing exclusively to confirm the diagnosis"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Elena's pattern of symptoms meets multiple core BPD criteria and should be systematically evaluated against full diagnostic criteria, while also screening for common co-occurring conditions like mood disorders or trauma history."
+  },
+  {
+    "id": "cs-elena-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given Elena's recent ED visit for self-injury, what is the most appropriate ongoing risk mitigation protocol?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A standard behavioral contract with follow-up in two weeks"
+      },
+      {
+        "id": "b",
+        "text": "An immediate, structured risk assessment exploring the function of her self-injury, suicidal ideation, intent, means, and protective factors, followed by collaborative safety planning"
+      },
+      {
+        "id": "c",
+        "text": "Immediate involuntary hospitalization based on the ED visit alone"
+      },
+      {
+        "id": "d",
+        "text": "Deflecting the topic to avoid reinforcing the behavior"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A structured risk assessment exploring both the function of her self-injury and any suicidal intent, followed by collaborative safety planning, is the appropriate response, rather than a generic contract, automatic hospitalization, or avoidance."
+  },
+  {
+    "id": "cs-james-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "James, mandated by his employer after a workplace accident, minimizes his drinking ('just a few beers like every guy on my crew') and blames the accident on equipment malfunction. What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Confront him immediately about his defensiveness before building any rapport"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive, non-confrontational assessment exploring his alcohol use pattern, tolerance, withdrawal signs, and work/relationship impact"
+      },
+      {
+        "id": "c",
+        "text": "Accept his account at face value and close the assessment quickly"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on the accident without exploring his broader alcohol use pattern"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive, non-confrontational assessment approach is most likely to yield accurate information from a defensive, mandated client, exploring the full pattern of use, tolerance, and functional impact rather than accepting minimization or confronting prematurely."
+  },
+  {
+    "id": "cs-james-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Further questioning reveals James needs progressively more alcohol for relaxation, has failed twice to cut down, and experiences hand tremors and sweating on mornings without drinking before work. Which differential diagnostic conclusion is most supported?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assign a temporary V-code to avoid labeling him with a substance use disorder"
+      },
+      {
+        "id": "b",
+        "text": "Apply DSM-5-TR Alcohol Use Disorder criteria, noting evidence of tolerance, failed cutting-down attempts, and withdrawal symptoms"
+      },
+      {
+        "id": "c",
+        "text": "Diagnose based solely on his self-description as a moderate social drinker"
+      },
+      {
+        "id": "d",
+        "text": "Use projective testing before considering a substance use diagnosis"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Tolerance (needing more for the same effect), failed attempts to cut down, and withdrawal symptoms (tremors, sweating) are core AUD criteria clearly present in James's history, regardless of his own minimizing self-description."
+  },
+  {
+    "id": "cs-james-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given James reports morning tremors and sweating when he doesn't drink before work, what is the most important immediate clinical safety consideration?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No immediate safety concern exists since he denies depression or anxiety"
+      },
+      {
+        "id": "b",
+        "text": "Assessing the risk of potentially dangerous alcohol withdrawal should he abruptly stop drinking, and coordinating appropriate medical involvement if indicated"
+      },
+      {
+        "id": "c",
+        "text": "Immediately mandating complete abstinence starting that day with no medical involvement"
+      },
+      {
+        "id": "d",
+        "text": "Deflecting from the withdrawal symptoms to avoid alarming him"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Morning tremors and sweating suggest physiological dependence, and alcohol withdrawal can be medically dangerous; assessing this risk and coordinating medical involvement before any abrupt cessation is a critical safety priority."
+  },
+  {
+    "id": "cs-priya-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Priya, 38, presents 5 months after her mother's sudden death, with ongoing sadness, crying spells, and difficulty focusing at work, while still managing childcare and household responsibilities, though 'it takes a lot more effort than before.' What is the most appropriate intake and initial assessment strategy?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prioritize a standardized grief inventory over exploring her actual functioning"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a comprehensive assessment distinguishing normal grief from clinical impairment, including her functional capacity, cultural context, and family pressure"
+      },
+      {
+        "id": "c",
+        "text": "Defer assessment since 5 months is considered too soon after a loss to assess"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her work concentration difficulties without exploring her grief or family context"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive assessment that carefully distinguishes normal grief from clinically significant impairment, while incorporating her actual functional capacity and cultural/family context, is necessary rather than relying on a single tool, delaying assessment, or narrowing focus to one symptom domain."
+  },
+  {
+    "id": "cs-priya-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Priya reports intense grief but maintains her caregiving and household functioning, denies prior depressive episodes, and denies suicidal ideation, with symptoms present for 5 months. Which differential diagnostic conclusion is most supported at this point?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prolonged Grief Disorder, since the duration threshold has already been met"
+      },
+      {
+        "id": "b",
+        "text": "Her presentation does not yet meet duration criteria for Prolonged Grief Disorder (which requires 12+ months in adults); continued monitoring for normal grief, Adjustment Disorder, or MDD as appropriate is warranted"
+      },
+      {
+        "id": "c",
+        "text": "Major Depressive Disorder, based on the presence of any sadness"
+      },
+      {
+        "id": "d",
+        "text": "No diagnosis should ever be considered during bereavement"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Prolonged Grief Disorder requires symptoms persisting more than 12 months in adults; at 5 months, while her distress is real and worth monitoring closely, this duration threshold has not been met, and continued assessment for normal grief versus another condition is appropriate rather than premature diagnosis or dismissal."
+  },
+  {
+    "id": "cs-priya-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Priya denies active or passive suicidal ideation. Given her significant grief, what is the most appropriate ongoing risk consideration?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No further risk assessment is needed since she denies ideation at this visit"
+      },
+      {
+        "id": "b",
+        "text": "Continue to routinely and directly screen for suicidal ideation and hopelessness at subsequent sessions, since risk can emerge or change over the course of grief"
+      },
+      {
+        "id": "c",
+        "text": "Assume she is at high risk based on her sadness alone and pursue hospitalization"
+      },
+      {
+        "id": "d",
+        "text": "Avoid asking about suicidal ideation directly to prevent introducing the idea"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Even with a denial of ideation at intake, ongoing, direct screening for suicidal ideation and hopelessness at future sessions remains appropriate given grief's fluctuating course, rather than assuming permanent safety, over-escalating based on sadness alone, or avoiding direct questions out of unfounded concern."
+  },
+  {
+    "id": "cs-marcus2-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Marcus, a combat veteran, reports frequent nightmares, hypervigilance, and 'avoidance of places that feel like home' 12 years after two deployments. What is the most appropriate initial diagnostic consideration?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Generalized Anxiety Disorder"
+      },
+      {
+        "id": "b",
+        "text": "Posttraumatic Stress Disorder"
+      },
+      {
+        "id": "c",
+        "text": "Borderline Personality Disorder"
+      },
+      {
+        "id": "d",
+        "text": "Schizophrenia"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Nightmares, hypervigilance, and avoidance directly tied to a specific trauma exposure years earlier are classic, defining symptoms of PTSD, distinguishing it from a general anxiety presentation."
+  },
+  {
+    "id": "cs-marcus2-q10",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "During a session, Marcus states he might 'end it' if his wife leaves him. What is the counselor's immediate clinical responsibility?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Wait until the next session to see if he still feels that way"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a thorough risk assessment and develop a safety plan immediately"
+      },
+      {
+        "id": "c",
+        "text": "Begin Motivational Interviewing to build his motivation to live"
+      },
+      {
+        "id": "d",
+        "text": "Suggest he discuss the comment with his wife directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Any statement suggesting suicidal ideation, even conditional, requires an immediate, thorough risk assessment and safety planning within the same session rather than being deferred or addressed only through a change-focused technique."
+  },
+  {
+    "id": "cs-sarah2-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah, a 34-year-old mother of two, reports six months of persistent sadness, poor concentration, and a 12-pound weight gain, describing herself as a 'shell of a person.' Which diagnostic tool is most appropriate to assess the severity of her depressive symptoms specifically?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Beck Depression Inventory (BDI-II)"
+      },
+      {
+        "id": "b",
+        "text": "GAD-7"
+      },
+      {
+        "id": "c",
+        "text": "AUDIT"
+      },
+      {
+        "id": "d",
+        "text": "Mental Status Examination alone"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "The BDI-II is the gold-standard self-report tool specifically designed to measure the severity of depressive symptoms, making it the most targeted choice for evaluating Sarah's mood presentation."
+  },
+  {
+    "id": "cs-sarah2-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah describes trembling hands and a 'constantly churning' mind about work performance and parenting adequacy. Which DSM-5-TR criterion is central to confirming a GAD diagnosis here?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Panic attacks occurring specifically in social situations"
+      },
+      {
+        "id": "b",
+        "text": "Excessive anxiety/worry occurring more days than not for at least 6 months"
+      },
+      {
+        "id": "c",
+        "text": "Ritualistic behaviors performed to reduce the anxiety"
+      },
+      {
+        "id": "d",
+        "text": "Symptoms occurring only during a substance-induced state"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The six-month duration of excessive, difficult-to-control worry occurring more days than not is the defining diagnostic threshold for Generalized Anxiety Disorder under the DSM-5-TR."
+  },
+  {
+    "id": "cs-sarah2-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah drinks 2-3 glasses of wine nightly to manage her pre-work anxiety symptoms. What is the counselor's highest clinical priority regarding this pattern?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assessing for alcohol withdrawal risk should she stop abruptly"
+      },
+      {
+        "id": "b",
+        "text": "Discussing the financial cost of her wine habit"
+      },
+      {
+        "id": "c",
+        "text": "Suggesting alternative alcohol brands"
+      },
+      {
+        "id": "d",
+        "text": "Waiting until her depression resolves before addressing alcohol"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Safety is always the clinical priority; nightly alcohol use over time can produce physiological dependence, and assessing withdrawal risk is essential before any plan involving abrupt cessation."
+  },
+  {
+    "id": "cs-sarah2-q6",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah has withdrawn from her social circle, citing exhaustion. How is this withdrawal best clinically characterized?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A primary symptom of GAD"
+      },
+      {
+        "id": "b",
+        "text": "A manifestation of anhedonia associated with MDD"
+      },
+      {
+        "id": "c",
+        "text": "A symptom of social phobia"
+      },
+      {
+        "id": "d",
+        "text": "A stable personality trait"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Social withdrawal tied to loss of energy and interest reflects anhedonia, a core diagnostic symptom of Major Depressive Disorder, rather than a fear-based social anxiety presentation."
+  },
+  {
+    "id": "cs-sarah2-q10",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "What is the primary role of the counselor during the diagnostic formulation phase with Sarah?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Telling her definitively what is wrong with her"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively identifying patterns and potential diagnoses with her"
+      },
+      {
+        "id": "c",
+        "text": "Focusing exclusively on any trauma history"
+      },
+      {
+        "id": "d",
+        "text": "Recommending a specific medication"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative approach to diagnostic formulation ensures the client understands and has input into the clinical reasoning behind a diagnosis, strengthening engagement and treatment buy-in."
+  },
+  {
+    "id": "cs-sarah2-q11",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah's 12-pound weight gain alongside her depressive symptoms is most consistent with which diagnostic consideration?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Anorexia Nervosa"
+      },
+      {
+        "id": "b",
+        "text": "Major Depressive Disorder with atypical features"
+      },
+      {
+        "id": "c",
+        "text": "Bulimia Nervosa"
+      },
+      {
+        "id": "d",
+        "text": "Binge Eating Disorder as a primary diagnosis"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Significant weight gain and increased appetite alongside depressed mood are consistent with the 'atypical features' specifier of Major Depressive Disorder, rather than indicating a primary eating disorder on their own."
+  },
+  {
+    "id": "cs-sarah2-q12",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "What is the purpose of screening for 'medical mimics' as part of Sarah's intake?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "To delay starting psychological treatment"
+      },
+      {
+        "id": "b",
+        "text": "To rule out physiological causes for her anxiety and mood symptoms"
+      },
+      {
+        "id": "c",
+        "text": "Because counselors are required to conduct physical exams"
+      },
+      {
+        "id": "d",
+        "text": "To justify a higher billing code"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Conditions such as thyroid dysfunction can present with symptoms nearly identical to GAD or MDD, so ruling out medical causes is a necessary step in a thorough differential diagnostic process before finalizing a psychiatric diagnosis."
+  },
+  {
+    "id": "cs-sarah2-q14",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah's father had alcohol dependence. Why is this detail clinically important for her current assessment?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "It confirms Sarah was a victim of childhood abuse"
+      },
+      {
+        "id": "b",
+        "text": "It highlights a genetic and environmental risk factor for alcohol use disorder in Sarah"
+      },
+      {
+        "id": "c",
+        "text": "It is irrelevant to her current anxiety and mood symptoms"
+      },
+      {
+        "id": "d",
+        "text": "It means Sarah will inevitably develop alcohol dependence herself"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A parental history of alcohol dependence is a significant risk factor within the biopsychosocial model, relevant given Sarah's own escalating nightly alcohol use as an anxiety coping mechanism."
+  },
+  {
+    "id": "cs-sarah2-q15",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "The counselor notes Sarah's affect as 'constricted' during the session. How should this MSE finding be interpreted?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As a sign that Sarah is being deceptive"
+      },
+      {
+        "id": "b",
+        "text": "As a potential indicator of depressive or anxious withdrawal"
+      },
+      {
+        "id": "c",
+        "text": "As evidence of a personality flaw"
+      },
+      {
+        "id": "d",
+        "text": "As a sign of an active manic episode"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A constricted affect, showing a reduced range of emotional expression, is commonly observed in individuals experiencing depression or chronic anxious withdrawal, not deception or a personality deficit."
+  },
+  {
+    "id": "cs-sarah2-q19",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Sarah reports trembling hands specifically when arriving at work. What is the best counselor response to this specific physiological symptom?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ignore it as a minor, unimportant detail"
+      },
+      {
+        "id": "b",
+        "text": "Explore the triggers and physical sensations associated with the symptom in detail"
+      },
+      {
+        "id": "c",
+        "text": "Tell her she should quit her job"
+      },
+      {
+        "id": "d",
+        "text": "Suggest she drink more caffeine to power through"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Thoroughly exploring the context, triggers, and physical experience of anxiety-related symptoms is essential for accurate assessment and for identifying specific targets for intervention."
+  },
+  {
+    "id": "cs-david2-q1",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David, a 42-year-old accountant, reports eight months of low energy and heaviness, plus recurrent intrusive thoughts about his financial stability that keep him awake at night. He denies substance use. Which DSM-5-TR category requires the most immediate differential consideration for the sleep-disrupting financial worry?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Generalized Anxiety Disorder"
+      },
+      {
+        "id": "b",
+        "text": "Obsessive-Compulsive Disorder"
+      },
+      {
+        "id": "c",
+        "text": "Major Depressive Disorder"
+      },
+      {
+        "id": "d",
+        "text": "Bipolar II Disorder"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Persistent worry about a life circumstance (finances) combined with a physiological symptom (insomnia) is a hallmark presentation of GAD, warranting immediate differential consideration alongside his depressive symptoms."
+  },
+  {
+    "id": "cs-david2-q2",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David's brother has Bipolar II Disorder and his grandmother was 'prone to long periods of melancholy.' Given this family history, what should the counselor specifically assess for in David?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "His substance use history"
+      },
+      {
+        "id": "b",
+        "text": "A history of manic or hypomanic episodes"
+      },
+      {
+        "id": "c",
+        "text": "Perfectionistic personality traits"
+      },
+      {
+        "id": "d",
+        "text": "His early childhood attachment style"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A first-degree relative with Bipolar Disorder significantly increases David's own risk; screening for any past hypomanic or manic episodes is essential to rule out an undiagnosed bipolar spectrum disorder before treatment planning."
+  },
+  {
+    "id": "cs-david2-q3",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David reports he no longer feels joy in woodworking, a hobby he previously loved. What is the primary diagnostic term for this symptom?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Atypical depression"
+      },
+      {
+        "id": "b",
+        "text": "Anhedonia"
+      },
+      {
+        "id": "c",
+        "text": "Social Anxiety Disorder"
+      },
+      {
+        "id": "d",
+        "text": "Narcissistic personality traits"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Loss of interest or pleasure in previously enjoyed activities is anhedonia, one of the two core diagnostic symptoms required for Major Depressive Disorder."
+  },
+  {
+    "id": "cs-david2-q4",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David avoids family gatherings because he feels 'too irritable' to engage. Exploring this irritability is primarily important to differentiate between which two conditions, given his family history?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "MDD and Bipolar Disorder"
+      },
+      {
+        "id": "b",
+        "text": "Social Anxiety and Obsessive-Compulsive Personality Disorder"
+      },
+      {
+        "id": "c",
+        "text": "GAD and PTSD"
+      },
+      {
+        "id": "d",
+        "text": "Panic Disorder and Agoraphobia"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Irritability can be a symptom of unipolar depression, but it is also a core feature of depressive or mixed episodes in Bipolar Disorder, making this differentiation especially important given David's family history."
+  },
+  {
+    "id": "cs-david2-q5",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "Given David's presentation of both low mood and sleep-disrupting worry, which combination of assessment tools is most appropriate for the initial evaluation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "PHQ-9 only"
+      },
+      {
+        "id": "b",
+        "text": "GAD-7 only"
+      },
+      {
+        "id": "c",
+        "text": "BDI-II only"
+      },
+      {
+        "id": "d",
+        "text": "Tools covering both depression and anxiety symptoms"
+      }
+    ],
+    "correct_choice_id": "d",
+    "rationale": "Since David presents with both depressive symptoms (anhedonia, low energy) and anxious symptoms (intrusive worry, insomnia), a comprehensive assessment should include validated tools for both symptom clusters."
+  },
+  {
+    "id": "cs-david2-q6",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "To further assess David's intrusive thoughts about finances and rule out OCD, what is the most useful follow-up question?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Whether he feels compelled to perform rituals to calm these thoughts"
+      },
+      {
+        "id": "b",
+        "text": "Whether he wants a referral to a financial advisor"
+      },
+      {
+        "id": "c",
+        "text": "Whether he has tried simply not thinking about it"
+      },
+      {
+        "id": "d",
+        "text": "Whether his coworkers have noticed his distraction"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Asking about compulsive rituals performed to neutralize the intrusive thoughts helps distinguish OCD (thoughts paired with compulsions) from generalized worry without compulsive behavior, which is more consistent with GAD."
+  },
+  {
+    "id": "cs-david2-q8",
+    "module_id": "assessment-diagnosis",
+    "batch": "case-study",
+    "stem": "David states he has 'lost all ambition.' How should this be documented on the Mental Status Exam?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As a sign of laziness"
+      },
+      {
+        "id": "b",
+        "text": "As a reflection of decreased motivation, or avolition"
+      },
+      {
+        "id": "c",
+        "text": "As a symptom of narcissistic personality disorder"
+      },
+      {
+        "id": "d",
+        "text": "As a sign of malingering"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Avolition is the clinical term for markedly decreased motivation to initiate or persist in goal-directed activity, a common symptom in mood disorders, and should be documented objectively rather than characterized morally."
+  }
+]

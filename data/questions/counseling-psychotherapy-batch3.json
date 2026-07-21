@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "cs-chloe-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given Chloe is an adolescent with Anorexia Nervosa, how should her treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement individual-only therapy without involving her parents"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish a treatment plan involving her parents as active partners in refeeding and monitoring, consistent with evidence-based adolescent eating disorder care"
+      },
+      {
+        "id": "c",
+        "text": "Allow Chloe to set her own caloric and exercise goals independently"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her cross-training performance goals"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "For adolescent Anorexia Nervosa, evidence-based treatment planning actively involves parents as partners in refeeding and monitoring, rather than relying on individual therapy alone or allowing the adolescent to set nutritional goals independently."
+  },
+  {
+    "id": "cs-chloe-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line, evidence-based intervention is most appropriate for Chloe's adolescent Anorexia Nervosa presentation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Family-Based Treatment (Maudsley Method), with parents taking initial control of refeeding"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of techniques chosen intuitively"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding discussion of her weight or eating"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Family-Based Treatment (the Maudsley Method), which empowers parents to take initial control of refeeding, is the first-line, evidence-based treatment specifically for adolescent Anorexia Nervosa."
+  },
+  {
+    "id": "cs-chloe-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Several weeks into Family-Based Treatment, Chloe's weight has not increased and she continues resisting meals. How should the counselor evaluate this?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document her as non-compliant and discontinue treatment"
+      },
+      {
+        "id": "b",
+        "text": "Reassess medical safety immediately given continued weight stagnation, review parental refeeding strategies, and consider a higher level of care if needed"
+      },
+      {
+        "id": "c",
+        "text": "Increase session frequency without reassessing medical safety"
+      },
+      {
+        "id": "d",
+        "text": "Assume FBT is not appropriate and switch approaches without further evaluation"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Continued weight stagnation in Anorexia Nervosa is a medical safety concern requiring immediate reassessment and possible escalation of care, not simply a sign of non-compliance to be addressed by discontinuing treatment."
+  },
+  {
+    "id": "cs-chloe-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Chloe achieves medical stabilization and consistent weight restoration over time, what is the most appropriate approach to termination planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy immediately once she reaches a minimum healthy weight"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan with Chloe and her parents reviewing relapse warning signs, maintaining medical monitoring, and offering booster sessions given AN's relapse risk"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely regardless of her sustained progress"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once weight goals are met"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the significant relapse risk associated with Anorexia Nervosa, a collaborative termination plan involving the family, reviewing warning signs, maintaining some medical monitoring, and offering booster sessions is more appropriate than an abrupt stop simply because a weight target was reached."
+  },
+  {
+    "id": "cs-samuel-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given the likely diagnosis of late-life depression with pseudodementia features tied to grief, how should Samuel's treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a cognitive rehabilitation protocol as if he has a confirmed neurocognitive disorder"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish goals addressing his depressive symptoms and unresolved grief, with cognitive functioning expected to improve as mood improves"
+      },
+      {
+        "id": "c",
+        "text": "Focus exclusively on memory exercises unrelated to his grief or mood"
+      },
+      {
+        "id": "d",
+        "text": "Allow Samuel's daughter to set all treatment goals without his input"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Since his cognitive symptoms are likely secondary to depression and grief, treatment planning should center on addressing mood and grief directly, with the expectation that cognitive symptoms improve as depression resolves, rather than focusing on cognitive rehabilitation for an unconfirmed dementia diagnosis."
+  },
+  {
+    "id": "cs-samuel-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line, evidence-based intervention is most appropriate for Samuel's presentation of late-life depression tied to grief?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Life review/reminiscence therapy combined with grief-focused and depression-focused approaches, adapted for older adults"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of techniques chosen intuitively"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding discussion of his wife's death"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Life review/reminiscence therapy is a developmentally appropriate, evidence-based approach for older adults, well-suited to be combined with grief-focused and depression-focused work given Samuel's presentation tied to his wife's death anniversary."
+  },
+  {
+    "id": "cs-samuel-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "After several sessions of grief-focused work, Samuel's daughter reports his cognitive symptoms have not improved. How should the counselor evaluate this?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document a lack of progress and discontinue treatment"
+      },
+      {
+        "id": "b",
+        "text": "Reassess objectively, ensuring adequate treatment duration for depression to lift, and coordinate with his physician to rule out or monitor for an evolving true neurocognitive disorder"
+      },
+      {
+        "id": "c",
+        "text": "Increase session frequency without further medical coordination"
+      },
+      {
+        "id": "d",
+        "text": "Assume the initial pseudodementia impression was entirely wrong with no further monitoring"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Depression-related cognitive symptoms can take time to resolve as mood improves; the counselor should ensure adequate treatment duration while also maintaining ongoing medical coordination to monitor for or rule out a true evolving neurocognitive disorder."
+  },
+  {
+    "id": "cs-samuel-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Samuel's mood and cognitive symptoms improve with grief-focused treatment, what is the most appropriate approach to termination planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once his cognitive complaints resolve"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing his coping strategies, involving his daughter as appropriate, and scheduling booster sessions given ongoing grief adjustment"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely regardless of his sustained improvement"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once symptoms decrease"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan appropriately involving his daughter, reviewing coping strategies, and offering booster sessions reflects sound practice for an older adult navigating ongoing grief adjustment, rather than an abrupt or indefinite approach."
+  },
+  {
+    "id": "cs-liam-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given Liam's ADHD presentation and its impact at both home and school, how should his treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement individual therapy only, without any school-based component"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish goals involving behavioral strategies at home, school-based supports, and family psychoeducation, consistent with an evidence-based multi-setting approach"
+      },
+      {
+        "id": "c",
+        "text": "Focus exclusively on his disciplinary record without addressing underlying ADHD symptoms"
+      },
+      {
+        "id": "d",
+        "text": "Allow Liam to set all treatment goals independently with no parent or school involvement"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Effective ADHD treatment planning for an adolescent typically spans multiple settings, involving behavioral strategies, school-based supports, and family psychoeducation together, rather than an individual-only approach or one focused solely on discipline."
+  },
+  {
+    "id": "cs-liam-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line, evidence-based intervention is most appropriate as a foundation for Liam's ADHD presentation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Behavioral parent training and school-based behavioral interventions, with CBT skills as he is an older adolescent"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of techniques chosen intuitively"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding discussion of his specific symptoms"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Behavioral parent training and school-based interventions form the evidence-based foundation for ADHD treatment, with CBT skills training appropriately added given Liam's older adolescent age."
+  },
+  {
+    "id": "cs-liam-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Several weeks into treatment, Liam's parents report the behavioral strategies aren't being consistently implemented at home due to their own busy schedules. How should the counselor evaluate this barrier?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document the family as non-compliant and consider discharge"
+      },
+      {
+        "id": "b",
+        "text": "Explore realistic barriers to consistent implementation, simplify strategies as needed, and problem-solve collaboratively with the parents"
+      },
+      {
+        "id": "c",
+        "text": "Increase session frequency without addressing the implementation barrier"
+      },
+      {
+        "id": "d",
+        "text": "Assume the behavioral approach is ineffective and abandon it without further troubleshooting"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Inconsistent implementation of behavioral strategies is a common, addressable barrier; collaboratively problem-solving realistic constraints and simplifying strategies is more appropriate than assuming non-compliance or abandoning an evidence-based approach prematurely."
+  },
+  {
+    "id": "cs-liam-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Liam's ADHD symptoms become better managed through combined behavioral and school-based interventions, what is the most appropriate approach to termination or transition planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once his grades improve for one grading period"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a plan with Liam and his parents reviewing skills, maintaining school-based supports, and scheduling periodic check-ins given ADHD's chronic nature"
+      },
+      {
+        "id": "c",
+        "text": "Postpone any termination discussion indefinitely regardless of his sustained improvement"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once grades stabilize"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given ADHD's typically chronic course, a collaborative plan reviewing skills, maintaining school supports, and scheduling periodic check-ins reflects appropriate ongoing management rather than treating one period of improved grades as a complete resolution."
+  },
+  {
+    "id": "cs-maria-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given Maria's presentation and her food insecurity prioritizing her children's meals over her own, how should her treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Apply a standard depression protocol regardless of her material circumstances"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish measurable, realistic goals that account for her food insecurity and caregiving demands alongside symptom reduction"
+      },
+      {
+        "id": "c",
+        "text": "Focus the plan entirely on trauma processing before addressing her current functioning"
+      },
+      {
+        "id": "d",
+        "text": "Let Maria lead every session without any structured goals"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Effective treatment planning must integrate Maria's real material constraints, such as food insecurity and childcare demands, into collaboratively set, achievable goals rather than applying a generic protocol disconnected from her actual life circumstances."
+  },
+  {
+    "id": "cs-maria-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line intervention selection is most appropriate for Maria once major depressive and/or anxiety symptoms are confirmed?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "An empirically validated approach, such as CBT or behavioral activation, adapted to her cultural context and language needs"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of techniques chosen based on the counselor's mood that day"
+      },
+      {
+        "id": "d",
+        "text": "A strictly solution-focused approach that avoids discussing her distressing symptoms"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Empirically validated interventions like CBT or behavioral activation, thoughtfully adapted for language and cultural relevance, are appropriate first-line choices, matched directly to her depressive/anxious symptom picture rather than an unstructured or avoidant approach."
+  },
+  {
+    "id": "cs-maria-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "After several sessions, Maria's symptoms have not meaningfully improved. What is the most appropriate way to evaluate this treatment plateau?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document her as non-compliant and prepare to terminate"
+      },
+      {
+        "id": "b",
+        "text": "Conduct an objective clinical reassessment, consider adjusting techniques, and explicitly explore the therapeutic alliance and any unaddressed material or financial stressors"
+      },
+      {
+        "id": "c",
+        "text": "Simply increase session frequency without further discussion"
+      },
+      {
+        "id": "d",
+        "text": "Attribute the plateau entirely to her socioeconomic circumstances with no further clinical exploration"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A treatment plateau requires objective reassessment of technique effectiveness and the therapeutic relationship, alongside continued attention to unresolved material or ongoing stressors like food insecurity, rather than assuming non-compliance or a single external cause."
+  },
+  {
+    "id": "cs-maria-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Maria approaches the end of a successful course of treatment, what is the most appropriate termination approach?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once her crying spells decrease"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing her coping tools, anticipating potential setbacks tied to ongoing financial stress, and offering booster sessions"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely out of caution"
+      },
+      {
+        "id": "d",
+        "text": "Stop scheduling sessions without a final meeting once insurance authorization ends"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan that reviews coping skills and anticipates realistic future stressors, such as her ongoing financial strain, with an option for booster sessions reflects sound termination practice rather than an abrupt or unplanned ending."
+  },
+  {
+    "id": "cs-david1-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given David's OCD presentation, how should his treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a generic anxiety-reduction protocol regardless of his specific compulsions"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively set measurable, time-bound exposure-based goals targeting his specific contamination fears and ritual behaviors"
+      },
+      {
+        "id": "c",
+        "text": "Allow David to lead sessions with no structured targets"
+      },
+      {
+        "id": "d",
+        "text": "Focus entirely on childhood history before addressing his current rituals"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Effective treatment planning for OCD requires specific, measurable exposure-based goals tied directly to David's actual contamination fears and rituals, developed collaboratively, rather than a generic or unstructured approach."
+  },
+  {
+    "id": "cs-david1-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line, evidence-based intervention is most appropriate for David's contamination-focused OCD?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Exposure and Response Prevention (ERP)"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic set of techniques chosen intuitively"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding discussion of his symptoms"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ERP, involving gradual exposure to contamination triggers while preventing the compulsive washing response, is the gold-standard, first-line evidence-based treatment specifically for OCD."
+  },
+  {
+    "id": "cs-david1-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Several sessions into ERP, David reports his rituals have not decreased and he is skipping homework exposures. How should the counselor evaluate this barrier?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document him as non-compliant and prepare for termination"
+      },
+      {
+        "id": "b",
+        "text": "Explore his anxiety about exposures, reassess the hierarchy's pacing, and explicitly discuss the therapeutic alliance and any avoidance patterns"
+      },
+      {
+        "id": "c",
+        "text": "Increase session frequency without addressing his homework avoidance"
+      },
+      {
+        "id": "d",
+        "text": "Assume ERP is not appropriate for him and switch to an unrelated approach without further exploration"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Skipped exposure homework is a common ERP barrier tied to anticipatory anxiety; exploring this directly, reassessing hierarchy pacing, and examining the alliance is more clinically appropriate than assuming non-compliance or abandoning an evidence-based approach prematurely."
+  },
+  {
+    "id": "cs-david1-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As David's ERP treatment progresses successfully and his ritual time decreases significantly, what is the most appropriate approach to termination planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once his rituals decrease by half"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing his ERP skills, anticipating potential symptom flare-ups under stress, and scheduling booster sessions as needed"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely even after he meets his goals"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once symptoms improve"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan reviewing skills, realistically anticipating potential relapse triggers such as work stress, and offering booster sessions reflects sound practice for a chronic, relapse-prone condition like OCD."
+  },
+  {
+    "id": "cs-marcus1-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "How should Marcus's treatment plan be formulated given his co-occurring PTSD symptoms and alcohol misuse?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a pre-packaged PTSD protocol without addressing his alcohol use"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish integrated, measurable goals addressing both his trauma symptoms and his alcohol use as interconnected concerns"
+      },
+      {
+        "id": "c",
+        "text": "Allow Marcus to lead every session without any structured targets"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on his combat trauma before addressing his current alcohol use at all"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Since Marcus's alcohol use functions specifically to manage his trauma symptoms, an integrated treatment plan addressing both concerns together, rather than sequentially or in isolation, is most clinically appropriate."
+  },
+  {
+    "id": "cs-marcus1-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line, evidence-based intervention is most appropriate for Marcus's combat-related PTSD symptoms?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Prolonged Exposure or Cognitive Processing Therapy, alongside integrated attention to his alcohol use"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic set of techniques based on the counselor's intuition"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding his combat memories"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Prolonged Exposure and Cognitive Processing Therapy both have the strongest evidence base for combat-related PTSD, and should be paired with integrated attention to his alcohol use given its role in maintaining his avoidance."
+  },
+  {
+    "id": "cs-marcus1-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Several sessions into trauma-focused treatment, Marcus's custody stress escalates and he reports increased drinking and skipped homework. How should the counselor evaluate this?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document him as non-compliant and prepare for termination"
+      },
+      {
+        "id": "b",
+        "text": "Conduct an ongoing clinical reassessment of his risk and coping given the acute legal stressor, adjust the pacing of trauma work as needed, and address the alliance"
+      },
+      {
+        "id": "c",
+        "text": "Increase session frequency without discussing the escalation"
+      },
+      {
+        "id": "d",
+        "text": "Attribute the setback entirely to the divorce proceedings with no further clinical exploration"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "An acute external stressor like escalating custody conflict warrants reassessment of risk and pacing of trauma-focused work, along with attention to the therapeutic alliance, rather than assuming non-compliance or attributing the setback to a single external cause without further clinical engagement."
+  },
+  {
+    "id": "cs-marcus1-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Marcus's trauma symptoms and alcohol use improve significantly over time, what is the most appropriate approach to termination planning, given his ongoing legal situation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once his divorce is finalized"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing his coping and sobriety-related skills, anticipating potential setbacks tied to ongoing co-parenting stress, and offering booster sessions"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely due to the ongoing legal case"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once his symptoms improve"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan anticipating realistic future stressors, such as ongoing co-parenting demands after the divorce, with an option for booster sessions reflects sound termination practice tailored to Marcus's specific ongoing life circumstances."
+  },
+  {
+    "id": "cs-sarah1-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Sarah is highly motivated for CBT but anxious about fitting weekly sessions around her pumping and nursing schedule. How should her treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a standard weekly CBT protocol regardless of her scheduling concerns"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish a treatment plan with flexible scheduling options that accommodate her nursing needs while maintaining consistent evidence-based care"
+      },
+      {
+        "id": "c",
+        "text": "Tell her to resolve the scheduling issue independently before starting treatment"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her infant's needs rather than her own treatment structure"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Collaboratively accommodating her real logistical constraints while maintaining consistent, evidence-based CBT reflects client-centered treatment planning rather than rigid or dismissive scheduling."
+  },
+  {
+    "id": "cs-sarah1-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given Sarah's GAD presentation and stated motivation for CBT, which specific intervention selection is most appropriate as first-line?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "CBT incorporating worry exposure, relaxation training, and cognitive restructuring"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of unrelated techniques"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding her worry content"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "CBT incorporating worry exposure, relaxation, and cognitive restructuring is the first-line, evidence-based treatment for GAD and aligns directly with Sarah's own stated treatment preference."
+  },
+  {
+    "id": "cs-sarah1-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "After a few sessions, Sarah reports she has been unable to complete relaxation homework due to her demanding pumping and infant care schedule. How should the counselor evaluate this?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document her as non-compliant and consider ending treatment"
+      },
+      {
+        "id": "b",
+        "text": "Explore realistic barriers to homework completion given her postpartum demands and adjust the plan collaboratively, perhaps with briefer exercises"
+      },
+      {
+        "id": "c",
+        "text": "Increase homework demands to compensate"
+      },
+      {
+        "id": "d",
+        "text": "Assume she is not truly motivated for treatment"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Realistic postpartum time constraints, not lack of motivation, are the more likely explanation here; collaboratively adjusting the plan (e.g., briefer exercises) reflects appropriate clinical flexibility rather than assuming non-compliance."
+  },
+  {
+    "id": "cs-sarah1-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Sarah's GAD symptoms improve and she successfully returns to work, what is the most appropriate approach to termination planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly on her first day back at work"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing her CBT skills, anticipating potential setbacks during the work transition, and offering booster sessions"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely to prevent any risk of relapse"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once her symptoms decrease"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan anticipating the realistic stress of her work transition, with an option for booster sessions, reflects appropriately paced, thoughtful termination practice."
+  },
+  {
+    "id": "cs-elena-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "How should Elena's treatment plan be formulated given her BPD-consistent presentation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a pre-packaged protocol without any individualization"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish measurable goals targeting emotion regulation, distress tolerance, and interpersonal functioning, consistent with an evidence-based BPD framework"
+      },
+      {
+        "id": "c",
+        "text": "Allow Elena to drive every session with no structured targets"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on childhood history before addressing her current self-injury"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A treatment plan targeting emotion regulation, distress tolerance, and interpersonal functioning, consistent with an evidence-based BPD framework like DBT, is most appropriate rather than an unindividualized or unstructured approach."
+  },
+  {
+    "id": "cs-elena-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line, evidence-based intervention is most appropriate for Elena's presentation of chronic self-harm and emotional instability consistent with BPD?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Dialectical Behavior Therapy (DBT)"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of techniques chosen intuitively"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding her distressing symptoms"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "DBT was specifically developed for and has the strongest evidence base for BPD presentations involving chronic self-harm and emotion dysregulation, making it the appropriate first-line choice."
+  },
+  {
+    "id": "cs-elena-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Several sessions in, Elena reports feeling worse and questions whether therapy is helping at all. How should the counselor evaluate this?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document her as non-compliant and consider termination"
+      },
+      {
+        "id": "b",
+        "text": "Conduct an objective clinical reassessment, explicitly explore the therapeutic alliance, and validate her experience while continuing evidence-based intervention"
+      },
+      {
+        "id": "c",
+        "text": "Increase session frequency without discussing her stated experience"
+      },
+      {
+        "id": "d",
+        "text": "Attribute her statement entirely to her personality disorder without further exploration"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Explicitly exploring the alliance and validating Elena's experience while continuing evidence-based work is more clinically sound than dismissing her feedback as simply a symptom of her diagnosis or assuming non-compliance."
+  },
+  {
+    "id": "cs-elena-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Elena progresses in DBT and her self-injury decreases significantly over many months, what is the most appropriate approach to termination planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once self-injury stops for a few weeks"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a gradual termination plan reviewing her DBT skills, explicitly addressing anticipated abandonment-related feelings about ending, and offering booster sessions"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely regardless of her progress"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once symptoms improve"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given her core abandonment fears, a gradual, explicitly processed termination plan that reviews skills and directly addresses her feelings about the ending is especially important, rather than an abrupt stop or indefinite postponement."
+  },
+  {
+    "id": "cs-james-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given James's mandated status and current defensiveness, how should his treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a confrontational, abstinence-only protocol regardless of his stage of readiness"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish goals that meet him at his current stage of change, while maintaining honest safety-related boundaries given his mandated status"
+      },
+      {
+        "id": "c",
+        "text": "Allow him to set no goals at all since he denies a problem"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on the workplace accident and not his broader drinking pattern"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Meeting James where he is in the stages of change while maintaining clear, honest boundaries about his mandated status and safety concerns is more effective than a rigid confrontational approach or ignoring his drinking pattern altogether."
+  },
+  {
+    "id": "cs-james-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line intervention is most appropriate for James's ambivalence and minimization about his alcohol use?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "Motivational Interviewing to explore his ambivalence, alongside psychoeducation about his withdrawal symptoms"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic set of techniques chosen intuitively"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach avoiding any discussion of his drinking"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Motivational Interviewing is specifically designed to work with ambivalence and resistance around behavior change, making it the appropriate first-line approach for James's defensive, minimizing presentation."
+  },
+  {
+    "id": "cs-james-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Several sessions in, James continues to insist his drinking is not a problem despite documented tolerance and withdrawal symptoms. How should the counselor evaluate this apparent lack of progress?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document him as non-compliant and recommend immediate termination from the mandated program"
+      },
+      {
+        "id": "b",
+        "text": "Recognize this as consistent with an early stage of change, continue using MI techniques to build discrepancy, and reassess progress over time rather than expecting immediate insight"
+      },
+      {
+        "id": "c",
+        "text": "Increase confrontation intensity to force acknowledgment"
+      },
+      {
+        "id": "d",
+        "text": "Assume MI is not working and abandon the evidence-based approach entirely"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Continued denial early in treatment is consistent with the precontemplation/contemplation stages of change and does not necessarily indicate treatment failure; continuing to build discrepancy through MI while reassessing over time is more appropriate than premature termination or increased confrontation."
+  },
+  {
+    "id": "cs-james-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As James progresses through the stages of change and begins meaningfully reducing his alcohol use, what is the most appropriate approach to termination planning given his mandated status?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly the moment his mandated hours are completed"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing his coping and relapse-prevention skills, anticipating workplace and marital stressors, and outlining booster session options"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely regardless of his progress or mandate completion"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once his mandated hours are met"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan reviewing relapse-prevention skills and anticipating realistic future stressors, with a booster session option, reflects sound practice regardless of whether his mandated hours have technically been completed."
+  },
+  {
+    "id": "cs-priya-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given Priya's presentation and the cultural pressure from her extended family to 'move on and stay positive,' how should her treatment plan be formulated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Implement a standard grief protocol without addressing the cultural family dynamic"
+      },
+      {
+        "id": "b",
+        "text": "Collaboratively establish goals that create space for her grief while also addressing the isolation and guilt driven by family cultural expectations"
+      },
+      {
+        "id": "c",
+        "text": "Advise her to distance herself entirely from her extended family"
+      },
+      {
+        "id": "d",
+        "text": "Focus exclusively on her work concentration difficulties, setting aside her grief"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "An effective treatment plan must address both her grief directly and the specific isolation and guilt generated by conflicting cultural expectations from her family, rather than ignoring this dynamic or prescribing family estrangement without exploration."
+  },
+  {
+    "id": "cs-priya-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which first-line intervention approach is most appropriate for Priya's grief presentation at this stage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Standard psychoanalytic free association"
+      },
+      {
+        "id": "b",
+        "text": "A supportive, grief-focused approach validating her experience while monitoring for symptom escalation, without prematurely pathologizing normal grief"
+      },
+      {
+        "id": "c",
+        "text": "An eclectic mix of techniques chosen intuitively with no grief-specific focus"
+      },
+      {
+        "id": "d",
+        "text": "A purely solution-focused approach that avoids discussing her mother's death"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A supportive, grief-focused approach that validates her experience while continuing to monitor for any escalation toward a diagnosable condition is most appropriate at 5 months, avoiding premature pathologizing of what largely appears to be normal, functional grief."
+  },
+  {
+    "id": "cs-priya-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "After several sessions, Priya reports feeling more isolated because her family keeps pressuring her to 'stay positive.' How should the counselor evaluate and respond to this barrier to her progress?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document her as resistant to treatment and consider discharge"
+      },
+      {
+        "id": "b",
+        "text": "Explore this family dynamic directly in session, validate the isolation it creates, and consider whether family psychoeducation or a family session could help, with her consent"
+      },
+      {
+        "id": "c",
+        "text": "Advise her to simply ignore her family's comments with no further exploration"
+      },
+      {
+        "id": "d",
+        "text": "Assume her progress has stalled entirely and switch treatment approaches without discussion"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Directly exploring and validating the impact of ongoing family pressure, and considering whether family psychoeducation could help (with her consent), addresses the actual barrier rather than assuming treatment failure or dismissing the family dynamic."
+  },
+  {
+    "id": "cs-priya-q13",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "As Priya's grief becomes more integrated over time and her functioning stabilizes, what is the most appropriate approach to termination planning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "End therapy abruptly once she stops crying during sessions"
+      },
+      {
+        "id": "b",
+        "text": "Jointly formulate a termination plan reviewing her coping strategies, acknowledging grief may resurface around anniversaries or milestones, and offering booster sessions"
+      },
+      {
+        "id": "c",
+        "text": "Postpone termination indefinitely since grief 'never fully ends'"
+      },
+      {
+        "id": "d",
+        "text": "Cease communication without a final session once her crying spells decrease"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A collaborative termination plan that reviews coping strategies and realistically anticipates grief resurfacing around future anniversaries or milestones, with an option for booster sessions, reflects sound, developmentally appropriate termination practice for grief work."
+  },
+  {
+    "id": "cs-marcus2-q2",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Marcus is ambivalent about stopping his nightly drinking, stating, 'It's the only thing that works, but I know it's killing me.' Which intervention is first-line for addressing this specific ambivalence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Exposure and Response Prevention"
+      },
+      {
+        "id": "b",
+        "text": "Motivational Interviewing"
+      },
+      {
+        "id": "c",
+        "text": "Psychodynamic analysis"
+      },
+      {
+        "id": "d",
+        "text": "Token economy"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Motivational Interviewing is specifically designed to help clients explore and resolve ambivalence about behavior change, making it the most directly applicable approach to Marcus's mixed feelings about his drinking."
+  },
+  {
+    "id": "cs-marcus2-q3",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "If Marcus begins trauma-focused treatment, which evidence-based therapy would most directly address his 'stuck points' around guilt and feeling he 'doesn't deserve to be happy'?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Solution-Focused Brief Therapy"
+      },
+      {
+        "id": "b",
+        "text": "Cognitive Processing Therapy"
+      },
+      {
+        "id": "c",
+        "text": "Gestalt therapy"
+      },
+      {
+        "id": "d",
+        "text": "Person-Centered Therapy"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "CPT is specifically structured around identifying and challenging trauma-related 'stuck points' \u2014 maladaptive beliefs about self, others, and the world \u2014 which directly matches Marcus's guilt-based cognitions."
+  },
+  {
+    "id": "cs-marcus2-q4",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which of the four processes of Motivational Interviewing should the counselor prioritize in the very first session with Marcus?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Planning"
+      },
+      {
+        "id": "b",
+        "text": "Evoking"
+      },
+      {
+        "id": "c",
+        "text": "Engaging"
+      },
+      {
+        "id": "d",
+        "text": "Focusing"
+      }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "Engaging, the process of establishing the therapeutic relationship and working alliance, is the necessary foundation that precedes focusing, evoking, and planning in the MI framework."
+  },
+  {
+    "id": "cs-marcus2-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Marcus says, 'I feel like I'm a burden.' Which cognitive distortion does this statement best represent?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Labeling"
+      },
+      {
+        "id": "b",
+        "text": "Fortune telling"
+      },
+      {
+        "id": "c",
+        "text": "Emotional reasoning"
+      },
+      {
+        "id": "d",
+        "text": "Personalization"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Attaching a fixed, global negative label to oneself ('a burden') rather than describing a specific behavior or situation is characteristic of the labeling cognitive distortion."
+  },
+  {
+    "id": "cs-marcus2-q6",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "If Marcus engages in Prolonged Exposure therapy for his PTSD, what is the underlying theoretical mechanism of change?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Gaining insight into childhood experiences"
+      },
+      {
+        "id": "b",
+        "text": "Emotional processing through activation and habituation of the fear response"
+      },
+      {
+        "id": "c",
+        "text": "Learning new social skills"
+      },
+      {
+        "id": "d",
+        "text": "Earning tokens for desired behaviors"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Prolonged Exposure works by activating the trauma-related fear network through repeated exposure and allowing habituation to occur, reducing the emotional intensity of trauma memories and cues over time."
+  },
+  {
+    "id": "cs-marcus2-q7",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Marcus is anxious about his wife potentially leaving him. If using Acceptance and Commitment Therapy with him, what would be the primary treatment goal?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Completely eliminate all of his worry"
+      },
+      {
+        "id": "b",
+        "text": "Promote psychological flexibility and values-based living despite the worry"
+      },
+      {
+        "id": "c",
+        "text": "Use logical disputation to change his core beliefs"
+      },
+      {
+        "id": "d",
+        "text": "Interpret unconscious transference in the relationship"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "ACT does not aim to eliminate difficult internal experiences like worry; instead, it promotes psychological flexibility and committed action toward one's values even while the worry is present."
+  },
+  {
+    "id": "cs-marcus2-q8",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "The counselor says to Marcus, 'It sounds like you are deeply torn \u2014 you want to save your marriage, but the drinking provides the only relief you know right now.' Which MI skill is being demonstrated?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Affirmation"
+      },
+      {
+        "id": "b",
+        "text": "Open-ended question"
+      },
+      {
+        "id": "c",
+        "text": "Complex reflection"
+      },
+      {
+        "id": "d",
+        "text": "Confrontation"
+      }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "This statement reflects back both sides of Marcus's ambivalence in an empathic, non-judgmental way, which is the hallmark of a complex reflection, a core MI skill for acknowledging ambivalence."
+  },
+  {
+    "id": "cs-sarah2-q5",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which intervention would be most effective as an initial-stage treatment for Sarah's racing thoughts at night?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Systematic desensitization"
+      },
+      {
+        "id": "b",
+        "text": "CBT for relaxation and sleep hygiene"
+      },
+      {
+        "id": "c",
+        "text": "Psychoanalytic exploration of her childhood"
+      },
+      {
+        "id": "d",
+        "text": "Medication as the sole intervention"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "CBT-based relaxation and sleep hygiene techniques are the evidence-based first-line intervention for anxiety-driven insomnia, directly targeting the racing thoughts Sarah experiences at night."
+  },
+  {
+    "id": "cs-sarah2-q7",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Sarah reports her nightly wine is 'the only thing that makes me feel normal' before work. What behavioral principle best explains why this pattern is being maintained?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Positive reinforcement"
+      },
+      {
+        "id": "b",
+        "text": "Negative reinforcement"
+      },
+      {
+        "id": "c",
+        "text": "Classical conditioning"
+      },
+      {
+        "id": "d",
+        "text": "Psychological projection"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Negative reinforcement occurs when a behavior increases because it removes an aversive state; Sarah's drinking is maintained because it removes her anticipatory work anxiety, strengthening the pattern over time."
+  },
+  {
+    "id": "cs-sarah2-q9",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Sarah reports difficulty concentrating at work, frequently assuming the worst about her performance and generalizing single mistakes into evidence she is failing overall. Which pattern of cognitive distortions is most likely fueling this?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Personalization only"
+      },
+      {
+        "id": "b",
+        "text": "Catastrophizing only"
+      },
+      {
+        "id": "c",
+        "text": "Overgeneralization only"
+      },
+      {
+        "id": "d",
+        "text": "A combination of personalization, catastrophizing, and overgeneralization"
+      }
+    ],
+    "correct_choice_id": "d",
+    "rationale": "Clients with comorbid GAD and MDD frequently exhibit multiple, overlapping cognitive distortions simultaneously rather than a single isolated pattern, which is consistent with Sarah's described thinking."
+  },
+  {
+    "id": "cs-sarah2-q17",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Sarah asks the counselor to 'just fix me.' What is the best therapeutic response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Provide a list of quick behavioral fixes to satisfy the request"
+      },
+      {
+        "id": "b",
+        "text": "Validate her desire for relief while explaining the collaborative nature of the therapeutic process"
+      },
+      {
+        "id": "c",
+        "text": "Refuse to engage with the request at all"
+      },
+      {
+        "id": "d",
+        "text": "Agree that she is fundamentally broken"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Validating the underlying wish for relief while gently reframing therapy as a collaborative process manages expectations without dismissing the client's distress or damaging the alliance."
+  },
+  {
+    "id": "cs-sarah2-q20",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "When prioritizing Sarah's treatment goals, which should come first?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Career advancement training"
+      },
+      {
+        "id": "b",
+        "text": "Managing acute anxiety symptoms and establishing safety"
+      },
+      {
+        "id": "c",
+        "text": "Long-term social skills training"
+      },
+      {
+        "id": "d",
+        "text": "Processing her feelings about her father"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Acute symptom management and ensuring safety, given her passive suicidal ideation and escalating alcohol use, must be established first as the foundation before longer-term therapeutic goals can be effectively pursued."
+  },
+  {
+    "id": "cs-david2-q7",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Given David's family history of Bipolar Disorder, why would it be clinically risky for a prescriber to start an SSRI without first screening for bipolarity?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "SSRIs cause severe nausea in most patients"
+      },
+      {
+        "id": "b",
+        "text": "It might trigger a manic or hypomanic episode"
+      },
+      {
+        "id": "c",
+        "text": "SSRIs are generally ineffective for depression"
+      },
+      {
+        "id": "d",
+        "text": "SSRIs cause significant weight gain"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Antidepressant-induced mania or hypomania is a well-documented risk in individuals with an underlying, possibly undiagnosed, bipolar spectrum disorder, which is why screening for manic history is critical before starting antidepressant monotherapy."
+  },
+  {
+    "id": "cs-david2-q9",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "Which evidence-based approach would most directly target David's racing thoughts and insomnia at night?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "CBT-I (CBT for Insomnia) with sleep hygiene and cognitive techniques"
+      },
+      {
+        "id": "b",
+        "text": "Deep hypnotic analysis"
+      },
+      {
+        "id": "c",
+        "text": "Advising him to avoid work altogether"
+      },
+      {
+        "id": "d",
+        "text": "Medication alone with no behavioral component"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "CBT-I, combining sleep hygiene education with cognitive techniques to address racing thoughts at bedtime, is the evidence-based standard of care for insomnia driven by anxious rumination."
+  },
+  {
+    "id": "cs-david2-q10",
+    "module_id": "counseling-psychotherapy",
+    "batch": "case-study",
+    "stem": "What is the primary goal of the first session with David?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "To establish a strong therapeutic alliance and gather initial assessment data"
+      },
+      {
+        "id": "b",
+        "text": "To finalize his complete treatment plan"
+      },
+      {
+        "id": "c",
+        "text": "To confront him directly about his irritability with family"
+      },
+      {
+        "id": "d",
+        "text": "To begin deep trauma processing work"
+      }
+    ],
+    "correct_choice_id": "a",
+    "rationale": "Rapport-building alongside initial data gathering is the foundational first step in any therapeutic engagement; premature confrontation or deep trauma work before an alliance and full assessment are established risks disengagement."
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "cs-chloe-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "How should the counselor approach Chloe's framing of her restriction as 'eating clean' in the context of broader cultural messaging?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Dismiss the wellness/clean-eating framing as irrelevant to the clinical picture"
+      },
+      {
+        "id": "b",
+        "text": "Explore how broader cultural diet culture and wellness/fitness messaging may be shaping and masking her disordered eating"
+      },
+      {
+        "id": "c",
+        "text": "Accept her framing at face value since 'clean eating' sounds healthy"
+      },
+      {
+        "id": "d",
+        "text": "Assume all adolescents who mention clean eating have an eating disorder"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring how pervasive diet culture and wellness/fitness messaging can provide language that masks disordered eating helps the counselor understand and address the specific cultural context shaping Chloe's presentation, without dismissing or over-generalizing."
+  },
+  {
+    "id": "cs-chloe-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factor is most essential to explore given Chloe's role on her school's track team?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Her individual eating patterns only, without any athletic or peer context"
+      },
+      {
+        "id": "b",
+        "text": "How athletic culture, coaching expectations, and peer comparison within her sport may be reinforcing her restriction and exercise behaviors"
+      },
+      {
+        "id": "c",
+        "text": "Assuming her participation in track is entirely unrelated to her eating patterns"
+      },
+      {
+        "id": "d",
+        "text": "Recommending she quit the team immediately without further exploration"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring how athletic culture and peer/coaching dynamics within her sport may reinforce restrictive eating and over-exercise provides important systemic context for case conceptualization, informing appropriate collaboration with the school/coaching staff as treatment progresses."
+  },
+  {
+    "id": "cs-samuel-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "As a retired school principal, how might Samuel's prior professional identity be relevant to his current presentation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "His prior career is irrelevant to his current symptoms"
+      },
+      {
+        "id": "b",
+        "text": "Exploring how the loss of his professional role, combined with his wife's death, may compound his sense of loss of purpose and identity"
+      },
+      {
+        "id": "c",
+        "text": "Assuming all retired professionals experience identical adjustment difficulties"
+      },
+      {
+        "id": "d",
+        "text": "Focusing exclusively on his career achievements rather than his current emotional state"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring how the earlier loss of his professional identity in retirement may compound his current grief and sense of purposelessness provides valuable context for understanding the full scope of his losses."
+  },
+  {
+    "id": "cs-samuel-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a systems perspective, what should the counselor explore regarding Samuel's current social support since his wife's death?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Nothing beyond his daughter's involvement"
+      },
+      {
+        "id": "b",
+        "text": "His broader social network, community connections, and any additional support beyond his daughter that could address his isolation"
+      },
+      {
+        "id": "c",
+        "text": "Assuming his daughter's involvement is sufficient support"
+      },
+      {
+        "id": "d",
+        "text": "Focusing solely on his cognitive symptoms with no attention to his social context"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring his broader social support network beyond his daughter is important given his reported social withdrawal, as building additional connection points can be a meaningful part of addressing both his depression and isolation."
+  },
+  {
+    "id": "cs-liam-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "How should the counselor understand Liam's vivid description of his brain having '50 TV channels changing all at once'?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As an exaggeration to be corrected immediately"
+      },
+      {
+        "id": "b",
+        "text": "As a meaningful, personal description of his internal experience that can inform psychoeducation and build his own understanding and self-advocacy around his ADHD"
+      },
+      {
+        "id": "c",
+        "text": "As evidence of a thought disorder requiring further psychotic screening"
+      },
+      {
+        "id": "d",
+        "text": "As irrelevant detail with no clinical value"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Liam's vivid, personal metaphor provides valuable insight into his subjective experience and can be used therapeutically to build his own understanding of his ADHD and support self-advocacy, rather than being dismissed or misread as concerning thought content."
+  },
+  {
+    "id": "cs-liam-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factor is most essential given Liam is a high school freshman?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "His individual symptoms only, without developmental or transition context"
+      },
+      {
+        "id": "b",
+        "text": "The increased executive functioning demands and reduced structure typical of the transition to high school, which can unmask or worsen previously compensated ADHD symptoms"
+      },
+      {
+        "id": "c",
+        "text": "Assuming his symptoms are unrelated to his recent school transition"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing the academic transition as clinically insignificant"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The transition to high school typically brings increased executive functioning demands and less structured support, which commonly unmasks or worsens ADHD symptoms that may have been previously compensated for in earlier grades, and is important context for his case conceptualization."
+  },
+  {
+    "id": "cs-maria-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "How should the counselor best approach Maria's description of her symptoms as 'nervios' during assessment?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Dismiss it as an unscientific description of somatic symptoms"
+      },
+      {
+        "id": "b",
+        "text": "Use a Cultural Formulation Interview approach to explore her explanatory model of the problem within her cultural worldview"
+      },
+      {
+        "id": "c",
+        "text": "Insist she reframe her experience using Western psychiatric terms for accurate billing"
+      },
+      {
+        "id": "d",
+        "text": "Assume all Latina immigrant clients describe distress identically"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The Cultural Formulation Interview framework is specifically designed to explore a client's own explanatory model of distress, which is essential for understanding what 'nervios' means to Maria specifically, rather than generalizing or dismissing her language."
+  },
+  {
+    "id": "cs-maria-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factors are most essential to formally incorporate into Maria's case formulation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Only her individual intrapsychic symptoms, without broader context"
+      },
+      {
+        "id": "b",
+        "text": "Her financial strain, food insecurity, immigration and acculturation context, and caregiving role alongside her psychological symptoms"
+      },
+      {
+        "id": "c",
+        "text": "Her family's needs only, treated as entirely separate from her own distress"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing socioeconomic stressors to emphasize personal responsibility"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A comprehensive case conceptualization for Maria must integrate the socioeconomic, immigration, and caregiving context driving and maintaining her distress, not treat her symptoms in isolation from these systemic factors."
+  },
+  {
+    "id": "cs-david1-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "David describes his contamination fears using highly specific, personal language about infectious disease and his family's safety. How should the counselor approach this language during assessment?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Dismiss the specific content as irrelevant detail"
+      },
+      {
+        "id": "b",
+        "text": "Explore his personal and family-related meaning behind the specific fears as part of understanding his unique presentation and values"
+      },
+      {
+        "id": "c",
+        "text": "Assume his fears are identical to those of every OCD client"
+      },
+      {
+        "id": "d",
+        "text": "Insist he generalize his fear into standard diagnostic language immediately"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Understanding the personal, family-centered meaning behind David's specific fears deepens case conceptualization and can inform which exposure targets and values-based work will be most meaningful to him, rather than treating all contamination OCD presentations as interchangeable."
+  },
+  {
+    "id": "cs-david1-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization standpoint, which additional systemic factor is most important to explore given David works as an accountant with likely high-demand deadlines?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "His individual symptoms only, without occupational context"
+      },
+      {
+        "id": "b",
+        "text": "How his occupational stress and daily 3-4 hour ritual time interact with and may exacerbate his functioning and symptom severity"
+      },
+      {
+        "id": "c",
+        "text": "Treating his work stress as entirely unrelated to his OCD"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing occupational factors to focus solely on personal accountability"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Understanding how his occupational demands interact with the significant time cost of his rituals (3-4 hours daily) provides essential context for case conceptualization and realistic treatment goal-setting."
+  },
+  {
+    "id": "cs-marcus1-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "How should the counselor approach Marcus's description of 'moral injury' regarding his combat actions?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat it as identical to standard PTSD guilt with no distinct exploration"
+      },
+      {
+        "id": "b",
+        "text": "Explore moral injury as a distinct experience involving violation of his own deeply held values, requiring meaning-making work alongside standard trauma treatment"
+      },
+      {
+        "id": "c",
+        "text": "Dismiss the concept as not clinically relevant"
+      },
+      {
+        "id": "d",
+        "text": "Assume all veterans experience identical moral injury"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Moral injury is conceptually distinct from fear-based PTSD symptoms and requires dedicated meaning-making and values-based exploration alongside standard trauma-focused treatment, rather than being collapsed into general trauma work or dismissed."
+  },
+  {
+    "id": "cs-marcus1-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factor is most essential to incorporate given Marcus's military culture background?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "His individual trauma symptoms only, without cultural or military context"
+      },
+      {
+        "id": "b",
+        "text": "How military cultural values around self-reliance and stigma against help-seeking may affect his engagement in treatment"
+      },
+      {
+        "id": "c",
+        "text": "Assuming his military background is irrelevant to his treatment"
+      },
+      {
+        "id": "d",
+        "text": "Treating his divorce as entirely separate from his military-related trauma"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Military culture's emphasis on self-reliance and stigma around seeking help significantly shapes how veterans like Marcus engage with treatment and must be actively considered in case conceptualization."
+  },
+  {
+    "id": "cs-sarah1-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "How should the counselor understand Sarah's worry about 'returning to her corporate job' within a broader cultural and systemic context?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "As purely an individual anxiety symptom unrelated to broader context"
+      },
+      {
+        "id": "b",
+        "text": "As potentially shaped by workplace parental leave policies, financial pressures, and societal expectations placed on working mothers"
+      },
+      {
+        "id": "c",
+        "text": "As irrelevant to her GAD diagnosis"
+      },
+      {
+        "id": "d",
+        "text": "As evidence she should not have had children while working"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Understanding Sarah's work-related worry within the context of systemic factors like parental leave policy, financial pressure, and societal expectations of working mothers provides a fuller case conceptualization than viewing it as a purely individual symptom."
+  },
+  {
+    "id": "cs-sarah1-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factor is most essential to incorporate given Sarah is a first-time mother?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Her individual symptoms only, without developmental or family systems context"
+      },
+      {
+        "id": "b",
+        "text": "The major identity and role transition of new parenthood and its interaction with her existing coping style and support system"
+      },
+      {
+        "id": "c",
+        "text": "Assuming all new mothers experience identical anxiety presentations"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing the transition to parenthood as clinically insignificant"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The significant identity and role transition inherent in first-time parenthood, and how it interacts with Sarah's existing coping patterns and support system, is essential context for a complete case conceptualization."
+  },
+  {
+    "id": "cs-elena-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "As a university student, how should the counselor consider Elena's developmental stage in case conceptualization?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ignore developmental stage entirely and treat her identically to an older adult client"
+      },
+      {
+        "id": "b",
+        "text": "Consider how identity formation and the transition to young adulthood may intersect with her relational instability and emotion dysregulation"
+      },
+      {
+        "id": "c",
+        "text": "Assume her age is clinically irrelevant to her presentation"
+      },
+      {
+        "id": "d",
+        "text": "Assume all university students present identically to Elena"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Considering the developmental tasks of young adulthood, including identity formation, alongside her relational and emotional symptoms provides a more complete, age-appropriate case conceptualization."
+  },
+  {
+    "id": "cs-elena-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a systems perspective, what should the counselor explore regarding Elena's campus environment and support system?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Nothing; her presentation should be understood purely individually"
+      },
+      {
+        "id": "b",
+        "text": "Her access to campus mental health resources, peer support, and how her relational patterns play out within her current social environment"
+      },
+      {
+        "id": "c",
+        "text": "Assuming she has no meaningful support system without asking"
+      },
+      {
+        "id": "d",
+        "text": "Focusing solely on her family of origin with no attention to her current environment"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring her current campus support resources and how her relational patterns manifest in her present environment provides essential systemic context alongside any exploration of her family history."
+  },
+  {
+    "id": "cs-james-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "James references drinking 'like every other guy on my crew' as a way of normalizing his use. How should the counselor understand this within his occupational culture?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Dismiss this as simply an excuse with no further exploration"
+      },
+      {
+        "id": "b",
+        "text": "Explore how workplace/occupational drinking norms in his specific field may shape both his use pattern and his resistance to seeing it as a problem"
+      },
+      {
+        "id": "c",
+        "text": "Assume all construction workers have identical drinking patterns"
+      },
+      {
+        "id": "d",
+        "text": "Insist he immediately cut ties with his entire crew"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring how genuine occupational drinking culture may normalize his use provides important context for understanding both his pattern of use and his resistance, without assuming a stereotype applies to every individual in that occupation."
+  },
+  {
+    "id": "cs-james-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factor is most essential given his wife's complaints about his drinking?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "His individual drinking pattern only, without any family systems context"
+      },
+      {
+        "id": "b",
+        "text": "How his drinking is affecting his marital relationship and whether involving his wife, with his consent, could support his treatment"
+      },
+      {
+        "id": "c",
+        "text": "Assuming his wife's concerns are exaggerated"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing the marital conflict to focus solely on his workplace mandate"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Understanding the marital impact of his drinking and considering, with his consent, whether involving his wife could support treatment reflects a systemic case conceptualization beyond the mandated workplace referral alone."
+  },
+  {
+    "id": "cs-priya-q11",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "How should the counselor approach the cultural conflict Priya describes between her own grieving process and her extended family's expectation to 'stay positive'?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Dismiss her family's cultural framework as simply wrong"
+      },
+      {
+        "id": "b",
+        "text": "Explore both her personal grieving needs and her family's cultural framework with curiosity, helping her navigate the tension without dismissing either perspective"
+      },
+      {
+        "id": "c",
+        "text": "Assume Priya should simply comply with her family's expectations"
+      },
+      {
+        "id": "d",
+        "text": "Avoid discussing the cultural dimension of the conflict entirely"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Exploring both her personal grief needs and her family's cultural framework with genuine curiosity, helping her navigate rather than resolve the tension in favor of one side, reflects culturally humble, client-centered practice."
+  },
+  {
+    "id": "cs-priya-q12",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "From a case conceptualization and systems perspective, which factor is most essential given Priya's role as both a working professional and a mother during this grief period?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Her individual grief symptoms only, without attention to her multiple life roles"
+      },
+      {
+        "id": "b",
+        "text": "The cumulative demands of maintaining her professional role, parenting, and household management simultaneously while grieving, and how this affects her capacity and self-expectations"
+      },
+      {
+        "id": "c",
+        "text": "Assuming her professional role is unaffected by her grief"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing her caregiving responsibilities as clinically unimportant"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Understanding the cumulative burden of maintaining multiple significant roles simultaneously while actively grieving provides essential context for case conceptualization and helps set realistic, compassionate expectations for her own functioning."
+  },
+  {
+    "id": "cs-sarah2-q4",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "Sarah describes her mother as having 'chronic nerves,' and her father had alcohol dependence. From a biopsychosocial-systemic perspective, what do these family patterns most likely indicate for Sarah?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A genetic predisposition to anxiety and substance use disorders"
+      },
+      {
+        "id": "b",
+        "text": "A lack of maternal warmth specifically"
+      },
+      {
+        "id": "c",
+        "text": "Environmental modeling of anxiety-related coping mechanisms"
+      },
+      {
+        "id": "d",
+        "text": "Both a genetic predisposition and environmental modeling"
+      }
+    ],
+    "correct_choice_id": "d",
+    "rationale": "Anxiety and substance use disorders typically arise from both genetic vulnerability and environmental modeling of coping behavior, and Sarah's family history reflects both mechanisms simultaneously."
+  },
+  {
+    "id": "cs-sarah2-q13",
+    "module_id": "student-client-consultant-needs",
+    "batch": "case-study",
+    "stem": "Regarding Sarah's two children, what is the appropriate clinical consideration for the counselor?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Never inquire about her parenting at all"
+      },
+      {
+        "id": "b",
+        "text": "Assess the potential impact of her symptoms on family dynamics"
+      },
+      {
+        "id": "c",
+        "text": "Report her to Child Protective Services immediately based on her symptoms alone"
+      },
+      {
+        "id": "d",
+        "text": "Avoid the topic entirely to maintain rapport"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Assessing how a parent's depression and anxiety symptoms affect family functioning is a standard part of a comprehensive biopsychosocial assessment, and does not by itself constitute grounds for a protective services report."
+  }
+]

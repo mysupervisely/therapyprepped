@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "cs-chloe-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Chloe insists to the counselor privately that she doesn't want her parents involved in her treatment at all, despite Family-Based Treatment requiring their active role. How should the counselor manage this boundary tension?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Honor Chloe's request for full privacy given her stated preference as the client"
+      },
+      {
+        "id": "b",
+        "text": "Explain, within developmentally appropriate limits, why parental involvement is medically necessary for her safety and the evidence-based treatment model, while still validating her feelings"
+      },
+      {
+        "id": "c",
+        "text": "Exclude the parents entirely to preserve rapport with Chloe"
+      },
+      {
+        "id": "d",
+        "text": "Terminate treatment since Chloe disagrees with the treatment model"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the medical severity and the evidence base for parental involvement in adolescent AN treatment, the counselor must explain this necessity while still validating Chloe's feelings, rather than either excluding parents or ending treatment due to her objection."
+  },
+  {
+    "id": "cs-chloe-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Chloe's school nurse contacts the clinic requesting information after noticing her significant weight loss. What is the most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Share detailed clinical information immediately given the safety concern"
+      },
+      {
+        "id": "b",
+        "text": "Decline to confirm or share information without a valid release from Chloe's parents/guardians, though the school's concern can be acknowledged"
+      },
+      {
+        "id": "c",
+        "text": "Ignore the request entirely"
+      },
+      {
+        "id": "d",
+        "text": "Direct the school nurse to discuss it with Chloe directly with no clinic involvement"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Without a valid release of information from Chloe's parents/guardians, no clinical details can be shared with the school, even though the underlying safety concern raised is a valid one to acknowledge."
+  },
+  {
+    "id": "cs-chloe-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the medical severity of Chloe's presentation, what is the most appropriate action regarding the counselor's own competence if they have limited eating disorder treatment experience?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Proceed independently since Chloe is an adolescent, not a complex adult case"
+      },
+      {
+        "id": "b",
+        "text": "Recognize the limits of competency given the medical severity, and seek immediate consultation with an eating disorder specialist or arrange a referral to a specialized team"
+      },
+      {
+        "id": "c",
+        "text": "Delegate treatment decisions to Chloe's parents entirely"
+      },
+      {
+        "id": "d",
+        "text": "Inform the family the counselor cannot help and close the case with no referral"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the serious medical risk involved in this presentation, actively seeking consultation with an eating disorder specialist or arranging a referral to a specialized team reflects appropriate ethical practice given a lack of specific competence."
+  },
+  {
+    "id": "cs-chloe-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Chloe's significant medical risk (BMI 16.2, amenorrhea), what multidisciplinary coordination is most appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Chloe in complete isolation from medical providers to preserve the therapeutic relationship"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate releases, coordinate closely with her pediatrician or a physician specializing in adolescent medicine for ongoing medical monitoring alongside psychological treatment"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on Chloe's self-report regarding her physical health status"
+      },
+      {
+        "id": "d",
+        "text": "Take on sole responsibility for monitoring her medical status directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the serious medical risk of Anorexia Nervosa, close coordination with a physician for ongoing medical monitoring, with proper releases, is essential and standard practice, not something a counselor manages alone or defers entirely to self-report."
+  },
+  {
+    "id": "cs-samuel-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Samuel's daughter, who brought him to the appointment, requests to sit in on all future sessions and receive detailed updates. What boundary consideration is most important here?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Automatically allow this given her role in bringing him to treatment"
+      },
+      {
+        "id": "b",
+        "text": "Discuss this request directly with Samuel to determine his preferences and capacity to consent, since he is a competent adult regardless of his daughter's concern"
+      },
+      {
+        "id": "c",
+        "text": "Automatically deny the request without discussion"
+      },
+      {
+        "id": "d",
+        "text": "Make the decision unilaterally without involving Samuel at all"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "As a competent adult, Samuel's own preferences and consent should guide decisions about his daughter's involvement, rather than the daughter's request automatically being granted or denied without his input."
+  },
+  {
+    "id": "cs-samuel-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the diagnostic ambiguity between pseudodementia and a true neurocognitive disorder, what documentation practice is most appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Document a definitive dementia diagnosis immediately to satisfy insurance requirements"
+      },
+      {
+        "id": "b",
+        "text": "Document a working diagnosis with clear clinical reasoning, noting the differential considerations and plan for ongoing reassessment"
+      },
+      {
+        "id": "c",
+        "text": "Avoid documenting any diagnostic impression until absolute certainty is reached"
+      },
+      {
+        "id": "d",
+        "text": "Document only his daughter's opinions without independent clinical reasoning"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Documenting a working diagnosis with explicit clinical reasoning and a plan for ongoing reassessment appropriately reflects genuine diagnostic uncertainty, rather than prematurely committing to a definitive dementia diagnosis or avoiding documentation altogether."
+  },
+  {
+    "id": "cs-samuel-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the complexity of distinguishing pseudodementia from a true neurocognitive disorder, what is the most appropriate action regarding the counselor's competence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Make the differential diagnosis independently without any medical or geropsychology consultation"
+      },
+      {
+        "id": "b",
+        "text": "Seek consultation with a geropsychologist or coordinate with a physician for formal cognitive testing to support accurate differential diagnosis"
+      },
+      {
+        "id": "c",
+        "text": "Assume the daughter's report is sufficient to finalize the diagnosis"
+      },
+      {
+        "id": "d",
+        "text": "Refer Samuel out immediately without attempting any assessment"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the clinical complexity of distinguishing depression-related cognitive symptoms from true neurocognitive decline, seeking geropsychology consultation or coordinating formal cognitive testing reflects appropriate, competent practice."
+  },
+  {
+    "id": "cs-samuel-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "What multidisciplinary coordination is most appropriate given Samuel's presentation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Samuel in complete isolation from his primary care physician"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate releases, coordinate with his physician for formal cognitive testing and to rule out medical contributors to his cognitive and mood symptoms"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on his daughter's report of his medical history"
+      },
+      {
+        "id": "d",
+        "text": "Take on responsibility for ordering medical cognitive testing directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with his physician for formal cognitive testing and medical workup, with proper releases, ensures a comprehensive and medically sound approach to distinguishing his diagnostic picture."
+  },
+  {
+    "id": "cs-liam-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Liam's school requests a copy of the counselor's full clinical notes to support a 504 plan or IEP evaluation. What is the most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Send the complete clinical file immediately given the educational purpose"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate parental consent, provide a focused summary relevant to his educational needs rather than the complete clinical record"
+      },
+      {
+        "id": "c",
+        "text": "Refuse to communicate with the school under any circumstances"
+      },
+      {
+        "id": "d",
+        "text": "Send the file directly to Liam's teachers without going through the appropriate school channels"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "With proper parental consent, sharing a focused, relevant summary rather than the complete clinical record follows the minimum necessary standard while still supporting appropriate educational planning."
+  },
+  {
+    "id": "cs-liam-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "As a minor, what is the appropriate approach to informed consent and confidentiality with Liam and his parents at the outset of treatment?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assume Liam has no say in what is shared since he is a minor"
+      },
+      {
+        "id": "b",
+        "text": "Establish a clear, collaborative confidentiality agreement with both Liam and his parents that outlines what will and won't be routinely shared"
+      },
+      {
+        "id": "c",
+        "text": "Promise Liam complete confidentiality with no parental involvement whatsoever"
+      },
+      {
+        "id": "d",
+        "text": "Avoid discussing confidentiality until an issue actually arises"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Establishing a clear, collaborative confidentiality agreement with both the minor client and parents at the outset is best practice, rather than assuming no input for the minor or promising absolute confidentiality that isn't realistic given his age."
+  },
+  {
+    "id": "cs-liam-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the need to coordinate school-based interventions, what is the most appropriate professional action regarding consultation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Manage all school coordination independently without any consultation"
+      },
+      {
+        "id": "b",
+        "text": "Seek consultation, as needed, regarding effective school-based ADHD accommodations and how to best support the family in advocating for appropriate school supports"
+      },
+      {
+        "id": "c",
+        "text": "Leave all school communication entirely to Liam's parents with no counselor involvement"
+      },
+      {
+        "id": "d",
+        "text": "Avoid any school-related discussion since it falls outside clinical treatment"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Seeking consultation regarding effective school-based interventions when needed, and supporting the family's advocacy efforts, reflects an appropriately collaborative role for the counselor within a multi-setting ADHD treatment approach."
+  },
+  {
+    "id": "cs-liam-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "What multidisciplinary coordination is most appropriate for Liam's case?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Liam in complete isolation from his school or pediatrician"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate parental consent, coordinate with his school (teachers, counselor) and pediatrician regarding his ADHD presentation and any medication evaluation"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on his parents' account of his school performance"
+      },
+      {
+        "id": "d",
+        "text": "Take on responsibility for evaluating him for medication directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with his school and pediatrician, with appropriate parental consent, supports comprehensive, consistent management of his ADHD across settings, which a counselor alone cannot provide, particularly regarding any medical/medication evaluation."
+  },
+  {
+    "id": "cs-maria-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Maria mentions she is also seeking support from a curandera (traditional healer) alongside therapy. How should the counselor manage this from a boundary and practice standpoint?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Insist she choose between the curandera and counseling"
+      },
+      {
+        "id": "b",
+        "text": "Respect this as a valid complementary practice, review it within the informed consent framework, and maintain professional therapeutic boundaries around the counselor's own role"
+      },
+      {
+        "id": "c",
+        "text": "Refer her out immediately due to a perceived conflict"
+      },
+      {
+        "id": "d",
+        "text": "Adopt curandera practices personally to build rapport"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Respecting culturally significant complementary practices while maintaining clear professional boundaries about the counselor's own role reflects both cultural humility and sound ethical practice, rather than forcing a choice or overstepping professional scope."
+  },
+  {
+    "id": "cs-maria-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Maria's employer contacts the clinic requesting information about her attendance and mental state, citing that they are 'just trying to help.' What is the most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Share general information since the employer expressed good intentions"
+      },
+      {
+        "id": "b",
+        "text": "Decline to confirm or share any information without a valid signed release, and if one exists, disclose only the minimum necessary"
+      },
+      {
+        "id": "c",
+        "text": "Ignore the request without any response"
+      },
+      {
+        "id": "d",
+        "text": "Redact the file personally and send it without documenting the request"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Absent a valid, specific release of information from Maria, no client information can be shared, and even with a release, only the minimum necessary information relevant to its stated purpose should be disclosed."
+  },
+  {
+    "id": "cs-maria-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "The counselor has limited prior experience working with clients presenting with culturally specific idioms of distress like 'nervios.' What is the most appropriate professional response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Proceed independently and research the topic informally after hours"
+      },
+      {
+        "id": "b",
+        "text": "Recognize the limits of competency, seek consultation or supervision on culturally responsive assessment, or arrange an appropriate referral if needed"
+      },
+      {
+        "id": "c",
+        "text": "Delegate the case to an unlicensed peer support worker"
+      },
+      {
+        "id": "d",
+        "text": "Tell Maria the counselor cannot help her and close the file"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Recognizing a genuine gap in cultural competence and proactively seeking consultation or supervision reflects ethical practice, rather than either proceeding without support or abandoning the client."
+  },
+  {
+    "id": "cs-maria-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Maria's unremarkable medical workup but persistent physical symptoms, what is the most appropriate multidisciplinary care action?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Maria in complete isolation from her medical providers to preserve confidentiality"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate releases of information, coordinate with her physician to ensure ongoing monitoring of her somatic symptoms alongside psychological treatment"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on Maria's verbal report of her last medical visit"
+      },
+      {
+        "id": "d",
+        "text": "Take over responsibility for interpreting her medical results independently"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with Maria's physician, with proper releases in place, ensures her somatic symptoms continue to be appropriately monitored alongside psychological treatment, reflecting integrated, whole-person care."
+  },
+  {
+    "id": "cs-david1-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "The newly licensed counselor treating David has never previously treated OCD. What is the most appropriate ethical action regarding competence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat David independently and read relevant literature after hours without further consultation"
+      },
+      {
+        "id": "b",
+        "text": "Recognize the limits of competency and actively seek formal consultation or supervision specific to ERP and OCD treatment, or arrange a referral if needed"
+      },
+      {
+        "id": "c",
+        "text": "Delegate treatment decisions to an unlicensed peer support specialist"
+      },
+      {
+        "id": "d",
+        "text": "Inform David the counselor cannot help him and close the case without notice"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the counselor's inexperience with OCD specifically, actively seeking formal consultation or supervision on ERP is the appropriate ethical response, rather than proceeding entirely independently or abandoning the client."
+  },
+  {
+    "id": "cs-david1-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "David's supervisor tells the counselor, 'I trust your judgment completely, just let me know if any crisis happens.' What does this supervisory approach primarily fail to provide?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Full autonomy, which is actually appropriate here"
+      },
+      {
+        "id": "b",
+        "text": "Adequate, substantive oversight consistent with the supervisor's vicarious liability responsibilities, especially given the counselor's inexperience with OCD"
+      },
+      {
+        "id": "c",
+        "text": "Compliance with HIPAA restrictions on supervisory review"
+      },
+      {
+        "id": "d",
+        "text": "Appropriate boundaries between the supervisor and supervisee"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A hands-off approach that provides no substantive case review fails the supervisor's duty of active oversight, particularly given the counselor's stated inexperience with OCD, exposing both the supervisor and client to unnecessary risk."
+  },
+  {
+    "id": "cs-david1-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Recognizing the gap in supervisory oversight, what is the most proactive step the counselor treating David should take?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Accept the hands-off approach and proceed without further consultation"
+      },
+      {
+        "id": "b",
+        "text": "Proactively request specific case consultation regarding ERP protocols, rather than waiting passively for the supervisor to initiate review"
+      },
+      {
+        "id": "c",
+        "text": "Stop treating David until the supervisor changes their approach"
+      },
+      {
+        "id": "d",
+        "text": "Independently decide David no longer needs a formal treatment plan"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given a passive supervisory relationship, the ethical responsibility falls on the counselor to proactively seek out specific case consultation on unfamiliar presentations like OCD/ERP, rather than waiting for oversight that may not otherwise occur."
+  },
+  {
+    "id": "cs-david1-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Should David's contamination fears be found to relate to an underlying medical anxiety, what multidisciplinary coordination would be most appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat David in complete isolation to protect his privacy"
+      },
+      {
+        "id": "b",
+        "text": "With an appropriate release, coordinate with his physician to rule out or monitor any medical component to his health-related fears"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on David's self-report regarding his physical health"
+      },
+      {
+        "id": "d",
+        "text": "Take on responsibility for making medical determinations directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with David's physician, with a proper release in place, ensures any medical dimension to his contamination-related fears is appropriately addressed alongside his psychological treatment."
+  },
+  {
+    "id": "cs-marcus1-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Marcus's stated preference for complete confidentiality regarding his custody case, how should the counselor manage discussions about what might be shared with the court?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assume nothing will ever be shared under any circumstances"
+      },
+      {
+        "id": "b",
+        "text": "Clearly review, as part of ongoing informed consent, the specific limits of confidentiality related to legal proceedings and what could potentially be compelled"
+      },
+      {
+        "id": "c",
+        "text": "Avoid discussing the topic to prevent alarming Marcus"
+      },
+      {
+        "id": "d",
+        "text": "Promise Marcus his records can never be released under any legal process"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Clearly reviewing the actual limits of confidentiality in the context of active legal proceedings, rather than making absolute promises or avoiding the topic, ensures Marcus can make informed decisions about disclosure going forward."
+  },
+  {
+    "id": "cs-marcus1-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Mid-treatment, the counselor receives a subpoena from the opposing spouse's attorney demanding Marcus's complete clinical record. Marcus is unaware and has previously stated he wants his records kept fully confidential. What is the most appropriate first action?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Comply immediately with the attorney's request to demonstrate legal cooperation"
+      },
+      {
+        "id": "b",
+        "text": "Notify Marcus immediately, discuss his wishes and options, assert privilege on his behalf if he wants, and consult an attorney before releasing anything"
+      },
+      {
+        "id": "c",
+        "text": "Ignore the subpoena completely until a court order is issued"
+      },
+      {
+        "id": "d",
+        "text": "Redact portions of the file personally and send it without documenting any of these steps"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "A subpoena does not compel immediate compliance. Marcus must be notified immediately, his wishes discussed, privilege potentially asserted on his behalf, and legal consultation obtained before any records are released."
+  },
+  {
+    "id": "cs-marcus1-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the complexity of Marcus's combat trauma, moral injury, alcohol use, and now an active legal subpoena, what is the most appropriate action regarding the counselor's own competence and support?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Manage all aspects of the case independently to protect Marcus's privacy"
+      },
+      {
+        "id": "b",
+        "text": "Seek supervision or consultation regarding both the clinical complexity and the legal/ethical subpoena situation"
+      },
+      {
+        "id": "c",
+        "text": "Delegate the legal aspects entirely to Marcus to handle himself"
+      },
+      {
+        "id": "d",
+        "text": "Discontinue treatment entirely due to the legal complexity"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Given the layered clinical and legal complexity of this case, seeking consultation on both fronts reflects appropriate professional practice, rather than managing everything alone, offloading the burden onto the client, or abandoning treatment."
+  },
+  {
+    "id": "cs-marcus1-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Marcus's alcohol misuse alongside his PTSD symptoms, what multidisciplinary coordination would be most appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Marcus in complete isolation from any other providers"
+      },
+      {
+        "id": "b",
+        "text": "With an appropriate release, coordinate with a substance use specialist or his primary care provider regarding his alcohol use and any withdrawal risk"
+      },
+      {
+        "id": "c",
+        "text": "Rely entirely on Marcus's self-report of his drinking with no further coordination"
+      },
+      {
+        "id": "d",
+        "text": "Take on sole responsibility for managing any medical aspects of his alcohol use"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with appropriate specialists regarding his alcohol use, with proper releases, ensures both his psychological and physiological needs are addressed safely and comprehensively."
+  },
+  {
+    "id": "cs-sarah1-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Sarah asks if she can bring her infant to sessions occasionally due to childcare gaps. What is the most appropriate way to handle this boundary consideration?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Refuse categorically with no discussion"
+      },
+      {
+        "id": "b",
+        "text": "Discuss this openly, weighing therapeutic impact and practicality, and establish a clear, mutually agreed-upon policy documented in her file"
+      },
+      {
+        "id": "c",
+        "text": "Allow it without any discussion of impact on session content"
+      },
+      {
+        "id": "d",
+        "text": "Redirect her to find another counselor entirely"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Openly discussing the practical and therapeutic implications and establishing a clear, documented, mutually agreed policy reflects appropriate boundary management rather than an outright refusal or an undiscussed accommodation."
+  },
+  {
+    "id": "cs-sarah1-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Sarah's insurance requires documentation to justify continued sessions. What is the most appropriate documentation approach?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Provide vague notes to protect her privacy from the insurer"
+      },
+      {
+        "id": "b",
+        "text": "Document her specific symptoms, functional impact, and progress objectively, sharing only the minimum necessary information required by the payer"
+      },
+      {
+        "id": "c",
+        "text": "Refuse to document anything for insurance purposes"
+      },
+      {
+        "id": "d",
+        "text": "Share her complete session notes with the insurer for full transparency"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Objective documentation of symptoms and progress, sharing only what is minimally necessary for the specific insurance purpose, satisfies both clinical documentation standards and confidentiality obligations."
+  },
+  {
+    "id": "cs-sarah1-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "The counselor has limited prior experience with perinatal-specific anxiety presentations. What is the most appropriate professional response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Sarah using general GAD protocols without further consultation"
+      },
+      {
+        "id": "b",
+        "text": "Seek consultation or continuing education specific to perinatal mental health to ensure the approach appropriately accounts for the postpartum context"
+      },
+      {
+        "id": "c",
+        "text": "Refer Sarah out immediately without attempting treatment"
+      },
+      {
+        "id": "d",
+        "text": "Delegate her care to an unlicensed peer supporter"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Seeking targeted consultation or continuing education on perinatal mental health ensures competent, context-appropriate care, rather than either proceeding with a generic approach or unnecessarily referring out."
+  },
+  {
+    "id": "cs-sarah1-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Sarah is postpartum, what multidisciplinary coordination would be most appropriate to consider?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Sarah in complete isolation from her OB/GYN or pediatric providers"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate releases, consider coordinating with her OB/GYN regarding postpartum screening and, if relevant, her pediatrician regarding infant-related concerns"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on Sarah's self-report of her postpartum medical status"
+      },
+      {
+        "id": "d",
+        "text": "Take on responsibility for her postpartum medical monitoring directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with relevant medical providers, with proper releases, supports comprehensive perinatal care and ensures no medical contributors to her anxiety are overlooked."
+  },
+  {
+    "id": "cs-elena-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "In session three, Elena tells the counselor, 'You are the only person who has ever truly understood me... Can we extend our sessions by 30 minutes, or can I text your personal number when I feel lonely?' What is the most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Accommodate the boundary extensions to foster a corrective emotional experience"
+      },
+      {
+        "id": "b",
+        "text": "Maintain explicit professional structural limits, review the informed consent document regarding session length and contact policies, and process the underlying feelings with her"
+      },
+      {
+        "id": "c",
+        "text": "Immediately refer her out due to this request alone"
+      },
+      {
+        "id": "d",
+        "text": "Share personal contact information to build trust"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Maintaining clear professional boundaries while therapeutically processing the underlying abandonment fears and idealization driving the request is the appropriate response; extending boundaries or sharing personal contact information risks reinforcing unhealthy relational patterns central to her presentation."
+  },
+  {
+    "id": "cs-elena-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Elena's idealization of the counselor ('the only person who has ever truly understood me') alongside her described pattern of idealizing then devaluing others raises what clinical/ethical consideration for the counselor?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No particular consideration is needed since this is simply a compliment"
+      },
+      {
+        "id": "b",
+        "text": "Awareness that this idealization is a documented feature of her presentation and may shift to devaluation, requiring consistent boundaries and possible supervision/consultation"
+      },
+      {
+        "id": "c",
+        "text": "Encouraging the idealization to strengthen the therapeutic bond"
+      },
+      {
+        "id": "d",
+        "text": "Terminating treatment immediately due to this dynamic"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Recognizing idealization as a clinical feature likely to shift to devaluation over time, consistent with her broader relational pattern, calls for consistent boundaries and proactive consultation rather than either encouraging the dynamic or reacting with immediate termination."
+  },
+  {
+    "id": "cs-elena-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the intensity of Elena's presentation and the boundary-testing request in session three, what is the most appropriate action regarding the counselor's own practice?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Manage the situation entirely independently without consultation"
+      },
+      {
+        "id": "b",
+        "text": "Seek clinical consultation or supervision specifically regarding boundary management and DBT-consistent approaches for this presentation"
+      },
+      {
+        "id": "c",
+        "text": "Discharge Elena immediately as too complex to manage"
+      },
+      {
+        "id": "d",
+        "text": "Avoid documenting the boundary request to protect Elena's privacy"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Seeking consultation on boundary management for BPD-consistent presentations reflects appropriate professional practice, and the interaction should be thoroughly documented, not omitted, for both clinical and risk-management purposes."
+  },
+  {
+    "id": "cs-elena-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Elena's recent ED visit, what multidisciplinary coordination would be most appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat Elena in complete isolation from the ED or any other providers"
+      },
+      {
+        "id": "b",
+        "text": "With appropriate releases, coordinate with the ED or any follow-up medical provider regarding her recent visit and any recommended follow-up care"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on Elena's account of what happened at the ED"
+      },
+      {
+        "id": "d",
+        "text": "Take over responsibility for her medical follow-up directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with the ED or relevant medical providers, with proper releases, ensures continuity of care and full awareness of any medical recommendations following her recent visit."
+  },
+  {
+    "id": "cs-james-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "As an employer-mandated client, what boundary consideration is most important for the counselor to clarify with James at the outset?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No clarification is needed since mandated treatment has no special confidentiality considerations"
+      },
+      {
+        "id": "b",
+        "text": "Clearly reviewing what specific information, if any, will be reported back to his employer, distinct from the content of his sessions"
+      },
+      {
+        "id": "c",
+        "text": "Promising James that absolutely nothing will ever be shared with his employer"
+      },
+      {
+        "id": "d",
+        "text": "Assuming the employer has full access to all session content automatically"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Mandated treatment requires clear upfront clarification of exactly what will and won't be reported to the referring employer, which is neither absolute confidentiality nor unrestricted employer access, protecting both James's understanding and the treatment relationship."
+  },
+  {
+    "id": "cs-james-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "James's employer requests a progress update ahead of his return-to-work evaluation. What is the most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Share full session content and diagnostic details"
+      },
+      {
+        "id": "b",
+        "text": "Share only the specific information covered under the previously established release/consent, applying the minimum necessary standard"
+      },
+      {
+        "id": "c",
+        "text": "Refuse to communicate with the employer under any circumstances"
+      },
+      {
+        "id": "d",
+        "text": "Share James's private opinions about the workplace accident investigation"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Sharing only what was previously agreed to under the established release, following the minimum necessary standard, protects James's confidentiality while still meeting the legitimate reporting requirements of mandated treatment."
+  },
+  {
+    "id": "cs-james-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given James's withdrawal symptoms and potential need for medical detoxification, what is the most appropriate action regarding the counselor's scope of practice?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Manage any medical withdrawal risk independently within the counseling role"
+      },
+      {
+        "id": "b",
+        "text": "Recognize that medical management of withdrawal is outside the counselor's scope and coordinate a referral to an appropriate medical provider"
+      },
+      {
+        "id": "c",
+        "text": "Advise James to simply stop drinking abruptly on his own"
+      },
+      {
+        "id": "d",
+        "text": "Ignore the withdrawal symptoms since he is functioning at work"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Medical management of potential alcohol withdrawal is outside a counselor's scope of practice, and recognizing this limit to coordinate an appropriate medical referral is the ethically and clinically sound response."
+  },
+  {
+    "id": "cs-james-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given the identified withdrawal symptoms, what multidisciplinary coordination would be most appropriate for James?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Treat James in complete isolation with no medical involvement"
+      },
+      {
+        "id": "b",
+        "text": "With an appropriate release, coordinate with a physician regarding his withdrawal symptoms and possible need for medically supervised detoxification"
+      },
+      {
+        "id": "c",
+        "text": "Rely solely on James's self-report regarding his physical symptoms"
+      },
+      {
+        "id": "d",
+        "text": "Take on responsibility for medically managing his withdrawal directly"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Coordinating with a physician, with proper releases, regarding his withdrawal symptoms ensures James's physical safety is properly addressed alongside his psychological treatment."
+  },
+  {
+    "id": "cs-priya-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Priya asks the counselor to help her explain to her extended family why she needs more time to grieve in her own way. What boundary/role consideration is most relevant here?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Refuse to engage with this request as entirely outside the counselor's role"
+      },
+      {
+        "id": "b",
+        "text": "Support Priya in developing her own language and approach to communicate with her family, rather than the counselor directly intervening with the family system"
+      },
+      {
+        "id": "c",
+        "text": "Contact her extended family directly on her behalf without her involvement"
+      },
+      {
+        "id": "d",
+        "text": "Tell Priya her family's cultural expectations are simply wrong"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Supporting Priya in developing her own voice and approach to communicate with her family respects her autonomy and cultural context, appropriately distinct from the counselor directly intervening with her family system or dismissing her family's cultural framework."
+  },
+  {
+    "id": "cs-priya-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Priya's employer contacts the clinic regarding her recent difficulty concentrating at work, asking if she has a diagnosis that would explain her reduced productivity. What is the most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Confirm her diagnosis and symptoms to help the employer understand"
+      },
+      {
+        "id": "b",
+        "text": "Decline to confirm or share any clinical information without a valid signed release from Priya specifying what can be shared"
+      },
+      {
+        "id": "c",
+        "text": "Ignore the request with no response at all"
+      },
+      {
+        "id": "d",
+        "text": "Share general information since the inquiry seems well-intentioned"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Without a valid, specific release from Priya, no clinical information, including confirmation of a diagnosis, can be shared with her employer, regardless of the employer's apparent good intentions."
+  },
+  {
+    "id": "cs-priya-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "The counselor has limited experience working with South Asian cultural norms around grief expression and family expectations. What is the most appropriate professional response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Proceed using a generic Western grief framework without further consultation"
+      },
+      {
+        "id": "b",
+        "text": "Seek consultation or continuing education on culturally responsive grief work to ensure Priya's specific cultural context is appropriately understood and integrated"
+      },
+      {
+        "id": "c",
+        "text": "Refer Priya to a South Asian counselor immediately without attempting to work with her"
+      },
+      {
+        "id": "d",
+        "text": "Ask Priya to educate the counselor extensively about her culture instead of seeking outside consultation"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Proactively seeking consultation or continuing education on culturally responsive grief work reflects appropriate ethical practice, rather than defaulting to a generic framework, unnecessarily referring out, or placing the burden of education entirely on the client."
+  },
+  {
+    "id": "cs-priya-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Priya's difficulty concentrating at work, what multidisciplinary or systems-level coordination might be appropriate to discuss with her, with her consent?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Assume no workplace accommodation is ever appropriate for grief"
+      },
+      {
+        "id": "b",
+        "text": "Discuss the possibility of workplace accommodations or EAP resources, if she is interested, while respecting her autonomy in deciding whether to pursue this"
+      },
+      {
+        "id": "c",
+        "text": "Contact her employer directly to arrange accommodations without her knowledge"
+      },
+      {
+        "id": "d",
+        "text": "Advise her to resign from her position due to her concentration difficulties"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Discussing potential workplace accommodations or EAP resources as an option, while respecting Priya's autonomy in deciding whether and how to pursue this, reflects appropriate collaborative practice rather than unilateral action or dismissing the possibility entirely."
+  },
+  {
+    "id": "cs-acs-q1",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "A counselor receives a certified letter containing a subpoena duces tecum from an attorney representing a client's husband in a contentious divorce, demanding immediate release of all clinical records. The client has not been informed and the counselor has not spoken with them since receiving it. What should the counselor's FIRST action be?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Immediately mail the clinical records to comply and avoid a contempt charge"
+      },
+      {
+        "id": "b",
+        "text": "Contact the issuing attorney directly to refuse cooperation"
+      },
+      {
+        "id": "c",
+        "text": "Contact the client immediately to inform them, discuss their preferences, and consult legal counsel before releasing anything"
+      },
+      {
+        "id": "d",
+        "text": "File a motion to quash the subpoena on the client's behalf without contacting them first"
+      }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "A subpoena is a request from an attorney, not a judicial order, and does not compel immediate compliance. The client must be notified, their wishes discussed, and legal counsel consulted before any records are released or privilege is asserted."
+  },
+  {
+    "id": "cs-acs-q2",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "During a session, an adult client states with specificity that he knows his neighbor James Smith's exact schedule, has purchased a handgun, and intends to shoot him on Friday night. Based on the Tarasoff standard, what sequence of actions must the counselor take?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Maintain confidentiality and attempt to de-escalate his anger within session"
+      },
+      {
+        "id": "b",
+        "text": "Conduct a risk assessment, consult a supervisor immediately, and take protective measures including notifying law enforcement and warning the identified victim"
+      },
+      {
+        "id": "c",
+        "text": "Immediately terminate the therapeutic relationship and refer him to a psychiatric provider"
+      },
+      {
+        "id": "d",
+        "text": "Call police during the session to arrange an arrest without further risk screening"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "This scenario meets every Tarasoff trigger: a specific, identifiable target, a credible plan, and disclosed means with a timeline. This requires a full risk assessment, immediate supervisor consultation, and protective action including warning the victim and notifying law enforcement."
+  },
+  {
+    "id": "cs-acs-q3",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "A client relocates permanently to an adjacent state and requests to continue weekly telehealth sessions. The counselor is only licensed in their home state. What is the most ethically and legally sound course of action?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Continue sessions since the therapeutic relationship is already established"
+      },
+      {
+        "id": "b",
+        "text": "Have the client sign a liability waiver acknowledging cross-state practice"
+      },
+      {
+        "id": "c",
+        "text": "Obtain licensure in the client's new state, or refer the client to a provider licensed there"
+      },
+      {
+        "id": "d",
+        "text": "Switch to text-based support to bypass licensing requirements"
+      }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "Telehealth licensure jurisdiction is determined by the client's physical location. Continuing to practice without licensure there constitutes practicing without a license, regardless of an established relationship or a signed waiver."
+  },
+  {
+    "id": "cs-acs-q4",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Parents of a 15-year-old client in therapy for academic anxiety and identity exploration demand full access to all session notes, asserting an absolute legal right as guardians. How should the counselor manage this request?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Comply fully and hand over all session files immediately"
+      },
+      {
+        "id": "b",
+        "text": "Refuse all parent requests, citing identical confidentiality rights to adults"
+      },
+      {
+        "id": "c",
+        "text": "Provide general progress summaries while protecting sensitive personal disclosures, guided by state law and the pre-negotiated intake agreement"
+      },
+      {
+        "id": "d",
+        "text": "Have the 15-year-old sign an adult Release of Information form to override parental authority"
+      }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "While parents generally hold legal record-access rights for minors, blanket disclosure can destroy the therapeutic alliance. Best practice is high-level progress updates while protecting sensitive content, per the confidentiality agreement negotiated at intake and applicable state law."
+  },
+  {
+    "id": "cs-acs-q5",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "A community agency caps treatment at 8 sessions due to funding. At session 7, a client with complex PTSD, borderline traits, and a history of suicide attempts remains highly symptomatic and unstable. What is the most ethical path?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Adhere strictly to policy and terminate the client at session 8"
+      },
+      {
+        "id": "b",
+        "text": "Document the clinical need, petition for an exception through proper channels, and if denied, ensure a safe transition with referrals and crisis planning"
+      },
+      {
+        "id": "c",
+        "text": "See the client for free off-site without informing the agency"
+      },
+      {
+        "id": "d",
+        "text": "Encourage the client to sue the agency director"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "When agency policy conflicts with client welfare, the counselor must advocate through legitimate channels for an exception, and if unsuccessful, cannot simply abandon a high-risk client without a properly documented, safe transition of care."
+  },
+  {
+    "id": "cs-acs-q6",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "A counselor discovers a close colleague has been deliberately falsifying progress notes and service dates to secure insurance approval and meet productivity quotas. According to the ACA's graduated response for peer ethical violations, what should the counselor do FIRST?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "File an immediate anonymous report with the licensing board and insurance fraud division"
+      },
+      {
+        "id": "b",
+        "text": "Address the issue directly with the colleague to seek informal resolution, unless the severity makes this inappropriate"
+      },
+      {
+        "id": "c",
+        "text": "Ignore the observation since documentation practices are outside the counselor's scope"
+      },
+      {
+        "id": "d",
+        "text": "Confront the colleague's clients directly to verify sessions occurred"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "The ACA Code's graduated response generally begins with informal resolution directly with the colleague, escalating to formal reporting only when the violation is severe, intentional, or informal resolution is inappropriate or fails \u2014 which deliberate billing fraud may well meet, but assessment and direct approach remain the first step when feasible."
+  },
+  {
+    "id": "cs-acs-q7",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "An individual arrives for a scheduled intake smelling strongly of alcohol, with slurred speech and an unsteady gait, insisting they are fine and demanding to sign informed consent immediately. What is the counselor's most appropriate response?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Allow the client to sign immediately since they are demonstrating motivation"
+      },
+      {
+        "id": "b",
+        "text": "Refuse to proceed with intake or obtain consent due to impaired capacity, prioritize their safety and transportation, and reschedule"
+      },
+      {
+        "id": "c",
+        "text": "Conduct the full session but defer paperwork to next time"
+      },
+      {
+        "id": "d",
+        "text": "Administer a blood alcohol test against the client's will"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Valid informed consent requires capacity, which is compromised by acute intoxication. The counselor should prioritize the client's immediate safety, decline to obtain consent in this state, and reschedule for when the client is sober."
+  },
+  {
+    "id": "cs-acs-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "A clinical supervisor signs off on all of a new counselor's progress notes and treatment plans without reading them, saying, 'I trust your judgment completely \u2014 just let me know if anyone is dying.' This approach violates which standard?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The counselor's right to professional autonomy"
+      },
+      {
+        "id": "b",
+        "text": "The supervisor's duty of adequate oversight and their vicarious liability responsibilities"
+      },
+      {
+        "id": "c",
+        "text": "HIPAA's prohibition on supervisors reviewing documentation"
+      },
+      {
+        "id": "d",
+        "text": "ACA research publication guidelines"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Supervisors carry vicarious liability for supervisee work and are ethically required to provide substantive, active oversight; signing off on unreviewed documentation fails this duty and exposes both the supervisor and clients to serious risk."
+  },
+  {
+    "id": "cs-acs-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "During a telehealth session, a client with a history of suicidal risk becomes tearful and states, 'I don't think I can keep doing this anymore,' and the video connection drops before a crisis screening can be completed. What is the counselor's immediate obligation?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Wait 15 minutes to see if the connection stabilizes on its own"
+      },
+      {
+        "id": "b",
+        "text": "Attempt to reach the client by phone immediately, and if unreachable, activate the pre-established telehealth crisis plan by contacting local emergency services at the client's location"
+      },
+      {
+        "id": "c",
+        "text": "Log the missed session and email a hotline link afterward"
+      },
+      {
+        "id": "d",
+        "text": "Contact emergency services in the counselor's own town"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Distance counseling standards require an established, location-specific crisis protocol; a dropped connection during active risk disclosure requires immediate phone follow-up and, if unreachable, activation of that plan using the client's actual physical location, not the counselor's."
+  },
+  {
+    "id": "cs-acs-q10",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "A clinical supervisor notices a supervisee arriving late, disheveled, and smelling faintly of alcohol, alongside increasingly disorganized progress notes missing key risk assessments. What represents the supervisor's correct dual responsibility?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ignore the personal issues to respect privacy, and personally fix the disorganized notes"
+      },
+      {
+        "id": "b",
+        "text": "Confront the supervisee confidentially about the objective changes, assess client risk, implement a remediation plan, and provide support resources"
+      },
+      {
+        "id": "c",
+        "text": "Immediately terminate the supervisee and report to the licensing board with no preliminary meeting"
+      },
+      {
+        "id": "d",
+        "text": "Reassure the supervisee that burnout is normal and suggest an unrecorded vacation"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Supervisors are gatekeepers responsible both for protecting clients and supporting supervisee development; this requires directly and confidentially addressing observed impairment, assessing caseload risk, and implementing a documented remediation plan with support resources."
+  },
+  {
+    "id": "cs-marcus2-q9",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Given Marcus's combat history, significant guilt, and alcohol use, what is a primary ethical concern the counselor must actively manage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Always referring him immediately to a psychiatrist regardless of presentation"
+      },
+      {
+        "id": "b",
+        "text": "Working within the counselor's scope of competence and monitoring for suicidal risk"
+      },
+      {
+        "id": "c",
+        "text": "Requiring him to disclose his full combat trauma narrative in the first session"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding all discussion of his military past entirely"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Ethical practice requires counselors to work within their competence, seeking consultation or referral as needed for combat trauma specifically, while continuously monitoring for suicidal risk given his guilt and substance use."
+  },
+  {
+    "id": "cs-sarah2-q8",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "When documenting Sarah's passive thoughts of wanting to 'sleep and not wake up,' what represents best documentation practice?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Using vague, non-specific language to avoid alarming future readers"
+      },
+      {
+        "id": "b",
+        "text": "Only noting information if an active suicide plan is present"
+      },
+      {
+        "id": "c",
+        "text": "Documenting the presence/absence of thoughts, intent, and plan along with clinical reasoning"
+      },
+      {
+        "id": "d",
+        "text": "Omitting the disclosure to protect the therapeutic relationship"
+      }
+    ],
+    "correct_choice_id": "c",
+    "rationale": "Thorough, specific documentation of ideation, intent, plan, and the clinician's reasoning provides both clinical continuity and legal/ethical protection, and is required any time risk-related content is disclosed, even passive ideation."
+  },
+  {
+    "id": "cs-sarah2-q16",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "In clinical documentation, how should a counselor understand the concept of a 'working diagnosis' for a client like Sarah?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A permanent label that cannot be revised"
+      },
+      {
+        "id": "b",
+        "text": "A flexible hypothesis based on current clinical findings that may be refined"
+      },
+      {
+        "id": "c",
+        "text": "A diagnosis that must never change once documented"
+      },
+      {
+        "id": "d",
+        "text": "A label suggested by the client's family"
+      }
+    ],
+    "correct_choice_id": "b",
+    "rationale": "Diagnoses are appropriately treated as working hypotheses that are refined as additional clinical information is gathered over the course of treatment, not as fixed, unchangeable labels."
+  },
+  {
+    "id": "cs-sarah2-q18",
+    "module_id": "admin-consultation-supervision",
+    "batch": "case-study",
+    "stem": "Which of the following is NOT an appropriate component of a comprehensive biopsychosocial intake for Sarah?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Mental Status Examination"
+      },
+      {
+        "id": "b",
+        "text": "Social history"
+      },
+      {
+        "id": "c",
+        "text": "Past medical history"
+      },
+      {
+        "id": "d",
+        "text": "A detailed legal defense strategy"
+      }
+    ],
+    "correct_choice_id": "d",
+    "rationale": "A biopsychosocial intake covers clinical, social, and medical history relevant to treatment; formulating a legal defense strategy falls entirely outside the scope of a clinical intake."
+  }
+]
