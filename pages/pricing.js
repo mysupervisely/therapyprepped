@@ -11,7 +11,6 @@ const PLAN_OPTIONS = [
 ];
 
 export default function Pricing() {
-  const [email, setEmail] = useState('');
   const [consent, setConsent] = useState(false);
   const [loadingPlan, setLoadingPlan] = useState(null);
   const [error, setError] = useState('');
@@ -26,22 +25,18 @@ export default function Pricing() {
       setError('Please check the consent box first.');
       return;
     }
-    if (!email || !email.includes('@')) {
-      setError('Please enter a valid email address.');
-      return;
-    }
     setLoadingPlan(planId);
     try {
       const res = await fetch('/api/create-checkout-session', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ plan: planId, email, consent: true }),
+        body: JSON.stringify({ plan: planId, consent: true }),
       });
       const data = await res.json();
       if (data.url) {
         window.location.href = data.url;
       } else {
-        setError(data.error || 'Something went wrong starting checkout.');
+        setError((data.error || 'Something went wrong starting checkout.') + (data.debug ? ' — ' + data.debug : ''));
         setLoadingPlan(null);
       }
     } catch (e) {
@@ -89,13 +84,10 @@ export default function Pricing() {
           </div>
         ))}
 
-        <label style={{ fontSize: 13, fontWeight: 600 }}>Email for access confirmation</label>
-        <input
-          type="email"
-          placeholder="you@example.com"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-        />
+        <p style={{ fontSize: 12, color: 'rgba(23,48,45,0.55)', marginTop: -6 }}>
+          You'll enter your email on the next screen at checkout — that's the email your access
+          pass will be tied to.
+        </p>
 
         <div className="consent">
           <input
