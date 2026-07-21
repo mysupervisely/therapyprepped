@@ -37,6 +37,9 @@ export default function Dashboard() {
         setAccess(data);
         window.localStorage.setItem(ACCESS_STORAGE_KEY, emailToCheck);
         loadProgress(emailToCheck);
+      } else if (data.debug) {
+        // A real server error occurred (not just "no active pass found")
+        setError('Could not verify access right now — ' + data.debug);
       } else {
         setAccess(false);
       }
