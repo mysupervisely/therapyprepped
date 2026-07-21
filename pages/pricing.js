@@ -4,10 +4,10 @@ import Nav from '../components/Nav';
 import Footer from '../components/Footer';
 
 const PLAN_OPTIONS = [
-  { id: '3-day', title: '3-Day Pass', price: '$9.00', note: 'ends automatically after 3 days' },
-  { id: '7-day', title: '7-Day Pass', price: '$19.00', note: 'ends automatically after 7 days' },
-  { id: '14-day', title: '14-Day Pass', price: '$29.00', note: 'ends automatically after 14 days' },
-  { id: '30-day', title: '30-Day Pass', price: '$49.00', note: 'ends automatically after 30 days' },
+  { id: '3-day', title: '3-Day Pass', price: '$19.00', note: 'ends automatically after 3 days' },
+  { id: '7-day', title: '7-Day Pass', price: '$29.00', note: 'ends automatically after 7 days' },
+  { id: '14-day', title: '14-Day Pass', price: '$39.00', note: 'ends automatically after 14 days' },
+  { id: '30-day', title: '30-Day Pass', price: '$59.00', note: 'ends automatically after 30 days' },
 ];
 
 export default function Pricing() {
@@ -83,6 +83,22 @@ export default function Pricing() {
             </button>
           </div>
         ))}
+
+        <div className="card" style={{ borderColor: 'var(--teal)', background: 'var(--teal-tint)' }}>
+          <p className="plan-title">Monthly Subscription</p>
+          <p className="plan-price">$59.00/month · billed automatically, cancel anytime</p>
+          <p style={{ fontSize: 12, color: 'rgba(23,48,45,0.65)', margin: '0 0 12px' }}>
+            Best for longer study timelines — studying over several months, or even a year out.
+            Manage or cancel anytime from your dashboard.
+          </p>
+          <button
+            className="plan-btn"
+            disabled={loadingPlan !== null}
+            onClick={() => handleChoosePlan('monthly')}
+          >
+            {loadingPlan === 'monthly' ? 'Redirecting to Stripe…' : 'Start Monthly Subscription'}
+          </button>
+        </div>
 
         <p style={{ fontSize: 12, color: 'rgba(23,48,45,0.55)', marginTop: -6 }}>
           You'll enter your email on the next screen at checkout — that's the email your access
