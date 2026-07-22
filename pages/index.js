@@ -29,8 +29,12 @@ export default function Home() {
 
         <div style={{ display: 'flex', gap: 20, marginTop: 24, flexWrap: 'wrap' }}>
           <div>
-            <p className="display" style={{ fontSize: 26, margin: 0, color: 'var(--teal-dark)' }}>332+</p>
+            <p className="display" style={{ fontSize: 26, margin: 0, color: 'var(--teal-dark)' }}>300+</p>
             <p style={{ fontSize: 12, color: 'rgba(23,48,45,0.65)', margin: 0 }}>practice questions</p>
+          </div>
+          <div>
+            <p className="display" style={{ fontSize: 26, margin: 0, color: 'var(--teal-dark)' }}>100</p>
+            <p style={{ fontSize: 12, color: 'rgba(23,48,45,0.65)', margin: 0 }}>flashcards</p>
           </div>
           <div>
             <p className="display" style={{ fontSize: 26, margin: 0, color: 'var(--teal-dark)' }}>4</p>
@@ -43,9 +47,9 @@ export default function Home() {
         </div>
 
         <div className="banner" style={{ marginTop: 20 }}>
-          Every plan includes the full curriculum across all 4 domains, all 332+ case-based
-          practice questions, and all 3 full-length practice exams — mirroring the real
-          NCMHCE's length and format, with scores revealed only at the end.
+          Every plan includes the full curriculum across all 4 domains, 300+ case-based
+          practice questions, 100 flashcards, and all 3 full-length practice exams —
+          mirroring the real NCMHCE's length and format, with scores revealed only at the end.
         </div>
 
         <div className="browser-mock">
