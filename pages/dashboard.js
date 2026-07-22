@@ -8,7 +8,7 @@ import { getOrCreateDeviceId } from '../lib/deviceId';
 
 const ACCESS_STORAGE_KEY = 'tp_access_email';
 const MAX_DEVICES = 2;
-const SUPPORT_EMAIL = 'therapyprepped@gmail.com'; // swap to support@therapyprepped.com once that forwarding is confirmed working
+const SUPPORT_EMAIL = 'support@therapyprepped.com';
 
 export default function Dashboard() {
   const [email, setEmail] = useState('');
