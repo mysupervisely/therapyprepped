@@ -6,6 +6,7 @@ import Nav from '../../components/Nav';
 import Footer from '../../components/Footer';
 import AccessGate from '../../components/AccessGate';
 import QuizCard from '../../components/QuizCard';
+import { DIAGRAMS_BY_MODULE } from '../../components/DomainDiagrams';
 import modulesData from '../../data/modules';
 import { supabasePublic } from '../../lib/supabase';
 
@@ -58,7 +59,7 @@ export default function ModulePage({ mod, questions }) {
   const [activeLessonId, setActiveLessonId] = useState(mod.lessons[0]?.id);
   const [email, setEmail] = useState(null);
   const [completedIds, setCompletedIds] = useState([]);
-  const [view, setView] = useState('lesson'); // 'lesson' | 'quiz'
+  const [view, setView] = useState('lesson'); // 'lesson' | 'quiz' | 'visuals'
 
   useEffect(() => {
     const stored = window.localStorage.getItem(ACCESS_STORAGE_KEY);
@@ -104,6 +105,9 @@ export default function ModulePage({ mod, questions }) {
           <button className={view === 'quiz' ? 'active' : ''} onClick={() => setView('quiz')}>
             Practice questions ({questions.length})
           </button>
+          <button className={view === 'visuals' ? 'active' : ''} onClick={() => setView('visuals')}>
+            Visuals
+          </button>
         </div>
 
         {view === 'lesson' && (
@@ -148,6 +152,20 @@ export default function ModulePage({ mod, questions }) {
 
         {view === 'quiz' && (
           <QuizCard questions={questions} email={email} />
+        )}
+
+        {view === 'visuals' && (
+          <div>
+            <p style={{ fontSize: 13, color: 'rgba(23,48,45,0.6)', marginBottom: 16 }}>
+              Visual references for this domain's most diagram-friendly concepts.
+            </p>
+            {(DIAGRAMS_BY_MODULE[mod.id] || []).map((Diagram, i) => (
+              <Diagram key={i} />
+            ))}
+            {(DIAGRAMS_BY_MODULE[mod.id] || []).length === 0 && (
+              <p>No diagrams for this domain yet.</p>
+            )}
+          </div>
         )}
       </div>
       </AccessGate>
