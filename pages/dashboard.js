@@ -4,8 +4,11 @@ import Link from 'next/link';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
 import modulesData from '../data/modules';
+import { getOrCreateDeviceId } from '../lib/deviceId';
 
 const ACCESS_STORAGE_KEY = 'tp_access_email';
+const MAX_DEVICES = 2;
+const SUPPORT_EMAIL = 'therapyprepped@gmail.com'; // swap to support@therapyprepped.com once that forwarding is confirmed working
 
 export default function Dashboard() {
   const [email, setEmail] = useState('');
@@ -13,6 +16,7 @@ export default function Dashboard() {
   const [access, setAccess] = useState(null); // null = unknown, false = no access, object = valid
   const [checking, setChecking] = useState(false);
   const [error, setError] = useState('');
+  const [deviceLimitReached, setDeviceLimitReached] = useState(false);
   const [progress, setProgress] = useState(null);
 
   useEffect(() => {
@@ -26,17 +30,22 @@ export default function Dashboard() {
   async function checkAccess(emailToCheck) {
     setChecking(true);
     setError('');
+    setDeviceLimitReached(false);
     try {
+      const deviceId = getOrCreateDeviceId();
       const res = await fetch('/api/check-access', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email: emailToCheck }),
+        body: JSON.stringify({ email: emailToCheck, device_id: deviceId }),
       });
       const data = await res.json();
       if (data.valid) {
         setAccess(data);
         window.localStorage.setItem(ACCESS_STORAGE_KEY, emailToCheck);
         loadProgress(emailToCheck);
+      } else if (data.deviceLimitReached) {
+        setDeviceLimitReached(true);
+        setAccess(false);
       } else if (data.debug) {
         // A real server error occurred (not just "no active pass found")
         setError('Could not verify access right now — ' + data.debug);
@@ -119,7 +128,16 @@ export default function Dashboard() {
 
         {checking && <p>Checking access…</p>}
 
-        {access === false && (
+        {access === false && deviceLimitReached && (
+          <div className="card">
+            <p style={{ marginTop: 0 }}>
+              This access pass is already in use on {MAX_DEVICES} devices. If this is your account and
+              you're on a new device, email {SUPPORT_EMAIL} and we'll reset it for you.
+            </p>
+          </div>
+        )}
+
+        {access === false && !deviceLimitReached && (
           <div className="card">
             <p style={{ marginTop: 0 }}>
               We couldn't find an active access pass for <strong>{email}</strong>.
