@@ -1,22 +1,10 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import { getOrCreateDeviceId } from '../lib/deviceId';
 
 const ACCESS_STORAGE_KEY = 'tp_access_email';
-const DEVICE_STORAGE_KEY = 'tp_device_id';
 const MAX_DEVICES = 2;
 const SUPPORT_EMAIL = 'therapyprepped@gmail.com'; // swap to support@therapyprepped.com once that forwarding is confirmed working
-
-function getOrCreateDeviceId() {
-  if (typeof window === 'undefined') return null;
-  let id = window.localStorage.getItem(DEVICE_STORAGE_KEY);
-  if (!id) {
-    id = (window.crypto && window.crypto.randomUUID)
-      ? window.crypto.randomUUID()
-      : 'dev-' + Math.random().toString(36).slice(2) + Date.now().toString(36);
-    window.localStorage.setItem(DEVICE_STORAGE_KEY, id);
-  }
-  return id;
-}
 
 // Wraps any page content and requires a verified, active access pass before
 // rendering it. Reuses the same email-check flow already used on /dashboard.
