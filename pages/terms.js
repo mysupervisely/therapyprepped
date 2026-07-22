@@ -70,7 +70,7 @@ export default function Terms() {
         </div>
         <div className="legal-block">
           <h3>Contact</h3>
-          <p>Questions about these Terms can be sent to the contact address listed on the site.</p>
+          <p>Questions about these Terms can be sent to support@therapyprepped.com.</p>
         </div>
         <p className="note">
           This page is a plain-language starting point and has not yet been reviewed by an
