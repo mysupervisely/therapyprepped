@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { marked } from 'marked';
 import Nav from '../../components/Nav';
 import Footer from '../../components/Footer';
+import AccessGate from '../../components/AccessGate';
 import QuizCard from '../../components/QuizCard';
 import modulesData from '../../data/modules';
 import { supabasePublic } from '../../lib/supabase';
@@ -90,6 +91,7 @@ export default function ModulePage({ mod, questions }) {
     <div>
       <Head><title>{mod.title} — TherapyPrepped</title></Head>
       <Nav />
+      <AccessGate>
       <div className="inner-wide">
         <div className="eyebrow">NCMHCE domain</div>
         <h1 className="hero" style={{ fontSize: 27 }}>{mod.title}</h1>
@@ -148,6 +150,7 @@ export default function ModulePage({ mod, questions }) {
           <QuizCard questions={questions} email={email} />
         )}
       </div>
+      </AccessGate>
       <Footer />
     </div>
   );
