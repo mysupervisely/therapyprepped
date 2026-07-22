@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
-
 export default function Terms() {
   return (
     <div>
@@ -10,7 +9,6 @@ export default function Terms() {
       <div className="inner">
         <div className="eyebrow">Effective when you check out</div>
         <h1 className="hero" style={{ fontSize: 27 }}>Terms of Use</h1>
-
         <div className="legal-block">
           <h3>Access windows</h3>
           <p>
@@ -26,6 +24,16 @@ export default function Terms() {
             Access is granted by email address rather than a traditional account and
             password. Keep the email you used at checkout — it's how the site verifies your
             access window.
+          </p>
+        </div>
+        <div className="legal-block">
+          <h3>Single-user access</h3>
+          <p>
+            Each access pass is licensed to the individual who purchased it and is not
+            transferable or shareable. To reflect normal personal use — for example,
+            switching between a phone and a laptop — each pass may be used on up to two
+            devices. We may reset or revoke access if a pass appears to be shared or used
+            beyond this limit.
           </p>
         </div>
         <div className="legal-block">
@@ -64,7 +72,6 @@ export default function Terms() {
           <h3>Contact</h3>
           <p>Questions about these Terms can be sent to the contact address listed on the site.</p>
         </div>
-
         <p className="note">
           This page is a plain-language starting point and has not yet been reviewed by an
           attorney. Have it reviewed before relying on it as your final Terms of Use,
