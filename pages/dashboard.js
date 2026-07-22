@@ -141,10 +141,16 @@ export default function Dashboard() {
                 </>
               )}
             </div>
-            <Link href="/practice-exam" className="module-card" style={{ marginBottom: 20, display: 'block', background: 'var(--teal-tint)', borderColor: 'var(--teal)' }}>
+            <Link href="/practice-exam" className="module-card" style={{ marginBottom: 14, display: 'block', background: 'var(--teal-tint)', borderColor: 'var(--teal)' }}>
               <div className="tag">Full-length</div>
               <h3>Practice Exams</h3>
               <p>3 full exams, 110 questions each, scored only at the end — like test day.</p>
+            </Link>
+
+            <Link href="/flashcards" className="module-card" style={{ marginBottom: 20, display: 'block' }}>
+              <div className="tag">Quick recall</div>
+              <h3>Flashcards</h3>
+              <p>100 key terms and definitions across all four domains.</p>
             </Link>
 
             <div className="module-grid">
