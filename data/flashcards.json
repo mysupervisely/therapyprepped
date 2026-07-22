@@ -1,0 +1,602 @@
+[
+  {
+    "id": "fc-ad-1",
+    "module_id": "assessment-diagnosis",
+    "term": "Mood",
+    "definition": "The client's subjective, self-reported emotional state, documented in their own words (e.g., \"I feel empty\")."
+  },
+  {
+    "id": "fc-ad-2",
+    "module_id": "assessment-diagnosis",
+    "term": "Affect",
+    "definition": "The clinician's objective observation of the client's emotional expression (e.g., flat, labile, constricted, incongruent)."
+  },
+  {
+    "id": "fc-ad-3",
+    "module_id": "assessment-diagnosis",
+    "term": "Hallucination",
+    "definition": "A sensory perception that occurs without any real external stimulus (e.g., hearing a voice when no one is speaking)."
+  },
+  {
+    "id": "fc-ad-4",
+    "module_id": "assessment-diagnosis",
+    "term": "Illusion",
+    "definition": "A misperception of a real external stimulus (e.g., mistaking a shadow for a person)."
+  },
+  {
+    "id": "fc-ad-5",
+    "module_id": "assessment-diagnosis",
+    "term": "Delusion",
+    "definition": "A fixed, false belief that is not culturally normative and is not corrected by evidence; a thought content abnormality, not a perceptual one."
+  },
+  {
+    "id": "fc-ad-6",
+    "module_id": "assessment-diagnosis",
+    "term": "Flight of ideas",
+    "definition": "Rapid speech that jumps between topics but retains a loose, detectable connection between them; associated with mania."
+  },
+  {
+    "id": "fc-ad-7",
+    "module_id": "assessment-diagnosis",
+    "term": "Loose associations (derailment)",
+    "definition": "Speech in which ideas shift with no logical connection between them at all; most associated with schizophrenia."
+  },
+  {
+    "id": "fc-ad-8",
+    "module_id": "assessment-diagnosis",
+    "term": "Circumstantiality",
+    "definition": "Speech that includes excessive, tangential detail but eventually returns to answer the original question."
+  },
+  {
+    "id": "fc-ad-9",
+    "module_id": "assessment-diagnosis",
+    "term": "Tangentiality",
+    "definition": "Speech that drifts off-topic and never returns to the original point."
+  },
+  {
+    "id": "fc-ad-10",
+    "module_id": "assessment-diagnosis",
+    "term": "SIG-E-CAPS",
+    "definition": "Mnemonic for MDD symptoms: Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicidal ideation."
+  },
+  {
+    "id": "fc-ad-11",
+    "module_id": "assessment-diagnosis",
+    "term": "DIGFAST",
+    "definition": "Mnemonic for manic episode symptoms: Distractibility, Insomnia (decreased need), Grandiosity, Flight of ideas, Activity increase, Speech (pressured), Thoughtlessness (risky behavior)."
+  },
+  {
+    "id": "fc-ad-12",
+    "module_id": "assessment-diagnosis",
+    "term": "Pseudodementia",
+    "definition": "Cognitive impairment caused by depression that mimics true dementia; cognitive symptoms improve as the depression is treated."
+  },
+  {
+    "id": "fc-ad-13",
+    "module_id": "assessment-diagnosis",
+    "term": "Anhedonia",
+    "definition": "Loss of interest or pleasure in previously enjoyable activities; one of the two core diagnostic symptoms of MDD."
+  },
+  {
+    "id": "fc-ad-14",
+    "module_id": "assessment-diagnosis",
+    "term": "Avolition",
+    "definition": "Markedly decreased motivation to initiate or persist in goal-directed activity; a negative symptom of schizophrenia, also common in depression."
+  },
+  {
+    "id": "fc-ad-15",
+    "module_id": "assessment-diagnosis",
+    "term": "Depersonalization",
+    "definition": "A dissociative experience of feeling detached from one's own body or mental processes, as though observing oneself from outside."
+  },
+  {
+    "id": "fc-ad-16",
+    "module_id": "assessment-diagnosis",
+    "term": "Derealization",
+    "definition": "A dissociative experience in which one's surroundings feel unreal, dreamlike, or distorted."
+  },
+  {
+    "id": "fc-ad-17",
+    "module_id": "assessment-diagnosis",
+    "term": "C-SSRS",
+    "definition": "Columbia Suicide Severity Rating Scale \u2014 a structured tool assessing suicidal ideation severity (passive to active with intent and plan) and behavior."
+  },
+  {
+    "id": "fc-ad-18",
+    "module_id": "assessment-diagnosis",
+    "term": "Hopelessness",
+    "definition": "Aaron Beck's identified strongest cognitive predictor of suicidal behavior, stronger than depression severity alone."
+  },
+  {
+    "id": "fc-ad-19",
+    "module_id": "assessment-diagnosis",
+    "term": "Cultural Formulation Interview (CFI)",
+    "definition": "A structured DSM-5-TR tool exploring a client's cultural definition of their problem, perceived causes, and help-seeking context."
+  },
+  {
+    "id": "fc-ad-20",
+    "module_id": "assessment-diagnosis",
+    "term": "Prolonged Grief Disorder",
+    "definition": "New DSM-5-TR diagnosis: intense grief symptoms persisting more than 12 months in adults (6 months in children) causing significant impairment."
+  },
+  {
+    "id": "fc-ad-21",
+    "module_id": "assessment-diagnosis",
+    "term": "Splitting",
+    "definition": "A defense mechanism (prominent in BPD) of viewing people or situations as all-good or all-bad, with no middle ground; underlies idealization/devaluation cycles."
+  },
+  {
+    "id": "fc-ad-22",
+    "module_id": "assessment-diagnosis",
+    "term": "Acute Stress Disorder vs. PTSD",
+    "definition": "Distinguished by duration: ASD = symptoms lasting 3 days to 1 month after trauma; PTSD = symptoms lasting more than 1 month."
+  },
+  {
+    "id": "fc-cp-1",
+    "module_id": "counseling-psychotherapy",
+    "term": "Transference",
+    "definition": "The client unconsciously projects feelings about a significant figure from their past onto the therapist."
+  },
+  {
+    "id": "fc-cp-2",
+    "module_id": "counseling-psychotherapy",
+    "term": "Countertransference",
+    "definition": "The therapist's own emotional reaction to the client, often rooted in the therapist's own history or the client's relational patterns."
+  },
+  {
+    "id": "fc-cp-3",
+    "module_id": "counseling-psychotherapy",
+    "term": "Unconditional Positive Regard",
+    "definition": "One of Rogers' three core conditions: nonjudgmental acceptance of the client regardless of what they disclose."
+  },
+  {
+    "id": "fc-cp-4",
+    "module_id": "counseling-psychotherapy",
+    "term": "Congruence (Genuineness)",
+    "definition": "One of Rogers' three core conditions: the therapist is authentic and transparent rather than presenting a professional facade."
+  },
+  {
+    "id": "fc-cp-5",
+    "module_id": "counseling-psychotherapy",
+    "term": "Exposure and Response Prevention (ERP)",
+    "definition": "The gold-standard, first-line evidence-based treatment for OCD: exposure to feared stimuli while preventing the compulsive response."
+  },
+  {
+    "id": "fc-cp-6",
+    "module_id": "counseling-psychotherapy",
+    "term": "Cognitive Processing Therapy (CPT)",
+    "definition": "A trauma-focused therapy addressing \"stuck points\" \u2014 maladaptive trauma-related beliefs about safety, trust, power, esteem, and intimacy."
+  },
+  {
+    "id": "fc-cp-7",
+    "module_id": "counseling-psychotherapy",
+    "term": "Prolonged Exposure (PE)",
+    "definition": "A first-line PTSD treatment combining imaginal exposure (retelling the trauma) and in vivo exposure (real-world trauma reminders)."
+  },
+  {
+    "id": "fc-cp-8",
+    "module_id": "counseling-psychotherapy",
+    "term": "Miracle Question",
+    "definition": "A signature Solution-Focused Brief Therapy technique: \"If a miracle happened overnight and your problem was solved, what would be different?\""
+  },
+  {
+    "id": "fc-cp-9",
+    "module_id": "counseling-psychotherapy",
+    "term": "Externalization",
+    "definition": "A core Narrative Therapy technique separating the problem from the person's identity \u2014 \"the problem is the problem, not the person.\""
+  },
+  {
+    "id": "fc-cp-10",
+    "module_id": "counseling-psychotherapy",
+    "term": "Empty Chair Technique",
+    "definition": "A signature Gestalt therapy intervention for expressing unvoiced feelings toward a person who is not present in the room."
+  },
+  {
+    "id": "fc-cp-11",
+    "module_id": "counseling-psychotherapy",
+    "term": "Catastrophizing",
+    "definition": "A cognitive distortion involving automatically assuming the worst-case outcome will occur."
+  },
+  {
+    "id": "fc-cp-12",
+    "module_id": "counseling-psychotherapy",
+    "term": "All-or-Nothing Thinking",
+    "definition": "A cognitive distortion of viewing situations in black-and-white terms with no middle ground."
+  },
+  {
+    "id": "fc-cp-13",
+    "module_id": "counseling-psychotherapy",
+    "term": "Emotional Reasoning",
+    "definition": "A cognitive distortion of believing something is true simply because it feels true, despite contradicting evidence."
+  },
+  {
+    "id": "fc-cp-14",
+    "module_id": "counseling-psychotherapy",
+    "term": "Variable Ratio Reinforcement",
+    "definition": "A reinforcement schedule with an unpredictable number of responses before reward; produces the highest response rate and greatest resistance to extinction (e.g., gambling)."
+  },
+  {
+    "id": "fc-cp-15",
+    "module_id": "counseling-psychotherapy",
+    "term": "Motivational Interviewing (MI) Spirit \u2014 PACE",
+    "definition": "Partnership, Acceptance, Compassion, Evocation \u2014 the core stance of MI, eliciting the client's own motivations rather than installing them."
+  },
+  {
+    "id": "fc-cp-16",
+    "module_id": "counseling-psychotherapy",
+    "term": "OARS",
+    "definition": "Core Motivational Interviewing skills: Open-ended questions, Affirmations, Reflections, Summaries."
+  },
+  {
+    "id": "fc-cp-17",
+    "module_id": "counseling-psychotherapy",
+    "term": "DBT's Four Modules",
+    "definition": "Mindfulness, Distress Tolerance, Emotion Regulation, and Interpersonal Effectiveness \u2014 the four skills training modules of Dialectical Behavior Therapy."
+  },
+  {
+    "id": "fc-cp-18",
+    "module_id": "counseling-psychotherapy",
+    "term": "DEAR MAN",
+    "definition": "A DBT Interpersonal Effectiveness acronym for asking for what you want: Describe, Express, Assert, Reinforce, stay Mindful, Appear confident, Negotiate."
+  },
+  {
+    "id": "fc-cp-19",
+    "module_id": "counseling-psychotherapy",
+    "term": "Triangulation",
+    "definition": "A Bowen family systems concept describing how a third party is drawn in to reduce tension between two other people."
+  },
+  {
+    "id": "fc-cp-20",
+    "module_id": "counseling-psychotherapy",
+    "term": "Differentiation of Self",
+    "definition": "A Bowen family systems concept: the capacity to maintain one's own identity while remaining emotionally connected to others."
+  },
+  {
+    "id": "fc-cp-21",
+    "module_id": "counseling-psychotherapy",
+    "term": "Enactment",
+    "definition": "A Structural Family Therapy technique having family members interact directly in session so the therapist can observe and reshape boundaries."
+  },
+  {
+    "id": "fc-cp-22",
+    "module_id": "counseling-psychotherapy",
+    "term": "Family-Based Treatment (Maudsley Method)",
+    "definition": "First-line evidence-based treatment for adolescent Anorexia Nervosa; parents take initial control of refeeding."
+  },
+  {
+    "id": "fc-acs-1",
+    "module_id": "admin-consultation-supervision",
+    "term": "Tarasoff Duty",
+    "definition": "The legal duty to protect an identifiable third party from a client's credible, serious threat of harm, established by Tarasoff v. Regents (1976)."
+  },
+  {
+    "id": "fc-acs-2",
+    "module_id": "admin-consultation-supervision",
+    "term": "Confidentiality vs. Privilege",
+    "definition": "Confidentiality is an ethical obligation belonging to the professional relationship; privilege is a legal concept belonging to the client, only waivable by them."
+  },
+  {
+    "id": "fc-acs-3",
+    "module_id": "admin-consultation-supervision",
+    "term": "Subpoena",
+    "definition": "A request issued by an attorney (not a judge) that does NOT compel immediate compliance \u2014 notify the client and consult counsel before releasing anything."
+  },
+  {
+    "id": "fc-acs-4",
+    "module_id": "admin-consultation-supervision",
+    "term": "Court Order",
+    "definition": "A command issued by a judge that DOES compel compliance; release only what is specifically ordered."
+  },
+  {
+    "id": "fc-acs-5",
+    "module_id": "admin-consultation-supervision",
+    "term": "Minimum Necessary Standard",
+    "definition": "A HIPAA principle requiring that only the minimum information necessary for a specific purpose be disclosed."
+  },
+  {
+    "id": "fc-acs-6",
+    "module_id": "admin-consultation-supervision",
+    "term": "Psychotherapy Notes",
+    "definition": "Personal clinical impressions kept separate from the standard medical record, receiving extra HIPAA protection beyond regular treatment records."
+  },
+  {
+    "id": "fc-acs-7",
+    "module_id": "admin-consultation-supervision",
+    "term": "SOAP Note",
+    "definition": "A progress note format: Subjective (client's report), Objective (clinician's observations), Assessment (clinical analysis), Plan (next steps)."
+  },
+  {
+    "id": "fc-acs-8",
+    "module_id": "admin-consultation-supervision",
+    "term": "BIRP Note",
+    "definition": "A progress note format: Behavior, Intervention, Response, Plan \u2014 explicitly documents the counselor's activity in session."
+  },
+  {
+    "id": "fc-acs-9",
+    "module_id": "admin-consultation-supervision",
+    "term": "The Five-Year Rule",
+    "definition": "ACA prohibition on sexual/romantic relationships with former clients for a minimum of 5 years post-termination; the counselor bears the burden of showing non-exploitation even after."
+  },
+  {
+    "id": "fc-acs-10",
+    "module_id": "admin-consultation-supervision",
+    "term": "Vicarious Liability",
+    "definition": "A supervisor's legal and ethical accountability for their supervisees' clinical work, requiring active oversight, not just availability."
+  },
+  {
+    "id": "fc-acs-11",
+    "module_id": "admin-consultation-supervision",
+    "term": "Parallel Process",
+    "definition": "A psychodynamic supervision concept: relational dynamics from the therapy relationship are unconsciously mirrored in the supervisory relationship."
+  },
+  {
+    "id": "fc-acs-12",
+    "module_id": "admin-consultation-supervision",
+    "term": "Gatekeeping",
+    "definition": "A supervisor's ethical responsibility to conduct fair evaluations, provide remediation plans, and recommend against licensure when a supervisee isn't competent or ethical."
+  },
+  {
+    "id": "fc-acs-13",
+    "module_id": "admin-consultation-supervision",
+    "term": "Abandonment",
+    "definition": "Terminating services without adequate notice, clinical justification, or referral while the client still needs care \u2014 an ethical violation distinct from appropriate termination."
+  },
+  {
+    "id": "fc-acs-14",
+    "module_id": "admin-consultation-supervision",
+    "term": "Informed Consent (three elements)",
+    "definition": "Information, Capacity, and Voluntariness \u2014 all three must be present for consent to be ethically and legally valid."
+  },
+  {
+    "id": "fc-acs-15",
+    "module_id": "admin-consultation-supervision",
+    "term": "72-Hour Hold",
+    "definition": "An emergency psychiatric hold for involuntary evaluation, requiring imminent danger due to mental illness; for emergency evaluation, not long-term treatment."
+  },
+  {
+    "id": "fc-acs-16",
+    "module_id": "admin-consultation-supervision",
+    "term": "Mandatory Reporting Threshold",
+    "definition": "Reasonable suspicion (not certainty) of child or elder abuse triggers a report; the counselor reports, but does not investigate."
+  },
+  {
+    "id": "fc-acs-17",
+    "module_id": "admin-consultation-supervision",
+    "term": "Integrated Developmental Model (IDM)",
+    "definition": "A supervision model describing three developmental levels of supervisees, from high-anxiety/rule-focused (Level 1) to stable/self-supervising (Level 3)."
+  },
+  {
+    "id": "fc-acs-18",
+    "module_id": "admin-consultation-supervision",
+    "term": "Discrimination Model (Bernard)",
+    "definition": "A supervision model where the supervisor shifts between Teacher, Counselor, and Consultant roles depending on supervisee needs."
+  },
+  {
+    "id": "fc-acs-19",
+    "module_id": "admin-consultation-supervision",
+    "term": "Telehealth Licensure Jurisdiction",
+    "definition": "Determined by the client's physical location during the session, not the counselor's location."
+  },
+  {
+    "id": "fc-acs-20",
+    "module_id": "admin-consultation-supervision",
+    "term": "The Six Core Ethical Principles",
+    "definition": "Autonomy, Beneficence, Nonmaleficence, Justice, Fidelity, and Veracity."
+  },
+  {
+    "id": "fc-sc-1",
+    "module_id": "student-client-consultant-needs",
+    "term": "Cultural Humility",
+    "definition": "A process-based, lifelong approach of self-reflection and openness, recognizing the client as the expert on their own cultural experience (Tervalon & Murray-Garc\u00eda)."
+  },
+  {
+    "id": "fc-sc-2",
+    "module_id": "student-client-consultant-needs",
+    "term": "Cultural Competence (Tripartite Model)",
+    "definition": "Sue, Arredondo & McDavis's model: Awareness (of self) \u2192 Knowledge (of others) \u2192 Skills (culturally adapted practice)."
+  },
+  {
+    "id": "fc-sc-3",
+    "module_id": "student-client-consultant-needs",
+    "term": "Intersectionality",
+    "definition": "Crenshaw's concept describing how overlapping social identities (race, gender, class, etc.) create unique experiences that can't be understood by examining any one identity alone."
+  },
+  {
+    "id": "fc-sc-4",
+    "module_id": "student-client-consultant-needs",
+    "term": "Minority Stress Theory",
+    "definition": "Meyer's framework: LGBTQ+ individuals experience distal (external discrimination) and proximal (internalized stigma) stressors driving mental health disparities."
+  },
+  {
+    "id": "fc-sc-5",
+    "module_id": "student-client-consultant-needs",
+    "term": "Berry's Acculturation Framework",
+    "definition": "Assimilation, Integration/Biculturalism (best outcomes), Separation, and Marginalization (worst outcomes) \u2014 four strategies of navigating two cultures."
+  },
+  {
+    "id": "fc-sc-6",
+    "module_id": "student-client-consultant-needs",
+    "term": "Race-Based Traumatic Stress",
+    "definition": "Carter's concept: the psychological impact of racist experiences, producing symptoms that can overlap with PTSD (intrusion, avoidance, hyperarousal)."
+  },
+  {
+    "id": "fc-sc-7",
+    "module_id": "student-client-consultant-needs",
+    "term": "Nervios / Ataques de Nervios",
+    "definition": "A culturally recognized Latin American idiom of distress involving physical shaking, palpitations, and emotional overwhelm; a valid expression, not a separate disorder."
+  },
+  {
+    "id": "fc-sc-8",
+    "module_id": "student-client-consultant-needs",
+    "term": "FICA Spiritual Assessment",
+    "definition": "Faith/beliefs, Importance, Community, Address in care \u2014 a structured framework for assessing a client's spiritual/religious needs."
+  },
+  {
+    "id": "fc-sc-9",
+    "module_id": "student-client-consultant-needs",
+    "term": "Explanatory Model of Illness",
+    "definition": "A client's own cultural understanding of what caused their distress, which may differ from the biomedical/DSM model and should be explored, not overridden."
+  },
+  {
+    "id": "fc-sc-10",
+    "module_id": "student-client-consultant-needs",
+    "term": "Social Model of Disability",
+    "definition": "Views disability as created by barriers in society, not as a defect within the individual (contrasted with the medical model)."
+  },
+  {
+    "id": "fc-sc-11",
+    "module_id": "student-client-consultant-needs",
+    "term": "Moral Injury",
+    "definition": "Psychological distress from actions (or failures to act) that violate one's own deeply held moral beliefs; distinct from but often co-occurring with PTSD, especially in veterans."
+  },
+  {
+    "id": "fc-sc-12",
+    "module_id": "student-client-consultant-needs",
+    "term": "Ecological Systems Model (Bronfenbrenner)",
+    "definition": "Micro-, meso-, exo-, macro-, and chronosystem \u2014 nested layers of environmental influence on development, from immediate relationships to broad cultural context."
+  },
+  {
+    "id": "fc-sc-13",
+    "module_id": "student-client-consultant-needs",
+    "term": "Advocacy Competencies",
+    "definition": "ACA's framework for advocacy across three levels: client/individual, community/group, and public policy \u2014 an ethical responsibility, not optional."
+  },
+  {
+    "id": "fc-sc-14",
+    "module_id": "student-client-consultant-needs",
+    "term": "Microaggressions",
+    "definition": "Brief, commonplace verbal or behavioral slights toward marginalized groups; cumulative impact can be as harmful as major incidents."
+  },
+  {
+    "id": "fc-sc-15",
+    "module_id": "student-client-consultant-needs",
+    "term": "Neurodiversity",
+    "definition": "A framework viewing autism, ADHD, and other neurodevelopmental differences as natural variations rather than disorders to be cured."
+  },
+  {
+    "id": "fc-sc-16",
+    "module_id": "student-client-consultant-needs",
+    "term": "Impostor Phenomenon",
+    "definition": "Persistent feelings of not belonging or being a fraud despite evidence of competence, often intensified by class-based or first-generation status."
+  },
+  {
+    "id": "fc-sc-17",
+    "module_id": "student-client-consultant-needs",
+    "term": "Disability Paradox",
+    "definition": "The well-documented finding that many people with significant disabilities report high quality of life, contrary to outside assumptions."
+  },
+  {
+    "id": "fc-sc-18",
+    "module_id": "student-client-consultant-needs",
+    "term": "Strengths-Based Practice",
+    "definition": "Building treatment on identified client strengths (individual, relational, cultural, spiritual, environmental) alongside \u2014 not instead of \u2014 addressing deficits."
+  },
+  {
+    "id": "fc-ad-23",
+    "module_id": "assessment-diagnosis",
+    "term": "Insight",
+    "definition": "The client's awareness that they have a mental health condition and need treatment; levels range from full to partial to poor."
+  },
+  {
+    "id": "fc-ad-24",
+    "module_id": "assessment-diagnosis",
+    "term": "Judgment",
+    "definition": "The client's capacity for sound decision-making, often assessed through hypothetical scenario questions on the MSE."
+  },
+  {
+    "id": "fc-ad-25",
+    "module_id": "assessment-diagnosis",
+    "term": "Schizoaffective Disorder",
+    "definition": "Requires delusions or hallucinations for 2+ weeks in the ABSENCE of a mood episode \u2014 the key feature distinguishing it from mood disorder with psychotic features."
+  },
+  {
+    "id": "fc-cp-23",
+    "module_id": "counseling-psychotherapy",
+    "term": "REBT's ABC Model",
+    "definition": "Activating event, Belief, Consequence \u2014 Ellis's framework showing that beliefs about an event, not the event itself, drive emotional consequences."
+  },
+  {
+    "id": "fc-cp-24",
+    "module_id": "counseling-psychotherapy",
+    "term": "Systematic Desensitization",
+    "definition": "Wolpe's technique pairing relaxation with a graduated anxiety hierarchy, based on the principle of reciprocal inhibition."
+  },
+  {
+    "id": "fc-cp-25",
+    "module_id": "counseling-psychotherapy",
+    "term": "Mind Reading",
+    "definition": "A cognitive distortion of assuming you know what someone else is thinking without any real evidence."
+  },
+  {
+    "id": "fc-acs-21",
+    "module_id": "admin-consultation-supervision",
+    "term": "HIPAA",
+    "definition": "Federal law governing the privacy and security of Protected Health Information (PHI); works alongside state confidentiality laws, following whichever offers more protection."
+  },
+  {
+    "id": "fc-acs-22",
+    "module_id": "admin-consultation-supervision",
+    "term": "Business Associate Agreement (BAA)",
+    "definition": "A required agreement with any vendor handling PHI (billing services, telehealth platforms, cloud storage) to ensure HIPAA compliance."
+  },
+  {
+    "id": "fc-acs-23",
+    "module_id": "admin-consultation-supervision",
+    "term": "Record Retention",
+    "definition": "Typically 7 years from last contact for adults; for minors, 7 years from last contact OR 3 years past age of majority, whichever is longer."
+  },
+  {
+    "id": "fc-acs-24",
+    "module_id": "admin-consultation-supervision",
+    "term": "Bartering",
+    "definition": "Permitted only if not clinically contraindicated, not exploitative, requested by the client (not the counselor), and of equivalent value."
+  },
+  {
+    "id": "fc-acs-25",
+    "module_id": "admin-consultation-supervision",
+    "term": "Scope of Practice",
+    "definition": "The boundaries of what a license permits; for LPC/LMHC this excludes prescribing medication, forensic evaluation without training, and medical diagnosis."
+  },
+  {
+    "id": "fc-sc-19",
+    "module_id": "student-client-consultant-needs",
+    "term": "Helms's White Racial Identity Development",
+    "definition": "Stages of White identity development: Contact, Disintegration, Reintegration, Pseudo-Independence, Autonomy."
+  },
+  {
+    "id": "fc-sc-20",
+    "module_id": "student-client-consultant-needs",
+    "term": "Cross's Nigrescence Model",
+    "definition": "Stages of Black racial identity development: Pre-encounter, Encounter, Immersion-Emersion, Internalization."
+  },
+  {
+    "id": "fc-sc-21",
+    "module_id": "student-client-consultant-needs",
+    "term": "Familismo",
+    "definition": "A Latinx cultural value prioritizing family as the primary social unit, often shaping treatment engagement and decision-making."
+  },
+  {
+    "id": "fc-sc-22",
+    "module_id": "student-client-consultant-needs",
+    "term": "Loss of Face",
+    "definition": "An Asian cultural concept describing the deep stigma associated with revealing personal weakness or family problems publicly."
+  },
+  {
+    "id": "fc-sc-23",
+    "module_id": "student-client-consultant-needs",
+    "term": "Conversion Therapy",
+    "definition": "A discredited practice attempting to change sexual orientation or gender identity; condemned by all major professional bodies and never clinically indicated."
+  },
+  {
+    "id": "fc-sc-24",
+    "module_id": "student-client-consultant-needs",
+    "term": "Internalized Racism",
+    "definition": "The process by which marginalized groups internalize negative societal messages about their own identity, including colorism and preference for dominant-culture norms."
+  },
+  {
+    "id": "fc-sc-25",
+    "module_id": "student-client-consultant-needs",
+    "term": "Two-Spirit",
+    "definition": "A term used by some Indigenous North American cultures to describe a person embodying both masculine and feminine spirit, encompassing gender and sexuality identity."
+  }
+]
