@@ -177,10 +177,72 @@ input[type="email"], input[type="text"] {
 .lesson-nav button { border: 1px solid rgba(23,48,45,0.15); background: var(--paper); padding: 8px 14px; border-radius: 100px; font-size: 12px; font-weight: 600; cursor: pointer; }
 .lesson-nav button.active { background: var(--teal); color: #fff; border-color: var(--teal); }
 
-.lesson-body h2 { font-size: 20px; margin-top: 28px; }
-.lesson-body h3 { font-size: 16px; margin-top: 20px; }
+.lesson-body h2 {
+  font-size: 20px;
+  margin-top: 32px;
+  color: #fff;
+  background: var(--teal);
+  padding: 8px 14px;
+  border-radius: 8px;
+  display: inline-block;
+}
+.lesson-body h3 {
+  font-size: 16px;
+  margin-top: 22px;
+  color: var(--teal-dark);
+  border-left: 4px solid var(--amber);
+  padding-left: 10px;
+}
 .lesson-body p, .lesson-body li { font-size: 15px; line-height: 1.65; color: rgba(23,48,45,0.85); }
 .lesson-body ul { padding-left: 20px; }
+.lesson-body strong { color: var(--teal-dark); }
+
+.lesson-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 18px 0;
+  font-size: 13.5px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(23,48,45,0.08);
+}
+.lesson-body thead th {
+  background: var(--teal);
+  color: #fff;
+  text-align: left;
+  padding: 10px 12px;
+  font-weight: 600;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.lesson-body tbody td {
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(23,48,45,0.1);
+  vertical-align: top;
+}
+.lesson-body tbody tr:nth-child(even) { background: var(--teal-tint); }
+.lesson-body tbody tr:nth-child(odd) { background: var(--paper); }
+.lesson-body tbody tr:hover { background: #fdf1e2; }
+
+.lesson-body blockquote {
+  border-left: 4px solid var(--amber);
+  background: #fdf5e8;
+  margin: 16px 0;
+  padding: 10px 16px;
+  border-radius: 0 8px 8px 0;
+  font-size: 14px;
+  color: var(--teal-dark);
+}
+.lesson-body code {
+  background: var(--teal-tint);
+  color: var(--teal-dark);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+}
 
 .bubble {
   position: fixed;
