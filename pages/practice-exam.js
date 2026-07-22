@@ -41,23 +41,47 @@ function shuffle(arr) {
   return a;
 }
 
+// Case-study questions (batch: "case-study", ids like "cs-maria-q1",
+// "cs-david1-q7") are written as a series where later questions assume the
+// clinical picture established earlier — AND a single case is deliberately
+// tested across multiple domains, just like the real NCMHCE's simulations.
+// So case-groups are built globally across all domains, not per-domain, to
+// guarantee a case's questions always stay together and in order. Standalone
+// questions (every other batch) are never grouped, even if their ids happen
+// to share a prefix.
+function caseGroupKey(q) {
+  if (q.batch !== 'case-study') return q.id;
+  const m = q.id.match(/^(.*)-q\d+$/);
+  return m ? m[1] : q.id;
+}
+function caseQuestionNumber(q) {
+  const m = q.id.match(/-q(\d+)$/);
+  return m ? parseInt(m[1], 10) : 0;
+}
+
 function buildExam() {
-  const pools = {};
-  let total = 0;
-  for (const [moduleId, files] of Object.entries(questionFiles)) {
-    const all = files.flat();
-    pools[moduleId] = all;
-    total += all.length;
+  let allQuestions = [];
+  for (const files of Object.values(questionFiles)) {
+    allQuestions = allQuestions.concat(files.flat());
   }
 
-  // Draw proportionally from each domain so the exam mirrors the real
-  // NCMHCE's mix, and grows automatically as the question bank grows.
-  let examQuestions = [];
-  for (const [moduleId, pool] of Object.entries(pools)) {
-    const share = Math.round((pool.length / total) * EXAM_LENGTH);
-    examQuestions = examQuestions.concat(shuffle(pool).slice(0, Math.min(share, pool.length)));
+  const groupsByKey = {};
+  allQuestions.forEach((q) => {
+    const key = caseGroupKey(q);
+    if (!groupsByKey[key]) groupsByKey[key] = [];
+    groupsByKey[key].push(q);
+  });
+  Object.values(groupsByKey).forEach((g) => g.sort((a, b) => caseQuestionNumber(a) - caseQuestionNumber(b)));
+
+  // Shuffle which groups appear and in what order, but never split a
+  // group's questions apart from each other.
+  const shuffledGroups = shuffle(Object.values(groupsByKey));
+  const examQuestions = [];
+  for (const g of shuffledGroups) {
+    if (examQuestions.length >= EXAM_LENGTH) break;
+    examQuestions.push(...g);
   }
-  return shuffle(examQuestions).slice(0, EXAM_LENGTH);
+  return examQuestions.slice(0, EXAM_LENGTH);
 }
 
 const moduleTitleById = Object.fromEntries(modulesData.map((m) => [m.id, m.title]));
@@ -173,6 +197,11 @@ export default function PracticeExam() {
             </div>
 
             <div className="card">
+              {current > 0 && caseGroupKey(examQuestions[current]) === caseGroupKey(examQuestions[current - 1]) && (
+                <p style={{ fontSize: 12, color: 'var(--teal)', fontWeight: 600, marginTop: 0, marginBottom: 8 }}>
+                  ↳ Continuing the same case as the previous question
+                </p>
+              )}
               <p style={{ fontSize: 15, lineHeight: 1.5, marginBottom: 14 }}>
                 {examQuestions[current].stem}
               </p>
@@ -252,6 +281,7 @@ export default function PracticeExam() {
                 <div className="card" key={q.id}>
                   <p style={{ fontSize: 13, color: 'rgba(23,48,45,0.55)', marginTop: 0 }}>
                     Question {i + 1} · {moduleTitleById[q.module_id] || q.module_id}
+                    {i > 0 && caseGroupKey(q) === caseGroupKey(examQuestions[i - 1]) ? ' · continues previous case' : ''}
                   </p>
                   <p style={{ fontSize: 14, marginBottom: 10 }}>{q.stem}</p>
                   {q.choices.map((choice) => {
