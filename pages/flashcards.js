@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import Head from 'next/head';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
+import AccessGate from '../components/AccessGate';
 import modulesData from '../data/modules';
 import allFlashcards from '../data/flashcards.json';
 
@@ -61,6 +62,7 @@ export default function Flashcards() {
     <div>
       <Head><title>Flashcards — TherapyPrepped</title></Head>
       <Nav />
+      <AccessGate>
       <div className="inner">
         <div className="eyebrow">Quick-recall study mode</div>
         <h1 className="hero" style={{ fontSize: 27 }}>Flashcards</h1>
@@ -168,6 +170,7 @@ export default function Flashcards() {
           </div>
         )}
       </div>
+      </AccessGate>
       <Footer />
     </div>
   );
