@@ -4,7 +4,7 @@ import { getOrCreateDeviceId } from '../lib/deviceId';
 
 const ACCESS_STORAGE_KEY = 'tp_access_email';
 const MAX_DEVICES = 2;
-const SUPPORT_EMAIL = 'therapyprepped@gmail.com'; // swap to support@therapyprepped.com once that forwarding is confirmed working
+const SUPPORT_EMAIL = 'support@therapyprepped.com';
 
 // Wraps any page content and requires a verified, active access pass before
 // rendering it. Reuses the same email-check flow already used on /dashboard.
