@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
+import AccessGate from '../components/AccessGate';
 import modulesData from '../data/modules';
 
 const ACCESS_STORAGE_KEY = 'tp_access_email';
@@ -150,6 +151,7 @@ export default function PracticeExam() {
     <div>
       <Head><title>Full Practice Exam — TherapyPrepped</title></Head>
       <Nav />
+      <AccessGate>
       <div className="inner-wide">
         <div className="eyebrow">Full-length practice exams</div>
         <h1 className="hero" style={{ fontSize: 27 }}>NCMHCE Practice Exams</h1>
@@ -307,6 +309,7 @@ export default function PracticeExam() {
           </div>
         )}
       </div>
+      </AccessGate>
       <Footer />
     </div>
   );
